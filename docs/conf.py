@@ -2,7 +2,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ISO in a Box'
+project = 'advISO Bioinformatics Competency Guide'
 copyright = 'advISO 2026'
 author = 'advISO'
 
@@ -45,10 +45,10 @@ today_fmt = "%Y-%m-%d"
 html_theme = 'sphinx_rtd_theme'
 
 # Path for static files
-html_static_path = ['_static']
+html_static_path = ['source/_static']
 
 # Path to the logo
-html_logo = '_static/logo.png'
+html_logo = 'source/_static/logo.png'
 
 html_theme_options = {
     'logo_only': True,

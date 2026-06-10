@@ -1,7 +1,10 @@
-Welcome to the advISO project's guide to bioinformatics competency tracking
+===========================================================================
+A guide to bioinformatics competency tracking
 ===========================================================================
 
 **Release:** |release| [|today|]
+
+Welcome to the advISO project's guide to bioinformatics competency tracking!
 
 The following pages provide practical guidance on implementing a **bioinformatics competency framework that is fully compatible with the requirements of ISO 15189**. It outlines how laboratories can structure, assess, evidence, and maintain competency for bioinformatics roles in a way that is auditable, reproducible, and aligned with clinical quality management expectations.
 
@@ -14,6 +17,10 @@ Other guides in this series include:
 - Guide to `SOP writing <https://adviso-sop-guide.readthedocs.io/en/latest/>`_
 - Guide to `validating bioinformatics pipelines <http://www.example.com>`_
 - Guide to `performing bioinformatics audits <http://www.example.com>`_
+
+-------------------
+
+This documentation was developed as part of the Wellcome Trust-funded project: “ISO in a Box: Developing a framework to enable the development of end-to-end genomics-based ISO 15189 and ISO 17025 accredited services, anywhere in the world” (Grant Reference: 228162/Z/23/Z)
 
 
 .. toctree::

@@ -1,0 +1,9 @@
+.funding-banner {
+    margin-top: 2em;
+    padding: 1em;
+    background: #f7f7f7;
+    border-top: 1px solid #ddd;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    text-align: center;
+}

@@ -1,5 +1,5 @@
-Welcome to the advISO Guide to Bionformatics Competency Tracking
-================================================================
+The advISO Guide to Bionformatics Competency Tracking
+=====================================================
 
 Proposed structure:
     1. Requirements of the ISO standards
@@ -17,9 +17,9 @@ Proposed structure:
 
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
 
+   source/competency_guide/introduction
    source/competency_guide/iso_requirements
    source/competency_guide/direct_observations_of_practice
    source/competency_guide/intro_competency_frameworks

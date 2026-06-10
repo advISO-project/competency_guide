@@ -1,9 +1,7 @@
-A Guide to Bionformatics Competency Tracking
-============================================
+Welcome to the advISO project's guide to bioinformatics competency tracking
+===========================================================================
 
 **Release:** |release| [|today|]
-
-Welcome to the **advISO** project's guide to bioinformatics competency tracking.
 
 The following pages provide practical guidance on implementing a **bioinformatics competency framework that is fully compatible with the requirements of ISO 15189**. It outlines how laboratories can structure, assess, evidence, and maintain competency for bioinformatics roles in a way that is auditable, reproducible, and aligned with clinical quality management expectations.
 
@@ -13,9 +11,9 @@ This guide is part of a a broader series of practical “how-to” resources tha
 
 Other guides in this series include:
 
-- Guide to `SOP writing <http://www.example.com>`_
-- Guide to validating bioinformatics pipelines
-- Guide to performing bioinformatics audits
+- Guide to `SOP writing <https://adviso-sop-guide.readthedocs.io/en/latest/>`_
+- Guide to `validating bioinformatics pipelines <http://www.example.com>`_
+- Guide to `performing bioinformatics audits <http://www.example.com>`_
 
 
 .. toctree::

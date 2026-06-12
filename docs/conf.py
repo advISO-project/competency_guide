@@ -26,7 +26,6 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-templates_path = ['_templates']
 
 # -- Custom substitutions ----------------------------------------------------
 
@@ -44,10 +43,6 @@ today_fmt = "%Y-%m-%d"
 
 html_theme = 'sphinx_rtd_theme'
 
-# Path for static files
-html_static_path = ['source/_static']
-templates_path = ['_templates']
-
 # Path to the logo
 html_logo = 'source/_static/logo.png'
 
@@ -55,8 +50,6 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
 }
-
-html_css_files = ['custom.css']
 
 # -- Options for EPUB output -------------------------------------------------
 

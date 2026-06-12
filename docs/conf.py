@@ -43,6 +43,9 @@ today_fmt = "%Y-%m-%d"
 
 html_theme = 'sphinx_rtd_theme'
 
+# Path for static files
+html_static_path = ['source/_static']
+
 # Path to the logo
 html_logo = 'source/_static/logo.png'
 

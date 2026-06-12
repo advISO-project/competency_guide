@@ -19,3 +19,10 @@ A skills framework for bioinformatics
   * - Expert
     - Selects biological problems to be addressed by computer science techniques
 
+
+
+
+
+.. tabs::
+   .. tab:: 1.1 Domain-specific biology principles
+   .. tab:: 1.2 Domain-specific computer science principles

@@ -1,5 +1,5 @@
-A skills framework for bioinformatics
-=====================================
+A bioinformatics skills framework for pathogen genomics
+=======================================================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -120,7 +120,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
          * - Expert
            - Generates hypotheses to predict future implications based on the evaluation of data analyses
 
-   .. tab:: 3.3 Visualization and representation
+   .. tab:: 3.3 Visualization
 
       .. list-table::
          :header-rows: 1
@@ -219,24 +219,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
          * - Expert
            - Develops new data storage and retrieval techniques
 
-   .. tab:: 4.4 Computing resource allocation
-
-      .. list-table::
-         :header-rows: 1
-         :width: 100
-         :widths: 20 80
-
-         * - Level
-           - Description
-         * - Beginner
-           - Describe available computing resources and capacity
-         * - Competent
-           - Allocates computing resources
-         * - Proficient
-           - Manages allocation of multiple computing resources
-         * - Expert
-           - Develops new methods for allocation of computing resources
-
 
 --------------------
 
@@ -307,6 +289,25 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 To be developed
 
+.. tabs::
+   .. tab:: 6.1 Computing resource allocation
+
+         .. list-table::
+            :header-rows: 1
+            :width: 100
+            :widths: 20 80
+
+            * - Level
+            - Description
+            * - Beginner
+            - Describe available computing resources and capacity
+            * - Competent
+            - Allocates computing resources
+            * - Proficient
+            - Manages allocation of multiple computing resources
+            * - Expert
+            - Develops new methods for allocation of computing resources
+
 
 --------------------
 
@@ -333,5 +334,13 @@ To be developed
            - Can utilise and navigate controlled documents within the QMS (iPassport) with sufficient skill and knowledge, and can add tasks for users to complete within the QMS
          * - Expert
            - Can review, authorise, and publish new documentation within the QMS
+
+   .. tab:: 7.2 Validation
+
+         Add content
+
+   .. tab:: 7.3 Auditing
+
+         Add content
 
 --------------------

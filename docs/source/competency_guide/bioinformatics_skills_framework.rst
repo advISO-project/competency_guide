@@ -78,7 +78,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 3.1 Data analysis
+   .. tab:: 3.1 Analysis
 
       .. list-table::
          :header-rows: 1
@@ -96,7 +96,7 @@ A skills framework for bioinformatics
          * - Expert
            - Creates stand-alone analysis tools/pipelines
    
-   .. tab:: 3.2 Data interpretation
+   .. tab:: 3.2 Interpretation
       
       .. list-table::
          :header-rows: 1
@@ -114,7 +114,7 @@ A skills framework for bioinformatics
          * - Expert
            - Generates hypotheses to predict future implications based on the evaluation of data analyses
 
-   .. tab:: 3.3 Data visualization and representation
+   .. tab:: 3.3 Visualization and representation
 
       .. list-table::
          :header-rows: 1
@@ -159,7 +159,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 4.1 Data structures
+   .. tab:: 4.1 Structures
 
       .. list-table::
          :header-rows: 1
@@ -177,7 +177,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new data structures
 
-   .. tab:: 4.2 Data management
+   .. tab:: 4.2 Management
 
       .. list-table::
          :header-rows: 1
@@ -195,7 +195,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new data management techniques
 
-   .. tab:: 4.3 Data storage and retrieval
+   .. tab:: 4.3 Storage and retrieval
 
       .. list-table::
          :header-rows: 1
@@ -213,7 +213,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new data storage and retrieval techniques
 
-   .. tab:: 4.4 Allocation of computing resources
+   .. tab:: 4.4 Computing resource allocation
 
       .. list-table::
          :header-rows: 1
@@ -294,34 +294,23 @@ A skills framework for bioinformatics
          * - Expert
            - Contributes novel findings about pathogens using genomics. Is able to develop and apply new approaches/ways of analysing pathogen genomic data
 
-   .. tab:: 5.4 Enterprise IT
 
-      .. list-table::
-         :header-rows: 1
-         :width: 100
-         :widths: 20 80
+--------------------
 
-         * - Level
-           - Description
-         * - Beginner
-           - Is able to undertake basic IT maintenance tasks 
-         * - Competent
-           - Understands IT architecture and server management
-         * - Proficient
-           - Manages and problem solves issues with IT infrastructure
-         * - Expert
-           - Is able to design and deploy new IT infrastructure
+**Competency Area 6:  System administration**
+
+To be developed
 
 
 --------------------
 
-**Competency Area 6:  Quality Management (QM)**
+**Competency Area 7:  Quality Management (QM)**
 
 *Objective:*  Demonstrates expertise to support quality management activities undertaken in unit and provide informed advice
 
 .. tabs::
 
-   .. tab:: 6.1 Document Control
+   .. tab:: 7.1 Document Control
 
       .. list-table::
          :header-rows: 1

@@ -29,5 +29,6 @@ Other guides in this series include:
     source/competency_guide/direct_observations_of_practice
     source/competency_guide/intro_competency_frameworks
     source/competency_guide/bioinformatics_skills_framework
+    source/competency_guide/_bioinformatics_skills_framework
     source/competency_guide/bioinformatics_assessment_framework
     source/competency_guide/bioinformatics_training_framework

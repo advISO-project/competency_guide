@@ -7,9 +7,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 1.1
-
-      **Domain-specific biology principles**
+   .. tab:: 1.1 Biology principles
 
       .. list-table::
          :header-rows: 1
@@ -27,9 +25,7 @@ A skills framework for bioinformatics
          * - Expert
            - Selects biological problems to be addressed by computer science techniques
 
-   .. tab:: 1.2
-
-      **Domain-specific computer science principles**
+   .. tab:: 1.2 Computer science principles
 
       .. list-table::
          :header-rows: 1
@@ -55,9 +51,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 2.1
-
-      **Statistical analysis**
+   .. tab:: 2.1 Statistical analysis
 
       .. list-table::
          :header-rows: 1
@@ -84,9 +78,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 3.1
-
-      **Data analysis**
+   .. tab:: 3.1 Data analysis
 
       .. list-table::
          :header-rows: 1
@@ -104,10 +96,8 @@ A skills framework for bioinformatics
          * - Expert
            - Creates stand-alone analysis tools/pipelines
    
-   .. tab:: 3.2
-
-      **Data interpretation**
-
+   .. tab:: 3.2 Data interpretation
+      
       .. list-table::
          :header-rows: 1
          :width: 100
@@ -124,9 +114,7 @@ A skills framework for bioinformatics
          * - Expert
            - Generates hypotheses to predict future implications based on the evaluation of data analyses
 
-   .. tab:: 3.3
-
-      **Data visualization and representation**
+   .. tab:: 3.3 Data visualization and representation
 
       .. list-table::
          :header-rows: 1
@@ -144,9 +132,7 @@ A skills framework for bioinformatics
          * - Expert
            - Modifies existing visualization and representation tools to provide insight into bioinformatics analyses
 
-   .. tab:: 3.4
-
-      **Communication**
+   .. tab:: 3.4 Communication
 
       .. list-table::
          :header-rows: 1
@@ -173,9 +159,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 4.1
-
-      **Data structures**
+   .. tab:: 4.1 Data structures
 
       .. list-table::
          :header-rows: 1
@@ -193,9 +177,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new data structures
 
-   .. tab:: 4.2
-
-      **Data management**
+   .. tab:: 4.2 Data management
 
       .. list-table::
          :header-rows: 1
@@ -213,9 +195,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new data management techniques
 
-   .. tab:: 4.3
-
-      **Data storage and retrieval**
+   .. tab:: 4.3 Data storage and retrieval
 
       .. list-table::
          :header-rows: 1
@@ -233,9 +213,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new data storage and retrieval techniques
 
-   .. tab:: 4.4
-
-      **Allocation of computing resources**
+   .. tab:: 4.4 Allocation of computing resources
 
       .. list-table::
          :header-rows: 1
@@ -262,9 +240,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 5.1
-
-      **Genomic Epidemiology**
+   .. tab:: 5.1 Genomic epidemiology
 
       .. list-table::
          :header-rows: 1
@@ -282,9 +258,7 @@ A skills framework for bioinformatics
          * - Expert
            - Is able to undertake and develop advanced, model-based approaches to infer transmission events
 
-   .. tab:: 5.2
-
-      **Population genomics**
+   .. tab:: 5.2 Population genomics
 
       .. list-table::
          :header-rows: 1
@@ -302,9 +276,7 @@ A skills framework for bioinformatics
          * - Expert
            - Is able to develop new clustering algorithms to subdivide populations
 
-   .. tab:: 5.3
-
-      **Pathogen genomics**
+   .. tab:: 5.3 Pathogen genomics
 
       .. list-table::
          :header-rows: 1
@@ -322,9 +294,7 @@ A skills framework for bioinformatics
          * - Expert
            - Contributes novel findings about pathogens using genomics. Is able to develop and apply new approaches/ways of analysing pathogen genomic data
 
-   .. tab:: 5.4
-
-      **Enterprise IT**
+   .. tab:: 5.4 Enterprise IT
 
       .. list-table::
          :header-rows: 1
@@ -351,9 +321,7 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 6.1
-
-      **Document Control**
+   .. tab:: 6.1 Document Control
 
       .. list-table::
          :header-rows: 1
@@ -370,3 +338,5 @@ A skills framework for bioinformatics
            - Can utilise and navigate controlled documents within the QMS (iPassport) with sufficient skill and knowledge, and can add tasks for users to complete within the QMS
          * - Expert
            - Can review, authorise, and publish new documentation within the QMS
+
+--------------------

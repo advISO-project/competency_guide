@@ -24,7 +24,7 @@ Other guides in this series include:
     :hidden:
     :maxdepth: 2
 
-    source/competency_guide/introduction
+    index
     source/competency_guide/iso_requirements
     source/competency_guide/direct_observations_of_practice
     source/competency_guide/intro_competency_frameworks

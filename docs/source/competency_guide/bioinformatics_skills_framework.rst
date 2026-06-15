@@ -13,6 +13,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -32,6 +33,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -45,6 +47,7 @@ A skills framework for bioinformatics
          * - Expert
            - Develops new understandings of computer science domains to apply to biological problems
 
+--------------------
 
 **Competency Area 2: Statistical methods knowledge**
 
@@ -58,6 +61,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -72,6 +76,7 @@ A skills framework for bioinformatics
            - Oversees selection of advanced statistical methods applicable to specific bioinformatics analyses
 
 
+--------------------
 
 **Competency Area 3: Biological Data Analysis**
 
@@ -85,6 +90,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -104,6 +110,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -123,6 +130,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -142,6 +150,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -156,6 +165,8 @@ A skills framework for bioinformatics
            - Contributes to new findings and meaningful advancements in bioinformatics through the evaluation and sharing of knowledge
 
 
+--------------------
+
 **Competency Area 4: Biological Data management**
 
 *Objective:* Demonstrates the ability to perform data management, storage, and retrieval
@@ -168,6 +179,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -187,6 +199,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -206,6 +219,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -225,6 +239,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -239,6 +254,8 @@ A skills framework for bioinformatics
            - Develops new methods for allocation of computing resources
 
 
+--------------------
+
 **Competency Area 5: Domain-specific expertise**
 
 *Objective:* Demonstrates domain specific expertise to support activities undertaken in unit and provide informed advice
@@ -251,6 +268,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -270,6 +288,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -289,6 +308,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -308,6 +328,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level
@@ -322,6 +343,8 @@ A skills framework for bioinformatics
            - Is able to design and deploy new IT infrastructure
 
 
+--------------------
+
 **Competency Area 6:  Quality Management (QM)**
 
 *Objective:*  Demonstrates expertise to support quality management activities undertaken in unit and provide informed advice
@@ -334,6 +357,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :width: 100
          :widths: 20 80
 
          * - Level

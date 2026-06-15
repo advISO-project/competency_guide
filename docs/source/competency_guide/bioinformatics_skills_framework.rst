@@ -337,10 +337,38 @@ To be developed
 
    .. tab:: 7.2 Validation
 
-         Add content
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
+
+         * - Level
+           - Description
+         * - Beginner
+           - Understands the purpose of validation and follows established procedures under supervision
+         * - Competent
+           - Performs validation tasks independently, applies protocols correctly, and documents outcomes accurately
+         * - Proficient
+           - Designs validation plans, evaluates results, and advises on appropriate validation methods
+         * - Expert
+           - Leads validation activities, defines standards and acceptance criteria, and develops organisation-wide validation approaches
 
    .. tab:: 7.3 Auditing
 
-         Add content
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
+
+         * - Level
+           - Description
+         * - Beginner
+           - Understands the purpose of audits and follows established audit procedures under supervision
+         * - Competent
+           - Carries out audit tasks independently, gathers evidence, and documents findings accurately
+         * - Proficient
+           - Plans audits, evaluates compliance, identifies non‑conformities, and advises on corrective actions
+         * - Expert
+           - Leads audit activities, defines audit strategies, and oversees organisation‑wide audit processes
 
 --------------------

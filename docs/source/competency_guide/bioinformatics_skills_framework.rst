@@ -13,6 +13,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -31,6 +32,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -56,6 +58,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -82,6 +85,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -100,6 +104,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -118,6 +123,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -136,6 +142,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -161,6 +168,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -179,6 +187,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -197,6 +206,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -215,6 +225,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -240,6 +251,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -258,6 +270,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -276,6 +289,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -294,6 +308,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description
@@ -319,6 +334,7 @@ A skills framework for bioinformatics
 
       .. list-table::
          :header-rows: 1
+         :widths: 20 80
 
          * - Level
            - Description

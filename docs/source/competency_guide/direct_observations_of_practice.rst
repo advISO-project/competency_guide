@@ -1,4 +1,4 @@
-Why Traditional Competency Assessment Methods Do Not Work for Bioinformatics
+Why traditional competency assessment methods do not work for bioinformatics
 ============================================================================
 
 Established competency assessment tools such as Direct Observations of Practice (DOPs) are designed for disciplines where work is procedural, linear, and physically observable. In clinical and laboratory environments, this makes them highly effective. For example, in a pathogen genomics wet laboratory, many tasks—such as performing DNA extraction, preparing sequencing libraries, or operating specialised equipment—follow well-defined, repeatable steps. These actions can be directly watched, evaluated against a standard operating procedure, and scored using structured checklists. This is precisely the context in which DOPs were created and where they continue to be widely used.

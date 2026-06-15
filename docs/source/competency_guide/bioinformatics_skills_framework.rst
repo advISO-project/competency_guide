@@ -3,10 +3,14 @@ A skills framework for bioinformatics
 
 .. tabs::
 
-   .. tab:: 1.1 Domain-specific biology principles
+   .. tab:: 1.1 Biology principles
 
-      Content for biology principles goes here.
+      **Domain-specific biology principles**
 
-   .. tab:: 1.2 Domain-specific computer science principles
+      Add
 
-      Content for computer science principles goes here.
+   .. tab:: 1.2 Computer science principles
+
+      **Domain-specific computer science principles**
+
+      Add

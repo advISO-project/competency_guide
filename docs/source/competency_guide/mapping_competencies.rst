@@ -1,4 +1,4 @@
-Mapping competency to Standard Operating Procedures (SOPs)
+Mapping competencies to Standard Operating Procedures (SOPs)
 ==========================================================
 
 Purpose of competency mapping
@@ -6,7 +6,7 @@ Purpose of competency mapping
 
 The competency framework describes broad areas of skill, but these competencies alone do not demonstrate that an individual is ready to undertake a specific standard operating procedure. Most bioinformatics SOPs require several competencies to be demonstrated together, often at different levels, and the evidence provided in a portfolio does not automatically confirm readiness to perform a defined task. To address this, an additional step is required to translate evidenced skills into task-level competence.
 
-Linking Competencies to Practical Tasks
+Linking competencies to practical tasks
 ----------------------------------------
 
 To achieve this, each SOP is mapped to the minimum competency levels required to carry it out safely and effectively. This mapping process ensures that the broad competencies in the framework can be applied directly to operational work. It also encourages senior staff to consider the skills and expertise required when developing new procedures, and can highlight areas where the competency framework may need refinement or expansion.
@@ -27,7 +27,7 @@ This structured approach provides a transparent method for determining whether a
 
 ------------------------------------------------------------------------------------------------
 
-Alignment with ISO Standards Requirements
+Alignment with ISO standards requirements
 -----------------------------------------
 
 Competency mapping aligns closely with the expectations of ISO 15189 and ISO 17025, both of which require laboratories to demonstrate that personnel are competent to perform the activities they are authorised to carry out. These standards emphasise the need for documented evidence of education, training, skills, and experience, as well as ongoing evaluation of competence.
@@ -40,8 +40,8 @@ This approach provides a defensible, auditable method for demonstrating operatio
 
 ------------------------------------------------------------------------------------------------
 
-Integrating DOPS for Simple or Routine Tasks
---------------------------------------------
+Integrating DOPS for simple or routine Tasks
+---------------------------------------------
 
 The competency-mapping approach is less effective for simple, single-step, or highly procedural tasks, where direct observation is more appropriate. For these tasks, DOPS (Direct Observation of Procedural Skills) remains the preferred assessment method. DOPS is particularly useful for routine bioinformatics tasks that must be performed daily, weekly, or monthly, where competence can be demonstrated quickly through observed performance.
 
@@ -49,7 +49,7 @@ To ensure a balanced and efficient approach to staff development, DOPS assessmen
 
 ------------------------------------------------------------------------------------------------
 
-A Flexible and Scalable Assessment System
+A flexible and scalable assessment system
 -----------------------------------------
 
 Combining portfolio-based competency assessment with SOP mapping and DOPS provides a flexible, scalable system that can evolve with service needs. It allows the framework to be iterated and improved without altering the underlying structure, ensures that staff capability is assessed consistently, and provides a clear, ISO-aligned method for demonstrating operational readiness.

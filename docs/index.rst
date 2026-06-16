@@ -10,3 +10,4 @@
     source/competency_guide/bioinformatics_assessment_framework
     source/competency_guide/mapping_competencies
     source/competency_guide/bioinformatics_training_framework
+    source/competency_guide/summary

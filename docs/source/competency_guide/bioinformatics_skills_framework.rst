@@ -292,95 +292,96 @@ Although the framework presented here is tailored to pathogen genomics, it has b
 To be developed
 
 .. tabs::
+
    .. tab:: 6.1 Allocation of computing resources
 
-         .. list-table::
-            :header-rows: 1
-            :width: 100
-            :widths: 20 80
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
 
-            * - Level
-            - Description
-            * - Beginner
-            - Describe available computing resources and capacity 
-            * - Competent
-            - Allocates computing resources
-            * - Proficient
-            - Manages allocation of multiple computing resources
-            * - Expert
-            - Develops new methods for allocation of computing resources
+         * - Level
+           - Description
+         * - Beginner
+           - Describe available computing resources and capacity 
+         * - Competent
+           - Allocates computing resources
+         * - Proficient
+           - Manages allocation of multiple computing resources
+         * - Expert
+           - Develops new methods for allocation of computing resources
 
    .. tab:: 6.2 Software and environment management
 
-         .. list-table::
-            :header-rows: 1
-            :width: 100
-            :widths: 20 80
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
 
-            * - Level
-            - Description
-            * - Beginner
-            - Installs software using established procedures
-            * - Competent
-            - Maintains software stacks and manages environments (e.g. conda)
-            * - Proficient
-            - Optimises environments, resolves dependency issues, and ensures reproducibility
-            * - Expert
-            - Designs organisation-wide environment strategies and standardised software stacks
+         * - Level
+           - Description
+         * - Beginner
+           - Installs software using established procedures
+         * - Competent
+           - Maintains software stacks and manages environments (e.g. conda)
+         * - Proficient
+           - Optimises environments, resolves dependency issues, and ensures reproducibility
+         * - Expert
+           - Designs organisation-wide environment strategies and standardised software stacks
 
    .. tab:: 6.3 Storage and data lifecycle management
 
-         .. list-table::
-            :header-rows: 1
-            :width: 100
-            :widths: 20 80
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
 
-            * - Level
-            - Description
-            * - Beginner
-            - Describes storage systems and follows data‑organisation procedures
-            * - Competent
-            - Manages storage allocation and applies retention policies
-            * - Proficient
-            - Oversees data lifecycle processes including archival, backup, and retrieval
-            * - Expert
-            - Designs large-scale storage architectures and long-term data-lifecycle strategies
+         * - Level
+           - Description
+           * - Beginner
+           - Describes storage systems and follows data‑organisation procedures
+         * - Competent
+           - Manages storage allocation and applies retention policies
+         * - Proficient
+           - Oversees data lifecycle processes including archival, backup, and retrieval
+         * - Expert
+           - Designs large-scale storage architectures and long-term data-lifecycle strategies
 
    .. tab:: 6.4 System monitoring and performance optimisation
 
-         .. list-table::
-            :header-rows: 1
-            :width: 100
-            :widths: 20 80
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
 
-            * - Level
-            - Description
-            * - Beginner
-            - Uses basic monitoring tools to observe system status
-            * - Competent
-            - Identifies simple performance issues and reports them appropriately
-            * - Proficient
-            - Diagnoses and resolves performance issues across compute and storage systems
-            * - Expert
-            - Designs performance-optimised system architectures and monitoring frameworks
+         * - Level
+           - Description
+         * - Beginner
+           - Uses basic monitoring tools to observe system status
+         * - Competent
+           - Identifies simple performance issues and reports them appropriately
+         * - Proficient
+           - Diagnoses and resolves performance issues across compute and storage systems
+         * - Expert
+           - Designs performance-optimised system architectures and monitoring frameworks
 
    .. tab:: 6.5 Security and access control
 
-         .. list-table::
-            :header-rows: 1
-            :width: 100
-            :widths: 20 80
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
 
-            * - Level
-            - Description
-            * - Beginner
-            - Follows security procedures and uses approved authentication methods
-            * - Competent
-            - Manages user accounts, permissions, and routine access controls
-            * - Proficient
-            - Implements security controls, audits access, and ensures compliance with policies
-            * - Expert
-            - Designs secure, compliant infrastructure and organisation‑wide access‑control strategies
+         * - Level
+           - Description
+         * - Beginner
+           - Follows security procedures and uses approved authentication methods
+         * - Competent
+           - Manages user accounts, permissions, and routine access controls
+         * - Proficient
+           - Implements security controls, audits access, and ensures compliance with policies
+         * - Expert
+           - Designs secure, compliant infrastructure and organisation‑wide access‑control strategies
 
 
 --------------------

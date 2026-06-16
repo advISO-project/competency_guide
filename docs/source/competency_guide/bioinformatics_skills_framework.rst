@@ -7,9 +7,10 @@ The framework is designed to describe responsibilities rather than roles. Bioinf
 
 Although the framework presented here is tailored to pathogen genomics, it has been intentionally designed to be easily adapted to other areas of clinical bioinformatics. By replacing the domain-specific competencies in Section 5, the same structure can be applied to fields such as rare-disease genomics, cancer genetics, or other diagnostic and research applications.
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 1: Biology and computer science knowledge**
+Competency Area 1: Biology and computer science knowledge
+---------------------------------------------------------
 
 *Objective:* Develops new understandings of computer science domains to apply to biological problems
 
@@ -51,9 +52,10 @@ Although the framework presented here is tailored to pathogen genomics, it has b
          * - Expert
            - Develops new understandings of computer science domains to apply to biological problems
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 2: Statistical methods knowledge**
+Competency Area 2: Statistical methods knowledge
+------------------------------------------------
 
 *Objective:* Demonstrates the ability to apply knowledge of statistical methods for analysis of biological data
 
@@ -78,9 +80,10 @@ Although the framework presented here is tailored to pathogen genomics, it has b
            - Oversees selection of advanced statistical methods applicable to specific bioinformatics analyses
 
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 3: Biological Data Analysis**
+Competency Area 3: Biological Data Analysis
+-------------------------------------------
 
 *Objective:* Demonstrates the ability analyse microbiological data, principally using genome sequence data
 
@@ -159,9 +162,11 @@ Although the framework presented here is tailored to pathogen genomics, it has b
            - Contributes to new findings and meaningful advancements in bioinformatics through the evaluation and sharing of knowledge
 
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 4: Biological Data management**
+
+Competency Area 4: Biological Data management
+---------------------------------------------
 
 *Objective:* Demonstrates the ability to perform data management, storage, and retrieval
 
@@ -222,9 +227,10 @@ Although the framework presented here is tailored to pathogen genomics, it has b
            - Develops new data storage and retrieval techniques
 
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 5: Domain-specific expertise**
+Competency Area 5: Domain-specific expertise
+--------------------------------------------
 
 *Objective:* Demonstrates domain specific expertise to support activities undertaken in unit and provide informed advice
 
@@ -285,9 +291,10 @@ Although the framework presented here is tailored to pathogen genomics, it has b
            - Contributes novel findings about pathogens using genomics. Is able to develop and apply new approaches/ways of analysing pathogen genomic data
 
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 6:  System administration**
+Competency Area 6:  System administration
+-----------------------------------------
 
 *Objective:* Carries out the infrastructure‑focused responsibilities necessary to maintain, secure, and optimise the computational environment used for bioinformatics
 
@@ -384,9 +391,10 @@ Although the framework presented here is tailored to pathogen genomics, it has b
            - Designs secure, compliant infrastructure and organisation‑wide access‑control strategies
 
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 7: Workflow engineering and software development**			
+Competency Area 7: Workflow engineering and software development		
+----------------------------------------------------------------
 
 *Objective:*  Demonstrates the ability to develop, maintain, and optimise bioinformatics pipelines, workflows, and supporting software
 
@@ -465,9 +473,10 @@ Although the framework presented here is tailored to pathogen genomics, it has b
            - Designs development workflows and oversees collaborative engineering practices
 
 
---------------------
+------------------------------------------------------------------------------------------------
 
-**Competency Area 8:  Quality Management (QM)**
+Competency Area 8:  Quality Management
+--------------------------------------
 
 *Objective:*  Demonstrates expertise to support quality management activities undertaken in unit and provide informed advice
 
@@ -527,4 +536,4 @@ Although the framework presented here is tailored to pathogen genomics, it has b
          * - Expert
            - Leads audit activities, defines audit strategies, and oversees organisation‑wide audit processes
 
---------------------
+

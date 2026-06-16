@@ -392,7 +392,7 @@ Although the framework presented here is tailored to pathogen genomics, it has b
 
 .. tabs::
 
-   .. tab:: 7.1 Pipeline orchestration
+   .. tab:: 7.1 Orchestration
 
       .. list-table::
          :header-rows: 1
@@ -410,7 +410,7 @@ Although the framework presented here is tailored to pathogen genomics, it has b
          * - Expert
            - Develops organisation-wide workflow strategies and optimises distributed execution
 
-   .. tab:: 7.2 Containers & reproducibility
+   .. tab:: 7.2 Containerization
 
       .. list-table::
          :header-rows: 1
@@ -428,7 +428,7 @@ Although the framework presented here is tailored to pathogen genomics, it has b
          * - Expert
            - Develops container strategies and maintains internal registries
 
-   .. tab:: 7.3 Bioinformatics software
+   .. tab:: 7.3 Software development
 
       .. list-table::
          :header-rows: 1
@@ -446,7 +446,7 @@ Although the framework presented here is tailored to pathogen genomics, it has b
          * - Expert
            - Leads development of new tools, frameworks, or libraries
 
-   .. tab:: 7.4 Version control & collaboration
+   .. tab:: 7.4 Version control
 
       .. list-table::
          :header-rows: 1

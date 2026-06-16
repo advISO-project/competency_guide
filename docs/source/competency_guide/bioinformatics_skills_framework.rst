@@ -289,7 +289,7 @@ Although the framework presented here is tailored to pathogen genomics, it has b
 
 **Competency Area 6:  System administration**
 
-To be developed
+*Objective:* Carries out the infrastructure‑focused responsibilities necessary to maintain, secure, and optimise the computational environment used for bioinformatics
 
 .. tabs::
 

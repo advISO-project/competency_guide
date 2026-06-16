@@ -290,6 +290,11 @@ Competency Area 5: Domain-specific expertise
          * - Expert
            - Contributes novel findings about pathogens using genomics. Is able to develop and apply new approaches/ways of analysing pathogen genomic data
 
+.. raw:: html
+
+   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
+     Download competency form
+   </button>
 
 ------------------------------------------------------------------------------------------------
 

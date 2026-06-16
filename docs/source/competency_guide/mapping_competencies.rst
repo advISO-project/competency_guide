@@ -1,7 +1,13 @@
-Mapping Competency to Standard Operating Procedures (SOPs)
+Mapping competency to Standard Operating Procedures (SOPs)
 ==========================================================
 
+Purpose of competency mapping
+------------------------------
+
 The competency framework describes broad areas of skill, but these competencies alone do not demonstrate that an individual is ready to undertake a specific standard operating procedure. Most bioinformatics SOPs require several competencies to be demonstrated together, often at different levels, and the evidence provided in a portfolio does not automatically confirm readiness to perform a defined task. To address this, an additional step is required to translate evidenced skills into task-level competence.
+
+Linking Competencies to Practical Tasks
+----------------------------------------
 
 To achieve this, each SOP is mapped to the minimum competency levels required to carry it out safely and effectively. This mapping process ensures that the broad competencies in the framework can be applied directly to operational work. It also encourages senior staff to consider the skills and expertise required when developing new procedures, and can highlight areas where the competency framework may need refinement or expansion.
 
@@ -47,4 +53,3 @@ A Flexible and Scalable Assessment System
 -----------------------------------------
 
 Combining portfolio-based competency assessment with SOP mapping and DOPS provides a flexible, scalable system that can evolve with service needs. It allows the framework to be iterated and improved without altering the underlying structure, ensures that staff capability is assessed consistently, and provides a clear, ISO-aligned method for demonstrating operational readiness.
-

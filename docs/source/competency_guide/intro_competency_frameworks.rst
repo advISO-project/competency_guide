@@ -1,5 +1,8 @@
-Competency frameworks: An alternative for Bioinformatics
+Competency frameworks: An alternative for bioinformatics
 ========================================================
+
+Why competency frameworks suit bioinformatics
+----------------------------------------------
 
 Competency frameworks offer a structured way to define the skills, knowledge, and behaviours required for effective performance in a role. They are particularly valuable in bioinformatics, where work is analytical, iterative, and often cannot be assessed through direct observation of a single, standardised procedure. Instead of focusing on visible tasks, competency frameworks capture the broader capabilities that underpin real-world practice—such as troubleshooting, data interpretation, pipeline development, and analytical reasoning.
 
@@ -19,7 +22,8 @@ Because of these advantages, competency frameworks offer a more flexible and app
 
 --------------------
 
-**What the following pages provide**
+What the following pages provide
+---------------------------------
 
 The following pages set out the core components needed to implement a competency‑based approach for bioinformatics:
 

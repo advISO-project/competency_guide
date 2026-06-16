@@ -293,7 +293,7 @@ To be developed
 
 .. tabs::
 
-   .. tab:: 6.1 Allocation of computing resources
+   .. tab:: 6.1 Compute allocation
 
       .. list-table::
          :header-rows: 1
@@ -311,7 +311,7 @@ To be developed
          * - Expert
            - Develops new methods for allocation of computing resources
 
-   .. tab:: 6.2 Software and environment management
+   .. tab:: 6.2 Software & environments
 
       .. list-table::
          :header-rows: 1
@@ -329,7 +329,7 @@ To be developed
          * - Expert
            - Designs organisation-wide environment strategies and standardised software stacks
 
-   .. tab:: 6.3 Storage and data lifecycle management
+   .. tab:: 6.3 Storage & lifecycle
 
       .. list-table::
          :header-rows: 1
@@ -338,7 +338,7 @@ To be developed
 
          * - Level
            - Description
-           * - Beginner
+         * - Beginner
            - Describes storage systems and follows data‑organisation procedures
          * - Competent
            - Manages storage allocation and applies retention policies
@@ -347,7 +347,7 @@ To be developed
          * - Expert
            - Designs large-scale storage architectures and long-term data-lifecycle strategies
 
-   .. tab:: 6.4 System monitoring and performance optimisation
+   .. tab:: 6.4 System monitoring
 
       .. list-table::
          :header-rows: 1
@@ -365,7 +365,7 @@ To be developed
          * - Expert
            - Designs performance-optimised system architectures and monitoring frameworks
 
-   .. tab:: 6.5 Security and access control
+   .. tab:: 6.5 Security & access
 
       .. list-table::
          :header-rows: 1
@@ -386,7 +386,7 @@ To be developed
 
 --------------------
 
-**Competency Area 7: Workflow Engineering and Software Development				
+**Competency Area 7: Workflow engineering and software development**			
 
 *Objective:*  Demonstrates the ability to develop, maintain, and optimise bioinformatics pipelines, workflows, and supporting software
 
@@ -410,7 +410,7 @@ To be developed
          * - Expert
            - Develops organisation-wide workflow strategies and optimises distributed execution
 
-   .. tab:: 7.2 Containerisation and reproducible environments 
+   .. tab:: 7.2 Containers & reproducibility
 
       .. list-table::
          :header-rows: 1
@@ -428,7 +428,7 @@ To be developed
          * - Expert
            - Develops container strategies and maintains internal registries
 
-   .. tab:: 7.3 Software development for bioinformatics
+   .. tab:: 7.3 Bioinformatics software
 
       .. list-table::
          :header-rows: 1
@@ -446,7 +446,7 @@ To be developed
          * - Expert
            - Leads development of new tools, frameworks, or libraries
 
-   .. tab:: 7.4 Version control and collaborative development
+   .. tab:: 7.4 Version control & collaboration
 
       .. list-table::
          :header-rows: 1

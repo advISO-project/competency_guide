@@ -5,12 +5,53 @@ Across the two ISO standards most relevant to laboratory-based bioinformatics: I
 
 Although the standards differ in scope, they share three core competency requirements that directly shape how bioinformatics teams must operate.
 
-**Core competency requirements**
+------------------------------------------------------------------------------------------
 
-- **Personnel must be competent for the tasks they perform:** ISO 15189 and ISO 17025 both require that staff only carry out work for which they have been appropriately trained, assessed, and authorised.
+Core competency requirements
+-----------------------------
 
-- **Competency must be assessed and documented:** Laboratories must maintain clear, traceable records showing how competence was achieved and demonstrated. This includes training records, assessment outcomes, authorisation status, and periodic reassessment. These records must be available for audit and accreditation.
+**1. Personnel must be competent for the tasks they perform**
+Both ISO 15189 and ISO 17025 require that staff only carry out work for which they have been appropriately trained, assessed, and authorised.
 
-- **Competency must be maintained over time:** Both standards emphasise that competence is not static. Staff must receive ongoing training and reassessment.
+**2. Competency must be assessed and documented**
 
-Meeting these competency requirements is straightforward in traditional "wet" laboratory settings but significantly more challenging in bioinformatics, where work is computational, iterative, and problem-solving driven. The following pages outline practical, bioinformatics-specific approaches to meeting these ISO expectations.
+Laboratories must maintain clear, traceable records showing how competence was achieved and demonstrated. This includes:
+
+- training records
+
+- assessment outcomes
+
+- authorisation status
+
+- periodic reassessment
+
+These records must be available for audit and accreditation.
+
+**3. Competency must be maintained over time** 
+
+Both standards emphasise that competence is not static. Staff must receive ongoing training, reassessment, and support to ensure their skills remain current.
+
+-------------------------------------------------------------------------------------------------
+
+Why this is challenging for bioinformatics
+-------------------------------------------
+
+Meeting these competency requirements is straightforward in traditional wet-lab settings, where tasks are procedural and directly observable.
+In bioinformatics, however, work is:
+
+- computational
+
+- iterative
+
+- problem-solving driven
+
+- highly variable between analysts
+
+This makes traditional assessment methods harder to apply and requires approaches tailored to computational practice.
+
+-----------------------------------------------------------------------------------------------
+
+What comes next
+----------------
+
+The following pages introduce a practical, bioinformatics-specific solution for meeting these ISO competency expectations.

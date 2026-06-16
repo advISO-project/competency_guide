@@ -1,9 +1,11 @@
 A bioinformatics skills framework for pathogen genomics
 =======================================================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This competency framework has been developed to support bioinformatics practice in pathogen genomics, and is adapted from the framework used by the adVISO project partner Public Health Wales. It provides a structured description of the skills and responsibilities required across the breadth of work undertaken by bioinformaticians working with pathogen‑genomics data.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The framework is designed to describe responsibilities rather than roles. Bioinformatics teams vary widely in structure, and individuals often contribute across multiple areas depending on service needs, expertise, and organisational context. By focusing on responsibilities, the framework remains applicable to all members of a bioinformatics team, regardless of job title, seniority, or local team configuration.
+
+Although the framework presented here is tailored to pathogen genomics, it has been intentionally designed to be easily adapted to other areas of clinical bioinformatics. By replacing the domain-specific competencies in Section 5, the same structure can be applied to fields such as rare-disease genomics, cancer genetics, or other diagnostic and research applications.
 
 --------------------
 
@@ -290,7 +292,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 To be developed
 
 .. tabs::
-   .. tab:: 6.1 Computing resource allocation
+   .. tab:: 6.1 Allocation of computing resources
 
          .. list-table::
             :header-rows: 1
@@ -300,7 +302,7 @@ To be developed
             * - Level
             - Description
             * - Beginner
-            - Describe available computing resources and capacity
+            - Describe available computing resources and capacity 
             * - Competent
             - Allocates computing resources
             * - Proficient
@@ -308,16 +310,169 @@ To be developed
             * - Expert
             - Develops new methods for allocation of computing resources
 
+   .. tab:: 6.2 Software and environment management
+
+         .. list-table::
+            :header-rows: 1
+            :width: 100
+            :widths: 20 80
+
+            * - Level
+            - Description
+            * - Beginner
+            - Installs software using established procedures
+            * - Competent
+            - Maintains software stacks and manages environments (e.g. conda)
+            * - Proficient
+            - Optimises environments, resolves dependency issues, and ensures reproducibility
+            * - Expert
+            - Designs organisation-wide environment strategies and standardised software stacks
+
+   .. tab:: 6.3 Storage and data lifecycle management
+
+         .. list-table::
+            :header-rows: 1
+            :width: 100
+            :widths: 20 80
+
+            * - Level
+            - Description
+            * - Beginner
+            - Describes storage systems and follows data‑organisation procedures
+            * - Competent
+            - Manages storage allocation and applies retention policies
+            * - Proficient
+            - Oversees data lifecycle processes including archival, backup, and retrieval
+            * - Expert
+            - Designs large-scale storage architectures and long-term data-lifecycle strategies
+
+   .. tab:: 6.4 System monitoring and performance optimisation
+
+         .. list-table::
+            :header-rows: 1
+            :width: 100
+            :widths: 20 80
+
+            * - Level
+            - Description
+            * - Beginner
+            - Uses basic monitoring tools to observe system status
+            * - Competent
+            - Identifies simple performance issues and reports them appropriately
+            * - Proficient
+            - Diagnoses and resolves performance issues across compute and storage systems
+            * - Expert
+            - Designs performance-optimised system architectures and monitoring frameworks
+
+   .. tab:: 6.5 Security and access control
+
+         .. list-table::
+            :header-rows: 1
+            :width: 100
+            :widths: 20 80
+
+            * - Level
+            - Description
+            * - Beginner
+            - Follows security procedures and uses approved authentication methods
+            * - Competent
+            - Manages user accounts, permissions, and routine access controls
+            * - Proficient
+            - Implements security controls, audits access, and ensures compliance with policies
+            * - Expert
+            - Designs secure, compliant infrastructure and organisation‑wide access‑control strategies
+
 
 --------------------
 
-**Competency Area 7:  Quality Management (QM)**
+**Competency Area 7: Workflow Engineering and Software Development				
+
+*Objective:*  Demonstrates the ability to develop, maintain, and optimise bioinformatics pipelines, workflows, and supporting software
+
+.. tabs::
+
+   .. tab:: 7.1 Pipeline orchestration
+
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
+
+         * - Level
+           - Description
+         * - Beginner
+           - Runs existing workflows using standard parameters
+         * - Competent
+           - Modifies workflow parameters and resolves routine failures
+         * - Proficient
+           - Designs and maintains workflows using engines such as Nextflow
+         * - Expert
+           - Develops organisation-wide workflow strategies and optimises distributed execution
+
+   .. tab:: 7.2 Containerisation and reproducible environments 
+
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
+
+         * - Level
+           - Description
+         * - Beginner
+           - Uses existing containers (Docker/Singularity)
+         * - Competent
+           - Builds simple containers for routine analyses
+         * - Proficient
+           - Designs reproducible containerised environments for pipelines
+         * - Expert
+           - Develops container strategies and maintains internal registries
+
+   .. tab:: 7.3 Software development for bioinformatics
+
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
+
+         * - Level
+           - Description
+         * - Beginner
+           - Writes simple scripts following templates
+         * - Competent
+           - Develops small tools and contributes to shared codebases
+         * - Proficient
+           - Designs robust, maintainable tools and follows best practices (testing, versioning)
+         * - Expert
+           - Leads development of new tools, frameworks, or libraries
+
+   .. tab:: 7.4 Version control and collaborative development
+
+      .. list-table::
+         :header-rows: 1
+         :width: 100
+         :widths: 20 80
+
+         * - Level
+           - Description
+         * - Beginner
+           - Uses Git to track changes
+         * - Competent
+           - Works with branches, pull requests, and reviews
+         * - Proficient
+           - Manages repositories and enforces coding standards
+         * - Expert
+           - Designs development workflows and oversees collaborative engineering practices
+
+
+--------------------
+
+**Competency Area 8:  Quality Management (QM)**
 
 *Objective:*  Demonstrates expertise to support quality management activities undertaken in unit and provide informed advice
 
 .. tabs::
 
-   .. tab:: 7.1 Document Control
+   .. tab:: 8.1 Document Control
 
       .. list-table::
          :header-rows: 1
@@ -335,7 +490,7 @@ To be developed
          * - Expert
            - Can review, authorise, and publish new documentation within the QMS
 
-   .. tab:: 7.2 Validation
+   .. tab:: 8.2 Validation
 
       .. list-table::
          :header-rows: 1
@@ -353,7 +508,7 @@ To be developed
          * - Expert
            - Leads validation activities, defines standards and acceptance criteria, and develops organisation-wide validation approaches
 
-   .. tab:: 7.3 Auditing
+   .. tab:: 8.3 Auditing
 
       .. list-table::
          :header-rows: 1

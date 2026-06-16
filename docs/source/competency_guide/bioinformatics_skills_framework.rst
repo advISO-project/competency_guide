@@ -10,7 +10,7 @@ Although the framework presented here is tailored to pathogen genomics, it has b
 ------------------------------------------------------------------------------------------------
 
 Competency Area 1: Biology and computer science knowledge
----------------------------------------------------------
+----------------------------------------------------------
 
 *Objective:* Develops new understandings of computer science domains to apply to biological problems
 
@@ -55,7 +55,7 @@ Competency Area 1: Biology and computer science knowledge
 ------------------------------------------------------------------------------------------------
 
 Competency Area 2: Statistical methods knowledge
-------------------------------------------------
+-------------------------------------------------
 
 *Objective:* Demonstrates the ability to apply knowledge of statistical methods for analysis of biological data
 
@@ -83,7 +83,7 @@ Competency Area 2: Statistical methods knowledge
 ------------------------------------------------------------------------------------------------
 
 Competency Area 3: Biological Data Analysis
--------------------------------------------
+--------------------------------------------
 
 *Objective:* Demonstrates the ability analyse microbiological data, principally using genome sequence data
 
@@ -166,7 +166,7 @@ Competency Area 3: Biological Data Analysis
 
 
 Competency Area 4: Biological Data management
----------------------------------------------
+----------------------------------------------
 
 *Objective:* Demonstrates the ability to perform data management, storage, and retrieval
 
@@ -230,7 +230,7 @@ Competency Area 4: Biological Data management
 ------------------------------------------------------------------------------------------------
 
 Competency Area 5: Domain-specific expertise
---------------------------------------------
+---------------------------------------------
 
 *Objective:* Demonstrates domain specific expertise to support activities undertaken in unit and provide informed advice
 
@@ -294,7 +294,7 @@ Competency Area 5: Domain-specific expertise
 ------------------------------------------------------------------------------------------------
 
 Competency Area 6:  System administration
------------------------------------------
+------------------------------------------
 
 *Objective:* Carries out the infrastructure‑focused responsibilities necessary to maintain, secure, and optimise the computational environment used for bioinformatics
 
@@ -394,7 +394,7 @@ Competency Area 6:  System administration
 ------------------------------------------------------------------------------------------------
 
 Competency Area 7: Workflow engineering and software development		
-----------------------------------------------------------------
+-----------------------------------------------------------------
 
 *Objective:*  Demonstrates the ability to develop, maintain, and optimise bioinformatics pipelines, workflows, and supporting software
 
@@ -476,7 +476,7 @@ Competency Area 7: Workflow engineering and software development
 ------------------------------------------------------------------------------------------------
 
 Competency Area 8:  Quality Management
---------------------------------------
+---------------------------------------
 
 *Objective:*  Demonstrates expertise to support quality management activities undertaken in unit and provide informed advice
 

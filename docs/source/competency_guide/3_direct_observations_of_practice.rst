@@ -13,15 +13,25 @@ Why DOPs do not translate to bioinformatics
 
 Several characteristics of bioinformatics work make DOP-style assessment unsuitable:
 
-1. **Bioinformatics tasks are iterative:** Analysts frequently loop through cycles of building, testing, and refinement. There is no single “correct” sequence of steps to observe.
+1. **Bioinformatics tasks are iterative:** 
 
-2. **Problem-solving is central:** Tasks often involve diagnosing software bugs, resolving dependency conflicts, or remediating hardware issues on servers or HPC systems. These activities are cognitive and diagnostic, not procedural.
+    Analysts frequently loop through cycles of building, testing, and refinement. There is no single “correct” sequence of steps to observe.
 
-3. **Multiple valid approaches exist:** Two analysts may solve the same problem using different tools or strategies. A DOP assumes a standardised method, which does not reflect real-world computational practice.
+2. **Problem-solving is central:**
 
-4. **Errors can arise from many sources:** Technical issues (e.g., file corruption, version mismatches) and biological issues (e.g., contamination, low-quality reads) require analysts to investigate, hypothesise, and adapt. This freedom of operation cannot be recapitulated in a tightly scripted DOP.
+    Tasks often involve diagnosing software bugs, resolving dependency conflicts, or remediating hardware issues on servers or HPC systems. These activities are cognitive and diagnostic, not procedural.
 
-5. **Critical reasoning is invisible:** The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
+3. **Multiple valid approaches exist:** 
+
+    Two analysts may solve the same problem using different tools or strategies. A DOP assumes a standardised method, which does not reflect real-world computational practice.
+
+4. **Errors can arise from many sources:** 
+
+    Technical issues (e.g., file corruption, version mismatches) and biological issues (e.g., contamination, low-quality reads) require analysts to investigate, hypothesise, and adapt. This freedom of operation cannot be recapitulated in a tightly scripted DOP.
+
+5. **Critical reasoning is invisible:** 
+
+    The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
 
 Because of these factors, attempting to force bioinformatics tasks into a DOP framework risks assessing superficial behaviours rather than genuine competence. It may also penalise analysts for taking valid alternative approaches or for demonstrating the flexibility that is essential to the discipline.
 

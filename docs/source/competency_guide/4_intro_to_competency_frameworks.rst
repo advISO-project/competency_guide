@@ -22,10 +22,10 @@ Because of these advantages, competency frameworks offer a more flexible and app
 
 --------------------
 
-What the following pages provide
----------------------------------
+What this guide introduces
+--------------------------
 
-The following pages set out the core components needed to implement a competency‑based approach for bioinformatics:
+This guide sets out the core components needed to implement a competency‑based approach for bioinformatics:
 
 1. **An example competency framework** — a structured set of domains and skill levels tailored to pathogen genomics bioinformatics.
 

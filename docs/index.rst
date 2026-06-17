@@ -2,12 +2,12 @@
     :hidden:
     :maxdepth: 2
 
-    source/competency_guide/landing_page
-    source/competency_guide/iso_requirements
-    source/competency_guide/direct_observations_of_practice
-    source/competency_guide/intro_competency_frameworks
-    source/competency_guide/bioinformatics_skills_framework
-    source/competency_guide/bioinformatics_assessment_framework
-    source/competency_guide/mapping_competencies
-    source/competency_guide/bioinformatics_training_framework
-    source/competency_guide/summary
+    source/competency_guide/1_landing_page
+    source/competency_guide/2_iso_competency_requirements
+    source/competency_guide/3_direct_observations_of_practice
+    source/competency_guide/4_intro_to_competency_frameworks
+    source/competency_guide/5_bioinformatics_skills_framework
+    source/competency_guide/6_assessing_bioinformatics_competency
+    source/competency_guide/7_mapping_competencies_to_sops
+    source/competency_guide/8_training_development
+    source/competency_guide/9_summary

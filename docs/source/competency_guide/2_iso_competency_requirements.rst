@@ -11,10 +11,12 @@ Although the standards differ in scope, they share three core competency require
 Core competency requirements
 ----------------------------
 
-**1. Personnel must be competent for the tasks they perform**  
+**1. Personnel must be competent for the tasks they perform**
+
 Both ISO 15189 and ISO 17025 require that staff only carry out work for which they have been appropriately trained, assessed, and authorised.
 
-**2. Competency must be assessed and documented**  
+**2. Competency must be assessed and documented**
+
 Laboratories must maintain clear, traceable records showing how competence was achieved and demonstrated. This typically includes:
 
 - training records  
@@ -24,7 +26,8 @@ Laboratories must maintain clear, traceable records showing how competence was a
 
 These records must be available for review during accreditation activities.
 
-**3. Competency must be maintained over time**  
+**3. Competency must be maintained over time**
+
 Both standards emphasise that competence is not static. Staff must receive ongoing training, reassessment, and support to ensure their skills remain current.
 
 ------------------------------------------------------------------------------------------

@@ -6,18 +6,23 @@ The final component of our proposed bioinformatics competency framework focuses 
 Although the exact process will vary between organisations, several core activities should always be considered:
 
 - **Identification and tracking of available training courses**
+  
   Maintaining an up-to-date list of internal and external training opportunities ensures staff can access relevant development options.
 
 - **Identification of skills gaps within the workforce**
+  
   Reviewing competency records helps highlight areas where individuals or the wider team require further development.
 
 - **Resilience planning and understanding team skill mix**
+  
   Mapping skills across the team supports succession planning and ensures critical tasks are covered.
 
 - **Wider workforce planning**
+  
   Aggregated training needs and skills gaps can inform recruitment decisions and long-term workforce strategy.
 
 - **Collective team training needs**
+  
   Some development needs are shared across the team and are best addressed through group training rather than individual courses.
 
 Competency documents should be treated as living records, updated throughout an individual's time within the organisation. Integrating competency records with local appraisal or performance review processes ensures they remain current. Within the NHS, for example, each staff member has a personal training plan and yearly objectives; linking these to competency documents provides a structured basis for planning development.

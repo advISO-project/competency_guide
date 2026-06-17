@@ -1,0 +1,9 @@
+.wide-table {
+    width: 100% !important;
+    table-layout: fixed;
+}
+
+.wide-table td,
+.wide-table th {
+    overflow-wrap: break-word;
+}

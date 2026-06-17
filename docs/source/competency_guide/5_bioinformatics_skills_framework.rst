@@ -23,6 +23,7 @@ Competency Area 1: Biology and computer science knowledge
          :header-rows: 1
          :width: 100
          :widths: 20 80
+         :class: wide-table
 
          * - Level
            - Description

@@ -47,6 +47,10 @@ html_theme = 'sphinx_rtd_theme'
 # Path for static files
 html_static_path = ['source/_static']
 
+html_css_files = [
+    'custom.css',
+]
+
 # Path to the logo
 html_logo = 'source/_static/logo.png'
 

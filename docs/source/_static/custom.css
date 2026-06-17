@@ -5,5 +5,8 @@
 
 .wide-table td,
 .wide-table th {
+    white-space: normal !important;
     overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
 }

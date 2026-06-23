@@ -13,7 +13,7 @@ Why DOPs do not translate to bioinformatics
 
 Several characteristics of bioinformatics work make DOP-style assessment unsuitable:
 
-.. grid:: 2
+.. grid:: 1
     :gutter: 3
 
     .. grid-item-card:: Bioinformatics tasks are iterative 
@@ -36,7 +36,9 @@ Several characteristics of bioinformatics work make DOP-style assessment unsuita
 
         The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
 
-Because of these factors, attempting to force bioinformatics tasks into a DOP framework risks assessing superficial behaviours rather than genuine competence. It may also penalise bioinformaticians for taking valid alternative approaches or for demonstrating the flexibility that is essential to the discipline.
+.. warning::
+
+   Assessing bioinformatics via DOPs may also penalise practitioners for taking valid alternative approaches, or for demonstrating the flexibility that is essential to the discipline.
 
 -------------------------------------------------------------------------------------------------
 

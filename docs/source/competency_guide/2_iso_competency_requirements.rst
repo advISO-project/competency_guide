@@ -28,16 +28,6 @@ Although the standards differ in scope, they share three core competency require
 
 ------------------------------------------------------------------------------------------
 
-Why this is challenging for bioinformatics
--------------------------------------------
+.. seealso::
 
-Meeting these requirements is relatively straightforward in traditional wet-lab settings, where tasks are procedural, standardised, and directly observable. Bioinformatics work does not share these characteristics — it is computational, iterative, and reliant on expert judgement, with significant variation in approach
-between analysts. This makes conventional assessment methods difficult to apply and raises the question of what appropriate competency evidence looks like in
-practice.
-
-------------------------------------------------------------------------------------------
-
-What comes next
-----------------
-
-The next section explores why traditional competency assessment methods do not translate well to bioinformatics and why a different approach is needed.
+   Meeting these requirements is more straightforward for procedural laboratory tasks than for computational work. The following page examines where Direct Observations of Practice — the most commonly used competency assessment tool in clinical laboratories — are and are not appropriate for bioinformatics.

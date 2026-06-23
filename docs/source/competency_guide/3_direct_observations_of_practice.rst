@@ -4,7 +4,7 @@ Why traditional competency assessment methods do not work for bioinformatics
 
 Established competency assessment tools such as Direct Observations of Practice were designed for disciplines where work is procedural, linear, and physically observable. In clinical and laboratory environments, this makes them highly effective. Wet-lab tasks—such as DNA extraction, library preparation, or operating sequencing equipment follow well-defined, repeatable steps that can be directly watched, evaluated against an SOP, and scored using structured checklists. This is precisely the context in which DOPs were created and where they continue to be widely used.
 
-Bioinformatics work, however, is fundamentally different. It is computational, exploratory, and iterative, more closely resembling agile software development than laboratory benchwork. Pipeline development and optimisation involve repeated cycles of testing, debugging, and refinement. Analysts must adapt to unexpected data behaviours, choose between multiple valid tools, and solve problems as they arise. This flexibility directly conflicts with the assumptions of DOP-style assessments, which rely on a single, standardised, observable procedure.
+Bioinformatics work, however, is fundamentally different. It is computational, exploratory, and iterative, more closely resembling agile software development than laboratory benchwork. Pipeline development and optimisation involve repeated cycles of testing, debugging, and refinement. bioinformaticians must adapt to unexpected data behaviours, choose between multiple valid tools, and solve problems as they arise. This flexibility directly conflicts with the assumptions of DOP-style assessments, which rely on a single, standardised, observable procedure.
 
 --------------------------------------------------------------------------------------------------
 
@@ -13,27 +13,35 @@ Why DOPs do not translate to bioinformatics
 
 Several characteristics of bioinformatics work make DOP-style assessment unsuitable:
 
-1. **Bioinformatics tasks are iterative:** 
+.. grid:: 1
+    :gutter: 0
 
-    Analysts frequently loop through cycles of building, testing, and refinement. There is no single “correct” sequence of steps to observe.
+    .. grid-item-card::
+        :header: Bioinformatics tasks are iterative 
 
-2. **Problem-solving is central:**
+        bioinformaticians frequently loop through cycles of building, testing, and refinement. There is no single “correct” sequence of steps to observe.
 
-    Tasks often involve diagnosing software bugs, resolving dependency conflicts, or remediating hardware issues on servers or HPC systems. These activities are cognitive and diagnostic, not procedural.
+    .. grid-item-card::
+        :header: Problem-solving is central
 
-3. **Multiple valid approaches exist:** 
+        Tasks often involve diagnosing software bugs, resolving dependency conflicts, or remediating hardware issues on servers or HPC systems. These activities are cognitive and diagnostic, not procedural.
+    
+    .. grid-item-card::
+        :header: Multiple valid approaches exist
 
-    Two analysts may solve the same problem using different tools or strategies. A DOP assumes a standardised method, which does not reflect real-world computational practice.
+        Two bioinformaticians may solve the same problem using different tools or strategies. A DOP assumes a standardised method, which does not reflect real-world computational practice.
 
-4. **Errors can arise from many sources:** 
+    .. grid-item-card::
+        :header: Errors can arise from many sources
 
-    Technical issues (e.g., file corruption, version mismatches) and biological issues (e.g., contamination, low-quality reads) require analysts to investigate, hypothesise, and adapt. This freedom of operation cannot be recapitulated in a tightly scripted DOP.
+        Technical issues (e.g., file corruption, version mismatches) and biological issues (e.g., contamination, low-quality reads) require bioinformaticians to investigate, hypothesise, and adapt. This freedom of operation cannot be recapitulated in a tightly scripted DOP.
 
-5. **Critical reasoning is invisible:** 
+    .. grid-item-card::
+        :header: Critical reasoning is invisible
 
-    The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
+        The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
 
-Because of these factors, attempting to force bioinformatics tasks into a DOP framework risks assessing superficial behaviours rather than genuine competence. It may also penalise analysts for taking valid alternative approaches or for demonstrating the flexibility that is essential to the discipline.
+Because of these factors, attempting to force bioinformatics tasks into a DOP framework risks assessing superficial behaviours rather than genuine competence. It may also penalise bioinformaticians for taking valid alternative approaches or for demonstrating the flexibility that is essential to the discipline.
 
 -------------------------------------------------------------------------------------------------
 

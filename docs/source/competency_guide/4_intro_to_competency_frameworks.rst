@@ -1,34 +1,41 @@
-Competency frameworks: An alternative for bioinformatics
 ========================================================
+Competency frameworks: an alternative for bioinformatics
+=========================================================
 
 Why competency frameworks suit bioinformatics
 ----------------------------------------------
 
-Competency frameworks offer a structured way to define the skills, knowledge, and behaviours required for effective performance in a role. They are particularly valuable in bioinformatics, where work is analytical, iterative, and often cannot be assessed through direct observation of a single, standardised procedure. Instead of focusing on visible tasks, competency frameworks capture the broader capabilities that underpin real-world practice such as troubleshooting, data interpretation, pipeline development, and analytical reasoning.
+Competency frameworks offer a structured way to define the skills, knowledge, and behaviours required for effective performance in a role. They are particularly well-suited to bioinformatics, where work is analytical, iterative, and difficult to assess through direct observation of a single standardised procedure. Rather than focusing on visible tasks, competency frameworks capture the broader capabilities that underpin real-world practice — troubleshooting, data interpretation, pipeline development, and analytical reasoning.
 
-A competency framework breaks a role into key areas of practice and describes how individuals progress from beginner to expert. Many frameworks draw on established educational models such as the **Dreyfus Model of Skill Acquisition** to articulate levels of expertise, and **Bloom's taxonomy** to describe the cognitive complexity of tasks. This allows organisations to express not only what a clinical bioinformatician should be able to do, but also how their capability develops over time.
+A competency framework breaks a role into key areas of practice and describes how individuals progress from beginner to expert. Many frameworks draw on established educational models — such as the **Dreyfus Model of Skill Acquisition** and **Bloom's taxonomy** — to articulate levels of expertise and the cognitive
+complexity of tasks. This allows organisations to express not only what a clinical bioinformatician should be able to do, but how their capability is expected to develop over time.
 
-For bioinformatics teams, competency frameworks provide:
+For bioinformatics teams operating under ISO 15189 or ISO 17025, competency frameworks provide:
 
-1. A common structure for describing skills across diverse backgrounds
+- A common structure for describing skills across staff with diverse backgrounds
+- A realistic way to capture competencies that are not directly observable
+- Clear progression pathways for staff development
+- A practical mechanism for demonstrating compliance with accreditation competency requirements
 
-2. A realistic way to capture competencies that are not directly observable
-
-3. Clear progression pathways for staff development
-
-4. A practical mechanism for demonstrating compliance with ISO 15189 and ISO 17025 competency requirements
-
-Because of these advantages, competency frameworks offer a more flexible and appropriate alternative to traditional assessment methods for computational work.
-
---------------------
+------------------------------------------------------
 
 What this guide introduces
---------------------------
+---------------------------
 
-This guide sets out the core components needed to implement a competency-based approach for bioinformatics:
+This guide sets out the core components needed to implement a competency-based
+approach for bioinformatics:
 
-1.  **An example competency framework** that provides a structured set of domains and skill levels tailored to bioinformatics.
+.. grid:: 1
+   :gutter: 3
 
-2. **A competency assessment framework** describing how staff demonstrate capability and how evidence is reviewed.
+   .. grid-item-card:: Competency framework
 
-3. **A training framework** outlining how staff can develop the skills required to progress through the competency levels.
+      A structured set of domains and skill levels tailored to bioinformatics, defining what staff at each level should know and be able to do.
+
+   .. grid-item-card:: Assessment framework
+
+      A description of how staff demonstrate capability, what evidence is required, and how that evidence is reviewed and recorded.
+
+   .. grid-item-card:: Training framework
+
+      An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.

@@ -1,49 +1,73 @@
-============================================================================
-Why traditional competency assessment methods do not work for bioinformatics
-============================================================================
+================================================================================
+Limitations of Direct Observations of Practice for bioinformatics
+================================================================================
 
-Established competency assessment tools such as Direct Observations of Practice were designed for disciplines where work is procedural, linear, and physically observable. In clinical and laboratory environments, this makes them highly effective. Wet-lab tasks—such as DNA extraction, library preparation, or operating sequencing equipment follow well-defined, repeatable steps that can be directly watched, evaluated against an SOP, and scored using structured checklists. This is precisely the context in which DOPs were created and where they continue to be widely used.
+Direct Observations of Practice (DOPs) are a well-established competency assessment
+tool in clinical laboratories, widely used to document procedural competence and
+accepted as valid evidence under ISO 15189 and ISO 17025. For conventional laboratory
+procedures (where tasks are standardised, observable, and repeatable) they are a
+well-suited and practical assessment method.
 
-Bioinformatics work, however, is fundamentally different. It is computational, exploratory, and iterative, more closely resembling agile software development than laboratory benchwork. Pipeline development and optimisation involve repeated cycles of testing, debugging, and refinement. bioinformaticians must adapt to unexpected data behaviours, choose between multiple valid tools, and solve problems as they arise. This flexibility directly conflicts with the assumptions of DOP-style assessments, which rely on a single, standardised, observable procedure.
+Bioinformatics work, however, does not share these characteristics. Pipeline
+development and analysis is computational, iterative, and reliant on expert
+judgement in ways that make DOPs rarely appropriate, except in a small number
+of specific contexts. This page sets out where those exceptions lie and where
+DOPs break down.
 
---------------------------------------------------------------------------------------------------
 
-Why DOPs do not translate to bioinformatics
--------------------------------------------
+Where DOPs remain appropriate
+------------------------------
 
-Several characteristics of bioinformatics work make DOP-style assessment unsuitable:
+DOPs are suitable where a task is procedural, the steps are fixed, and performance
+can be directly observed against a defined standard. Within a bioinformatics context, examples include:
 
-.. grid:: 1
-    :gutter: 3
+- example 1
+- example 2
+- example 3
 
-    .. grid-item-card:: Bioinformatics tasks are iterative 
+In these cases, a DOP provides meaningful competency evidence that is proportionate
+to the task and straightforward to document for ISO 15189 and ISO 17025 purposes.
 
-        bioinformaticians frequently loop through cycles of building, testing, and refinement. There is no single “correct” sequence of steps to observe.
 
-    .. grid-item-card:: Problem-solving is central
+Where DOPs break down
+----------------------
 
-        Tasks often involve diagnosing software bugs, resolving dependency conflicts, or remediating hardware issues on servers or HPC systems. These activities are cognitive and diagnostic, not procedural.
-    
-    .. grid-item-card:: Multiple valid approaches exist
+Beyond these procedural examples, several characteristics of bioinformatics work
+make DOP-style assessment unsuitable:
 
-        Two bioinformaticians may solve the same problem using different tools or strategies. A DOP assumes a standardised method, which does not reflect real-world computational practice.
+.. grid:: 2
+   :gutter: 3
 
-    .. grid-item-card:: Errors can arise from many sources
+   .. grid-item-card:: Iterative, non-linear workflows
 
-        Technical issues (e.g., file corruption, version mismatches) and biological issues (e.g., contamination, low-quality reads) require bioinformaticians to investigate, hypothesise, and adapt. This freedom of operation cannot be recapitulated in a tightly scripted DOP.
+      Bioinformaticians loop through cycles of building, testing, and refinement.
+      There is no single correct sequence of steps to observe or score.
 
-    .. grid-item-card:: Critical reasoning is invisible
+   .. grid-item-card:: Cognitive, diagnostic reasoning
 
-        The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
+      Debugging software, resolving dependency conflicts, and investigating
+      unexpected results are mental processes — not observable procedural steps.
+
+   .. grid-item-card:: Multiple valid approaches
+
+      Two bioinformaticians may solve the same problem using entirely different
+      tools or strategies. DOPs assume a single standardised method that rarely
+      exists in computational practice.
+
+   .. grid-item-card:: Unpredictable failure modes
+
+      Technical issues (version mismatches, file corruption) and biological
+      artefacts (contamination, low-quality data) require adaptive investigation
+      that cannot be scripted in advance.
+
+   .. grid-item-card:: Invisible decision-making
+
+      The most consequential decisions occur within code or in the analyst's
+      reasoning process — neither of which is visible to an observer in real time.
 
 .. warning::
 
-   Assessing bioinformatics via DOPs may also penalise practitioners for taking valid alternative approaches, or for demonstrating the flexibility that is essential to the discipline.
-
--------------------------------------------------------------------------------------------------
-
-A different approach is needed
--------------------------------
-
-The limitations of DOP-style assessment highlight the need for a different approach—one that reflects the analytical, iterative, and problem-solving nature of bioinformatics work.
-The following pages introduce a solution designed specifically for these needs.
+   Applying DOPs to tasks where analyst judgement is central risks assessing
+   superficial behaviours rather than genuine competence. It may also penalise
+   bioinformaticians for taking valid alternative approaches — a poor basis for
+   competency evidence under either standard.

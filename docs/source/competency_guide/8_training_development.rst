@@ -6,8 +6,8 @@ The final component of our proposed bioinformatics competency framework focuses 
 Although the exact process will vary between organisations, several core activities should always be considered:
 
 .. grid:: 1
-   :gutter: 3
-   
+  :gutter: 3
+     
     .. grid-item-card:: Identification and tracking of available training courses
       :class-card: sd-bg-light sd-text-dark
       

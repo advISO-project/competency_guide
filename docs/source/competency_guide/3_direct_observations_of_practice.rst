@@ -23,12 +23,15 @@ DOPs are suitable where a task is procedural, the steps are fixed, and performan
 can be directly observed against a defined standard. Within a bioinformatics context, examples include:
 
 .. dropdown:: Example 1
+
     Add text
 
 .. dropdown:: Example 2
+    
     Add text
 
 .. dropdown:: Example 3
+    
     Add text
 
 In these cases, a DOP provides meaningful competency evidence that is proportionate

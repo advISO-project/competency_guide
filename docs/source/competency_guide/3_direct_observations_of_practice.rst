@@ -14,6 +14,7 @@ judgement in ways that make DOPs rarely appropriate, except in a small number
 of specific contexts. This page sets out where those exceptions lie and where
 DOPs break down.
 
+------------------------------------------------------------------------------------------
 
 Where DOPs remain appropriate
 ------------------------------
@@ -28,6 +29,7 @@ can be directly observed against a defined standard. Within a bioinformatics con
 In these cases, a DOP provides meaningful competency evidence that is proportionate
 to the task and straightforward to document for ISO 15189 and ISO 17025 purposes.
 
+------------------------------------------------------------------------------------------
 
 Where DOPs break down
 ----------------------
@@ -35,7 +37,7 @@ Where DOPs break down
 Beyond these procedural examples, several characteristics of bioinformatics work
 make DOP-style assessment unsuitable:
 
-.. grid:: 2
+.. grid:: 1
    :gutter: 3
 
    .. grid-item-card:: Iterative, non-linear workflows

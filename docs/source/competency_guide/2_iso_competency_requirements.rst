@@ -11,7 +11,7 @@ Core competency requirements
 
 Although the standards differ in scope, they share three core competency requirements that directly shape how bioinformatics teams must operate.
 
-.. grid:: 3
+.. grid:: 2
    :gutter: 3
 
    .. grid-item-card:: Personnel must be competent for the tasks they perform

@@ -39,7 +39,6 @@ approach for bioinformatics:
         A description of how staff demonstrate capability, what evidence is required, and how that evidence is reviewed and recorded.
 
     .. grid-item-card:: Training framework
-
         :class-card: sd-bg-success sd-text-white
         
         An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.

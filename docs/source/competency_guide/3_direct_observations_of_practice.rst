@@ -14,30 +14,24 @@ Why DOPs do not translate to bioinformatics
 Several characteristics of bioinformatics work make DOP-style assessment unsuitable:
 
 .. grid:: 1
-    :gutter: 0
 
-    .. grid-item-card::
-        :header: Bioinformatics tasks are iterative 
+    .. grid-item-card:: Bioinformatics tasks are iterative 
 
         bioinformaticians frequently loop through cycles of building, testing, and refinement. There is no single “correct” sequence of steps to observe.
 
-    .. grid-item-card::
-        :header: Problem-solving is central
+    .. grid-item-card:: Problem-solving is central
 
         Tasks often involve diagnosing software bugs, resolving dependency conflicts, or remediating hardware issues on servers or HPC systems. These activities are cognitive and diagnostic, not procedural.
     
-    .. grid-item-card::
-        :header: Multiple valid approaches exist
+    .. grid-item-card:: Multiple valid approaches exist
 
         Two bioinformaticians may solve the same problem using different tools or strategies. A DOP assumes a standardised method, which does not reflect real-world computational practice.
 
-    .. grid-item-card::
-        :header: Errors can arise from many sources
+    .. grid-item-card:: Errors can arise from many sources
 
         Technical issues (e.g., file corruption, version mismatches) and biological issues (e.g., contamination, low-quality reads) require bioinformaticians to investigate, hypothesise, and adapt. This freedom of operation cannot be recapitulated in a tightly scripted DOP.
 
-    .. grid-item-card::
-        :header: Critical reasoning is invisible
+    .. grid-item-card:: Critical reasoning is invisible
 
         The most important decisions happen in the analyst's head or within code. These cannot be meaningfully observed in real time.
 

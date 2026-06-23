@@ -26,16 +26,20 @@ This guide sets out the core components needed to implement a competency-based
 approach for bioinformatics:
 
 .. grid:: 1
-   :gutter: 3
+    :gutter: 3
+    
+    .. grid-item-card:: Competency framework
+        :class-card: sd-bg-primary sd-text-white
 
-   .. grid-item-card:: Competency framework
+        A structured set of domains and skill levels tailored to bioinformatics, defining what staff at each level should know and be able to do.
 
-      A structured set of domains and skill levels tailored to bioinformatics, defining what staff at each level should know and be able to do.
+    .. grid-item-card:: Assessment framework
+        :class-card: sd-bg-info sd-text-white
 
-   .. grid-item-card:: Assessment framework
+        A description of how staff demonstrate capability, what evidence is required, and how that evidence is reviewed and recorded.
 
-      A description of how staff demonstrate capability, what evidence is required, and how that evidence is reviewed and recorded.
+    .. grid-item-card:: Training framework
 
-   .. grid-item-card:: Training framework
-
-      An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.
+        :class-card: sd-bg-success sd-text-white
+        
+        An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.

@@ -11,7 +11,7 @@ Although the standards differ in scope, they share three core competency require
 Core competency requirements
 ----------------------------
 
-.. grid:: 1
+.. grid:: 3
    :gutter: 3
 
    .. grid-item-card:: Personnel must be competent for the tasks they perform

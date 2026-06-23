@@ -49,28 +49,33 @@ make DOP-style assessment unsuitable:
    :gutter: 3
 
    .. grid-item-card:: Iterative, non-linear workflows
+      :class-card: sd-bg-light sd-text-dark
 
       Bioinformaticians loop through cycles of building, testing, and refinement.
       There is no single correct sequence of steps to observe or score.
 
    .. grid-item-card:: Cognitive, diagnostic reasoning
+      :class-card: sd-bg-light sd-text-dark
 
       Debugging software, resolving dependency conflicts, and investigating
       unexpected results are mental processes — not observable procedural steps.
 
    .. grid-item-card:: Multiple valid approaches
+      :class-card: sd-bg-light sd-text-dark
 
       Two bioinformaticians may solve the same problem using entirely different
       tools or strategies. DOPs assume a single standardised method that rarely
       exists in computational practice.
 
    .. grid-item-card:: Unpredictable failure modes
+      :class-card: sd-bg-light sd-text-dark
 
       Technical issues (version mismatches, file corruption) and biological
       artefacts (contamination, low-quality data) require adaptive investigation
       that cannot be scripted in advance.
 
    .. grid-item-card:: Invisible decision-making
+      :class-card: sd-bg-light sd-text-dark
 
       The most consequential decisions occur within code or in the analyst's
       reasoning process — neither of which is visible to an observer in real time.

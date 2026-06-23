@@ -2,7 +2,7 @@
 A bioinformatics skills framework for pathogen genomics
 =======================================================
 
-This competency framework has been developed to support bioinformatics practice in pathogen genomics, and is adapted from the framework used by the adVISO project partner Public Health Wales. It provides a structured description of the skills and responsibilities required across the breadth of work undertaken by bioinformaticians working with pathogen‑genomics data.
+This competency framework has been developed to support bioinformatics practice in pathogen genomics, and is adapted from the framework used by the adVISO project partner Public Health Wales. It provides a structured description of the skills and responsibilities required across the breadth of work undertaken by bioinformaticians working with pathogen-genomics data.
 
 The framework is designed to describe responsibilities rather than roles. Bioinformatics teams vary widely in structure, and individuals often contribute across multiple areas depending on service needs, expertise, and organisational context. By focusing on responsibilities, the framework remains applicable to all members of a bioinformatics team, regardless of job title, seniority, or local team configuration.
 
@@ -324,7 +324,7 @@ Competency Area 5: Domain-specific expertise
 Competency Area 6:  System administration
 ------------------------------------------
 
-*Objective:* Carries out the infrastructure‑focused responsibilities necessary to maintain, secure, and optimise the computational environment used for bioinformatics
+*Objective:* Carries out the infrastructure-focused responsibilities necessary to maintain, secure, and optimise the computational environment used for bioinformatics
 
 .. tabs::
 
@@ -374,7 +374,7 @@ Competency Area 6:  System administration
          * - Level
            - Description
          * - Beginner
-           - Describes storage systems and follows data‑organisation procedures
+           - Describes storage systems and follows data-organisation procedures
          * - Competent
            - Manages storage allocation and applies retention policies
          * - Proficient
@@ -416,7 +416,7 @@ Competency Area 6:  System administration
          * - Proficient
            - Implements security controls, audits access, and ensures compliance with policies
          * - Expert
-           - Designs secure, compliant infrastructure and organisation‑wide access‑control strategies
+           - Designs secure, compliant infrastructure and organisation-wide access-control strategies
 
 .. raw:: html
 
@@ -570,9 +570,9 @@ Competency Area 8:  Quality Management
          * - Competent
            - Carries out audit tasks independently, gathers evidence, and documents findings accurately
          * - Proficient
-           - Plans audits, evaluates compliance, identifies non‑conformities, and advises on corrective actions
+           - Plans audits, evaluates compliance, identifies non-conformities, and advises on corrective actions
          * - Expert
-           - Leads audit activities, defines audit strategies, and oversees organisation‑wide audit processes
+           - Leads audit activities, defines audit strategies, and oversees organisation-wide audit processes
 
 .. raw:: html
 

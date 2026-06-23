@@ -13,8 +13,8 @@ Why DOPs do not translate to bioinformatics
 
 Several characteristics of bioinformatics work make DOP-style assessment unsuitable:
 
-.. grid:: 1
-    :gutter: 2
+.. grid:: 2
+    :gutter: 3
 
     .. grid-item-card:: Bioinformatics tasks are iterative 
 

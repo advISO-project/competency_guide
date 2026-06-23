@@ -4,12 +4,12 @@ Competency requirements of the ISO standards
 
 Across the two ISO standards most relevant to laboratory-based bioinformatics (**ISO 15189** (medical laboratories) and **ISO 17025** (testing and calibration laboratories)) the competence of personnel is a central requirement. Both standards expect laboratories to demonstrate that staff are trained, capable, and authorised to perform the tasks assigned to them. These expectations apply equally to wet-lab and computational work, including bioinformatics analysis.
 
-Although the standards differ in scope, they share three core competency requirements that directly shape how bioinformatics teams must operate.
-
 ------------------------------------------------------------------------------------------
 
 Core competency requirements
 ----------------------------
+
+Although the standards differ in scope, they share three core competency requirements that directly shape how bioinformatics teams must operate.
 
 .. grid:: 3
    :gutter: 3

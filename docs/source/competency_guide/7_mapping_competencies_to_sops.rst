@@ -106,9 +106,4 @@ responsibilities more rapidly than portfolio evidence alone would allow.
 .. seealso::
 
    For further detail on where DOPs are and are not appropriate in a bioinformatics
-   context, see :doc:`dops`.
-
-   Combining portfolio-based competency assessment with SOP mapping and DOPs
-   provides a flexible, scalable system that can evolve with service needs —
-   ensuring staff capability is assessed consistently and operational readiness
-   is demonstrated in a way that is aligned with ISO requirements.
+   context, see :ref:`where DOPs remain appropriate <dops-appropriate>`.

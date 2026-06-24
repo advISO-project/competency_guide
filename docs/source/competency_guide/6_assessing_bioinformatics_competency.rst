@@ -69,7 +69,6 @@ how it supports the claimed competency.
 
 .. image:: ../_static/competency_flowchart.png
    :align: center
-   :width: 60%
    
 
 ------------------------------------------------------------------------

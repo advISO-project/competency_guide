@@ -29,16 +29,16 @@ approach for bioinformatics:
     :gutter: 3
     
     .. grid-item-card:: Competency framework
-        :class-card: sd-bg-primary sd-text-white
+        :class-card: sd-bg-light sd-text-dark
 
         A structured set of domains and skill levels tailored to bioinformatics, defining what staff at each level should know and be able to do.
 
     .. grid-item-card:: Assessment framework
-        :class-card: sd-bg-info sd-text-white
+        :class-card: sd-bg-light sd-text-dark
 
         A description of how staff demonstrate capability, what evidence is required, and how that evidence is reviewed and recorded.
 
     .. grid-item-card:: Training framework
-        :class-card: sd-bg-success sd-text-white
+        :class-card: sd-bg-light sd-text-dark
         
         An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.

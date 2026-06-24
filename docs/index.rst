@@ -15,6 +15,11 @@ for bioinformatics competency tracking that is compliant with the requirements o
 ISO 15189 for Medical Laboratories"* and expands it into a practical reference for
 laboratories at any stage of their accreditation journey.
 
+-------------------------------------
+
+Other guides in this series
+-----------------------------
+
 This guide forms part of the advISO series of practical how-to resources for
 laboratories working toward ISO accreditation:
 
@@ -22,6 +27,7 @@ laboratories working toward ISO accreditation:
    :gutter: 2
 
    .. grid-item-card:: SOP writing
+      :class-card: sd-bg-primary sd-text-white
       :link: https://adviso-sop-guide.readthedocs.io/en/latest/
       :link-type: url
       :text-align: center
@@ -29,6 +35,7 @@ laboratories working toward ISO accreditation:
       A practical guide to writing SOPs for clinical bioinformatics.
 
    .. grid-item-card:: Validating bioinformatics pipelines
+      :class-card: sd-bg-info sd-text-white
       :link: http://www.example.com
       :link-type: url
       :text-align: center
@@ -36,6 +43,7 @@ laboratories working toward ISO accreditation:
       How to validate bioinformatics pipelines for ISO accreditation.
 
    .. grid-item-card:: Performing bioinformatics audits
+      :class-card: sd-bg-success sd-text-white
       :link: http://www.example.com
       :link-type: url
       :text-align: center

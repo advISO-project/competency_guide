@@ -66,6 +66,12 @@ how it supports the claimed competency.
       and development needs. Because the portfolio is a living document, it can be
       updated as skills grow and as new evidence becomes available.
 
+
+.. image:: ../_static/competency_flowchart.png
+   :align: center
+   :width: 60%
+   
+
 ------------------------------------------------------------------------
 
 Types of evidence

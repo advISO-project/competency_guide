@@ -11,6 +11,7 @@ often at different levels, and portfolio evidence does not automatically confirm
 readiness to perform a defined task. An additional step is therefore required to
 translate evidenced skills into task-level competence.
 
+------------------------------------------------------------------------
 
 Linking competencies to practical tasks
 ----------------------------------------
@@ -58,6 +59,7 @@ This structured approach provides a transparent, auditable method for determinin
 whether an individual is competent to undertake a given SOP, based on evidence
 already assessed within the portfolio.
 
+------------------------------------------------------------------------
 
 Alignment with ISO 15189 and ISO 17025
 ----------------------------------------
@@ -86,6 +88,7 @@ procedures.
    This approach provides a defensible, auditable method for demonstrating
    operational competence during ISO assessments and external audits.
 
+------------------------------------------------------------------------
 
 Integrating DOPs for simple or routine tasks
 ---------------------------------------------

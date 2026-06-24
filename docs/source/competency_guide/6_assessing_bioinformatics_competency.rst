@@ -27,6 +27,8 @@ competencies, and creates a structured record of development over time.
    communication. Experience from previous roles or research projects can similarly
    be included where it clearly aligns with the competency being assessed.
 
+------------------------------------------------------------------------
+
 How the portfolio assessment process works
 -------------------------------------------
 
@@ -64,6 +66,7 @@ how it supports the claimed competency.
       and development needs. Because the portfolio is a living document, it can be
       updated as skills grow and as new evidence becomes available.
 
+------------------------------------------------------------------------
 
 Types of evidence
 ------------------
@@ -109,6 +112,7 @@ A broad range of evidence types can be used within a portfolio:
       Written reflections describing learning from a project, incident, or
       development activity, linking experience to specific competencies.
 
+------------------------------------------------------------------------
 
 Benefits of the portfolio approach
 ------------------------------------

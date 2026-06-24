@@ -36,7 +36,7 @@ demonstrating this. A short explanation accompanies each piece of evidence, outl
 how it supports the claimed competency.
 
 .. grid:: 1
-   :gutter: 2
+   :gutter: 3
 
    .. grid-item-card:: Submitting evidence
       :class-card: sd-bg-light sd-text-dark
@@ -71,7 +71,7 @@ Types of evidence
 A broad range of evidence types can be used within a portfolio:
 
 .. grid:: 2
-   :gutter: 2
+   :gutter: 3
 
    .. grid-item-card:: Analysis outputs
       :class-card: sd-bg-light sd-text-dark
@@ -114,7 +114,7 @@ Benefits of the portfolio approach
 ------------------------------------
 
 .. grid:: 2
-   :gutter: 2
+   :gutter: 3
 
    .. grid-item-card:: For individual staff
       :class-card: sd-bg-primary sd-text-white

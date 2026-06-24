@@ -7,7 +7,7 @@ Although the exact process will vary between organisations, several core activit
 
 .. grid:: 1
   :gutter: 3
-     
+    
     .. grid-item-card:: Identification and tracking of available training courses
       :class-card: sd-bg-light sd-text-dark
       

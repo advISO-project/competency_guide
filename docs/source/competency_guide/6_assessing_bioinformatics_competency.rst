@@ -1,41 +1,130 @@
+=====================================
 Assessing competency using portfolios
 =====================================
 
 Purpose of the portfolio approach
 ----------------------------------
 
-To support assessment against the competency framework, a portfolio-based approach is proposed as the method for evidencing achievement at each level within each competency area. This approach is adapted from established practice within scientific and clinical training programmes, including the NHS Scientist Training Programme (STP), where portfolios are used to demonstrate progress and capability. The method aligns well with the needs of bioinformatics teams, where responsibilities are varied and where staff may demonstrate competencies through a wide range of activities and outputs.
+To support assessment against the competency framework, a portfolio-based approach
+is proposed as the primary method for evidencing achievement at each level within
+each competency area. This approach is adapted from established practice within
+scientific and clinical training programmes, including the NHS Scientist Training
+Programme (STP), where portfolios are used to demonstrate progress and capability.
 
-Portfolios were chosen because they provide a flexible and authentic way to evidence competency. Bioinformatics work rarely follows a single, standardised pattern, and staff often gain experience through different projects, tools, and responsibilities. A portfolio allows this diversity to be captured by enabling staff to select evidence that best reflects their own experience. This approach also supports reflective practice, encourages staff to consider how their work aligns with specific competencies, and creates a structured record of development over time.
+Portfolios were chosen because they provide a flexible and authentic way to evidence
+competency. Bioinformatics work rarely follows a single, standardised pattern, and
+staff often gain experience through different projects, tools, and responsibilities.
+A portfolio allows this diversity to be captured by enabling staff to select evidence
+that best reflects their own experience. This approach also supports reflective
+practice, encourages staff to consider how their work aligns with specific
+competencies, and creates a structured record of development over time.
 
-The portfolio model also accommodates prior learning and previous experience, which can be used as evidence where appropriate. Formal education, such as a science PhD or master’s degree, may demonstrate competencies in areas such as statistical methods, research design, data interpretation, or scientific communication. Similarly, experience gained in previous roles, research projects, or professional settings can be included when it clearly aligns with the competency being assessed. This ensures that existing expertise is recognised and that assessment reflects the full breadth of an individual's background.
+.. note::
 
---------------------------------------------------------------------------------------------------
+   The portfolio model accommodates prior learning and previous experience. Formal
+   education — such as a PhD or master's degree — may demonstrate competencies in
+   areas such as statistical methods, data interpretation, or scientific
+   communication. Experience from previous roles or research projects can similarly
+   be included where it clearly aligns with the competency being assessed.
 
 How the portfolio assessment process works
 -------------------------------------------
 
-In practice, the competency framework is presented as a matrix. For each competency area and level, staff indicate the level they believe they have achieved and provide evidence demonstrating this. A short explanation accompanies each piece of evidence, outlining how it supports the claimed competency. Evidence may take many forms, including documents, reports, code repositories, workflow outputs, presentations, or examples of troubleshooting and optimisation work. The aim is to demonstrate capability clearly and convincingly, using material drawn from routine duties, project work, training activities, or contributions to team processes.
+The competency framework is presented as a matrix. For each competency area and
+level, staff indicate the level they believe they have achieved and provide evidence
+demonstrating this. A short explanation accompanies each piece of evidence, outlining
+how it supports the claimed competency.
 
-Submitted evidence is reviewed by a senior bioinformatician or professional lead. The reviewer considers whether the evidence is relevant, sufficient, and clearly aligned with the claimed level of competency. If the evidence meets expectations, the competency is signed off. If it does not, constructive feedback is provided so the submission can be strengthened. In some cases, the evidence may indicate a higher level of competency than the one claimed. This creates an opportunity for discussion around confidence, expectations, and development needs. Because the portfolio is a living document, it can be updated as skills grow and as new evidence becomes available.
+.. grid:: 1
+   :gutter: 2
 
---------------------------------------------------------------------------------------------------
+   .. grid-item-card:: Submitting evidence
+      :class-card: sd-bg-light sd-text-dark
 
-Types of evidence and their benefits
--------------------------------------
+      Evidence may take many forms, including documents, reports, code repositories,
+      workflow outputs, presentations, or examples of troubleshooting and optimisation
+      work. The aim is to demonstrate capability clearly and convincingly, using
+      material drawn from routine duties, project work, training activities, or
+      contributions to team processes.
 
-A broad range of evidence types can be used within a portfolio. Examples include:
+   .. grid-item-card:: Review and sign-off
+      :class-card: sd-bg-light sd-text-dark
 
-- analysis summaries or reports
+      Submitted evidence is reviewed by a senior bioinformatician or professional
+      lead, who considers whether it is relevant, sufficient, and clearly aligned
+      with the claimed level of competency. If the evidence meets expectations, the
+      competency is signed off. If it does not, constructive feedback is provided so
+      the submission can be strengthened.
 
-- workflow scripts, code snippets, or links to repositories
+   .. grid-item-card:: Ongoing development
+      :class-card: sd-bg-light sd-text-dark
 
-- SOPs, protocols, or technical documentation
+      In some cases, evidence may indicate a higher level of competency than the one
+      claimed — creating an opportunity for discussion around confidence, expectations,
+      and development needs. Because the portfolio is a living document, it can be
+      updated as skills grow and as new evidence becomes available.
 
-- presentations, posters, or training materials
 
-- audit or validation outputs
+Types of evidence
+------------------
 
-- reflective statements describing learning from a project or incident
+A broad range of evidence types can be used within a portfolio:
 
-The portfolio approach offers benefits at both individual and team levels. For staff, it supports structured reflection, clarifies expectations, and helps identify training and development needs. For teams, it provides visibility of skills across the group, highlights strengths and gaps, and supports planning for resilience, succession, and targeted training.
+.. grid:: 2
+   :gutter: 2
+
+   .. grid-item-card:: Analysis outputs
+      :class-card: sd-bg-light sd-text-dark
+
+      Analysis summaries, reports, or interpretation write-ups that demonstrate
+      analytical reasoning and conclusions drawn from data.
+
+   .. grid-item-card:: Code and workflows
+      :class-card: sd-bg-light sd-text-dark
+
+      Workflow scripts, code snippets, or links to repositories demonstrating
+      pipeline development, software engineering, or automation work.
+
+   .. grid-item-card:: Documentation
+      :class-card: sd-bg-light sd-text-dark
+
+      SOPs, protocols, or technical documentation produced as part of routine
+      quality management or service development activities.
+
+   .. grid-item-card:: Presentations and training
+      :class-card: sd-bg-light sd-text-dark
+
+      Presentations, posters, or training materials demonstrating communication
+      of bioinformatics concepts to scientific or clinical audiences.
+
+   .. grid-item-card:: Quality activities
+      :class-card: sd-bg-light sd-text-dark
+
+      Audit or validation outputs evidencing engagement with quality management
+      processes and regulatory requirements.
+
+   .. grid-item-card:: Reflective statements
+      :class-card: sd-bg-light sd-text-dark
+
+      Written reflections describing learning from a project, incident, or
+      development activity, linking experience to specific competencies.
+
+
+Benefits of the portfolio approach
+------------------------------------
+
+.. grid:: 2
+   :gutter: 2
+
+   .. grid-item-card:: For individual staff
+      :class-card: sd-bg-primary sd-text-white
+
+      Supports structured reflection, clarifies expectations, and helps identify
+      training and development needs as skills grow over time.
+
+   .. grid-item-card:: For the team
+      :class-card: sd-bg-primary sd-text-white
+
+      Provides visibility of skills across the group, highlights strengths and
+      gaps, and supports planning for resilience, succession, and targeted
+      training.

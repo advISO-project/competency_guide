@@ -67,7 +67,7 @@ how it supports the claimed competency.
       updated as skills grow and as new evidence becomes available.
 
 
-.. image:: ../_static/competency_flowchart.png
+.. image:: ../_static/competency_assessment_flowchart.png
    :align: center
    
 

@@ -27,6 +27,7 @@ competencies, and creates a structured record of development over time.
    communication. Experience from previous roles or research projects can similarly
    be included where it clearly aligns with the competency being assessed.
 
+--------------------------------------------------------------------
 
 How the portfolio assessment process works
 -------------------------------------------
@@ -47,6 +48,7 @@ in the staff portfolio and the cycle continues as skills develop.
    Figure 1: The portfolio assessment cycle — from self-assessment through
    evidence gathering and review to ongoing development.
 
+--------------------------------------------------------------------
 
 Recording competency evidence
 ------------------------------
@@ -67,6 +69,7 @@ a senior team member.
    Orchestration, showing the assessed level, supporting evidence statement,
    and reviewer sign-off.
 
+--------------------------------------------------------------------
 
 Types of evidence
 ------------------

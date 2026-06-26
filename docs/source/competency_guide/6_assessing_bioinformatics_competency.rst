@@ -47,7 +47,7 @@ in the staff portfolio and the cycle continues as skills develop.
 
    Figure 1: The portfolio assessment cycle — from self-assessment through
    evidence gathering and review to ongoing development.
-
+   
 ------------------------------------------------------------------------
 
 Recording competency evidence

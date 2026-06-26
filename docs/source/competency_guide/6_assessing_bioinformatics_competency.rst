@@ -32,44 +32,8 @@ competencies, and creates a structured record of development over time.
 How the portfolio assessment process works
 -------------------------------------------
 
-The competency framework is presented as a matrix. For each competency area and
-level, staff indicate the level they believe they have achieved and provide evidence
-demonstrating this. A short explanation accompanies each piece of evidence, outlining
-how it supports the claimed competency.
-
-.. grid:: 1
-   :gutter: 3
-
-   .. grid-item-card:: Submitting evidence
-      :class-card: sd-bg-light sd-text-dark
-
-      Evidence may take many forms, including documents, reports, code repositories,
-      workflow outputs, presentations, or examples of troubleshooting and optimisation
-      work. The aim is to demonstrate capability clearly and convincingly, using
-      material drawn from routine duties, project work, training activities, or
-      contributions to team processes.
-
-   .. grid-item-card:: Review and sign-off
-      :class-card: sd-bg-light sd-text-dark
-
-      Submitted evidence is reviewed by a senior bioinformatician or professional
-      lead, who considers whether it is relevant, sufficient, and clearly aligned
-      with the claimed level of competency. If the evidence meets expectations, the
-      competency is signed off. If it does not, constructive feedback is provided so
-      the submission can be strengthened.
-
-   .. grid-item-card:: Ongoing development
-      :class-card: sd-bg-light sd-text-dark
-
-      In some cases, evidence may indicate a higher level of competency than the one
-      claimed — creating an opportunity for discussion around confidence, expectations,
-      and development needs. Because the portfolio is a living document, it can be
-      updated as skills grow and as new evidence becomes available.
-
-
 .. image:: ../_static/competency_assessment_flowchart.png
    :align: center
-   
 
 ------------------------------------------------------------------------
 

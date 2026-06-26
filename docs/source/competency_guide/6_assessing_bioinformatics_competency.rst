@@ -32,9 +32,18 @@ competencies, and creates a structured record of development over time.
 How the portfolio assessment process works
 -------------------------------------------
 
-.. image:: ../_static/competency_assessment_flowchart.png
-   :align: center
-   :width: 50%
+
+.. grid:: 2
+   :gutter: 3
+
+   .. grid-item::
+      .. image:: ../_static/competency_assessment_flowchart.png
+         :align: center
+         :width: 300px
+         :target: ../_static/portfolio_flowchart_full.png
+
+   .. grid-item::
+      Add text
 
 ------------------------------------------------------------------------
 

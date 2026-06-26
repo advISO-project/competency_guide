@@ -163,17 +163,34 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
 
 .. raw:: html
 
+   <style>
+   .flip-card-front {
+     background: #F8F8F6;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+   }
+   .flip-card-front .card-title {
+     font-weight: 700;
+     font-size: 16px;
+     color: #1a1a1a;
+     margin: 0 0 0.75rem;
+   }
+   </style>
+
+.. raw:: html
+
    <div class="flip-grid">
 
      <div class="flip-card" onclick="this.classList.toggle('flipped')">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Analysis outputs</p>
-           <p class="card-body">QC reports, variant interpretation write-ups, pipeline benchmarking summaries, or documented analytical decisions.</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-title">Analysis outputs</p>
            <p class="card-body">Analysis summaries, reports, or interpretation write-ups that demonstrate analytical reasoning and conclusions drawn from data.</p>
          </div>
        </div>
@@ -183,11 +200,9 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Code and workflows</p>
-           <p class="card-body">GitHub repositories, Nextflow pipelines, nf-core module contributions, or documented code reviews.</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-title">Code and workflows</p>
            <p class="card-body">Workflow scripts, code snippets, or links to repositories demonstrating pipeline development, software engineering, or automation work.</p>
          </div>
        </div>
@@ -197,11 +212,9 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Documentation</p>
-           <p class="card-body">Authored or reviewed SOPs, pipeline documentation, README files, or validation protocols.</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-title">Documentation</p>
            <p class="card-body">SOPs, protocols, or technical documentation produced as part of routine quality management or service development activities.</p>
          </div>
        </div>
@@ -211,11 +224,9 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Presentations and training</p>
-           <p class="card-body">Conference posters, journal club slides, training sessions delivered, or onboarding materials produced.</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-title">Presentations and training</p>
            <p class="card-body">Presentations, posters, or training materials demonstrating communication of bioinformatics concepts to scientific or clinical audiences.</p>
          </div>
        </div>
@@ -225,11 +236,9 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Quality activities</p>
-           <p class="card-body">Completed audit records, validation reports, non-conformance investigations, or CAPA documentation.</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-title">Quality activities</p>
            <p class="card-body">Audit or validation outputs evidencing engagement with quality management processes and regulatory requirements.</p>
          </div>
        </div>
@@ -239,11 +248,9 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Reflective statements</p>
-           <p class="card-body">Reflective accounts of troubleshooting a pipeline failure, adapting to a new tool, or learning from a near-miss incident.</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-title">Reflective statements</p>
            <p class="card-body">Written reflections describing learning from a project, incident, or development activity, linking experience to specific competencies.</p>
          </div>
        </div>

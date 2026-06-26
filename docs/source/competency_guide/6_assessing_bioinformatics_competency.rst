@@ -37,10 +37,10 @@ How the portfolio assessment process works
    :gutter: 3
 
    .. grid-item::
-      .. image:: ../_static/competency_assessment_flowchart.png
+      .. image:: _static/competency_assessment_flowchart.png
          :align: center
          :width: 400px
-         :target: ../_static/competency_assessment_flowchart.png
+         :target: _static/competency_assessment_flowchart.png
 
    .. grid-item::
       Add text

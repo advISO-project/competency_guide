@@ -42,7 +42,7 @@ in the staff portfolio and the cycle continues as skills develop.
 
 .. figure:: ../_static/competency_assessment_flowchart.png
    :align: center
-   :width: 500px
+   :width: 550px
    :alt: Flowchart showing the seven-step portfolio assessment process.
 
    Figure 1: The portfolio assessment cycle — from self-assessment through

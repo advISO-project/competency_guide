@@ -50,6 +50,21 @@ in the staff portfolio and the cycle continues as skills develop.
 
 ------------------------------------------------------------------------
 
+Recording competency evidence
+------------------------------
+
+For each competency sub-area, staff record their claimed level and provide evidence
+demonstrating how that level has been achieved. The table below shows the structure
+used to capture this information. Each row corresponds to a competency sub-area;
+staff complete the level, evidence, and description columns before submission for
+review.
+
+.. list-table::
+   :header-rows: 1
+   
+
+------------------------------------------------------------------------
+
 
 Types of evidence
 ------------------
@@ -64,44 +79,95 @@ The aim is to provide material that is relevant and sufficient, not exhaustive.
 Where a single piece of evidence clearly demonstrates a competency, that is enough.
 Where the competency is broad or complex, multiple pieces may be appropriate.
 
-.. grid:: 2
-   :gutter: 3
+.. raw:: html
 
-   .. grid-item-card:: Analysis outputs
-      :class-card: sd-bg-light sd-text-dark
+   <div class="flip-grid">
 
-      Analysis summaries, reports, or interpretation write-ups that demonstrate
-      analytical reasoning and conclusions drawn from data.
+     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+       <div class="flip-card-inner">
+         <div class="flip-card-front">
+           <p class="card-title">Analysis outputs</p>
+           <p class="card-body">QC reports, variant interpretation write-ups, pipeline benchmarking summaries, or documented analytical decisions.</p>
+           <p class="flip-hint">click for more detail</p>
+         </div>
+         <div class="flip-card-back">
+           <p class="card-title">Analysis outputs</p>
+           <p class="card-body">Analysis summaries, reports, or interpretation write-ups that demonstrate analytical reasoning and conclusions drawn from data.</p>
+         </div>
+       </div>
+     </div>
 
-   .. grid-item-card:: Code and workflows
-      :class-card: sd-bg-light sd-text-dark
+     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+       <div class="flip-card-inner">
+         <div class="flip-card-front">
+           <p class="card-title">Code and workflows</p>
+           <p class="card-body">GitHub repositories, Nextflow pipelines, nf-core module contributions, or documented code reviews.</p>
+           <p class="flip-hint">click for more detail</p>
+         </div>
+         <div class="flip-card-back">
+           <p class="card-title">Code and workflows</p>
+           <p class="card-body">Workflow scripts, code snippets, or links to repositories demonstrating pipeline development, software engineering, or automation work.</p>
+         </div>
+       </div>
+     </div>
 
-      Workflow scripts, code snippets, or links to repositories demonstrating
-      pipeline development, software engineering, or automation work.
+     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+       <div class="flip-card-inner">
+         <div class="flip-card-front">
+           <p class="card-title">Documentation</p>
+           <p class="card-body">Authored or reviewed SOPs, pipeline documentation, README files, or validation protocols.</p>
+           <p class="flip-hint">click for more detail</p>
+         </div>
+         <div class="flip-card-back">
+           <p class="card-title">Documentation</p>
+           <p class="card-body">SOPs, protocols, or technical documentation produced as part of routine quality management or service development activities.</p>
+         </div>
+       </div>
+     </div>
 
-   .. grid-item-card:: Documentation
-      :class-card: sd-bg-light sd-text-dark
+     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+       <div class="flip-card-inner">
+         <div class="flip-card-front">
+           <p class="card-title">Presentations and training</p>
+           <p class="card-body">Conference posters, journal club slides, training sessions delivered, or onboarding materials produced.</p>
+           <p class="flip-hint">click for more detail</p>
+         </div>
+         <div class="flip-card-back">
+           <p class="card-title">Presentations and training</p>
+           <p class="card-body">Presentations, posters, or training materials demonstrating communication of bioinformatics concepts to scientific or clinical audiences.</p>
+         </div>
+       </div>
+     </div>
 
-      SOPs, protocols, or technical documentation produced as part of routine
-      quality management or service development activities.
+     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+       <div class="flip-card-inner">
+         <div class="flip-card-front">
+           <p class="card-title">Quality activities</p>
+           <p class="card-body">Completed audit records, validation reports, non-conformance investigations, or CAPA documentation.</p>
+           <p class="flip-hint">click for more detail</p>
+         </div>
+         <div class="flip-card-back">
+           <p class="card-title">Quality activities</p>
+           <p class="card-body">Audit or validation outputs evidencing engagement with quality management processes and regulatory requirements.</p>
+         </div>
+       </div>
+     </div>
 
-   .. grid-item-card:: Presentations and training
-      :class-card: sd-bg-light sd-text-dark
+     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+       <div class="flip-card-inner">
+         <div class="flip-card-front">
+           <p class="card-title">Reflective statements</p>
+           <p class="card-body">Reflective accounts of troubleshooting a pipeline failure, adapting to a new tool, or learning from a near-miss incident.</p>
+           <p class="flip-hint">click for more detail</p>
+         </div>
+         <div class="flip-card-back">
+           <p class="card-title">Reflective statements</p>
+           <p class="card-body">Written reflections describing learning from a project, incident, or development activity, linking experience to specific competencies.</p>
+         </div>
+       </div>
+     </div>
 
-      Presentations, posters, or training materials demonstrating communication
-      of bioinformatics concepts to scientific or clinical audiences.
-
-   .. grid-item-card:: Quality activities
-      :class-card: sd-bg-light sd-text-dark
-
-      Audit or validation outputs evidencing engagement with quality management
-      processes and regulatory requirements.
-
-   .. grid-item-card:: Reflective statements
-      :class-card: sd-bg-light sd-text-dark
-
-      Written reflections describing learning from a project, incident, or
-      development activity, linking experience to specific competencies.
+   </div>
 
 ------------------------------------------------------------------------
 

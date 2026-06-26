@@ -27,7 +27,6 @@ competencies, and creates a structured record of development over time.
    communication. Experience from previous roles or research projects can similarly
    be included where it clearly aligns with the competency being assessed.
 
-------------------------------------------------------------------------
 
 How the portfolio assessment process works
 -------------------------------------------
@@ -47,8 +46,7 @@ in the staff portfolio and the cycle continues as skills develop.
 
    Figure 1: The portfolio assessment cycle — from self-assessment through
    evidence gathering and review to ongoing development.
-   
-------------------------------------------------------------------------
+
 
 Recording competency evidence
 ------------------------------
@@ -68,8 +66,6 @@ a senior team member.
    Figure 2: Example competency evidence record for sub-area 7.1 Pipeline
    Orchestration, showing the assessed level, supporting evidence statement,
    and reviewer sign-off.
-
-------------------------------------------------------------------------
 
 
 Types of evidence
@@ -126,6 +122,8 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
      display: flex;
      flex-direction: column;
      justify-content: center;
+     align-items: center;
+     text-align: center;
    }
    .flip-card-back {
      background: #E6F1FB;
@@ -136,22 +134,10 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
      justify-content: center;
    }
    .flip-card-front .card-title {
-     font-weight: 600;
-     font-size: 14px;
+     font-weight: 700;
+     font-size: 16px;
      color: #1a1a1a;
-     margin: 0 0 0.5rem;
-   }
-   .flip-card-front .card-body {
-     font-size: 13px;
-     color: #444;
-     line-height: 1.5;
-     margin: 0;
-   }
-   .flip-card-back .card-title {
-     font-weight: 600;
-     font-size: 13px;
-     color: #0C447C;
-     margin: 0 0 0.5rem;
+     margin: 0 0 0.75rem;
    }
    .flip-card-back .card-body {
      font-size: 13px;
@@ -163,124 +149,107 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
      font-size: 11px;
      color: #888;
      margin-top: 0.5rem;
-     text-align: right;
-   }
-   </style>
-
-.. raw:: html
-
-   <style>
-   .flip-card-front {
-     background: #F8F8F6;
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     align-items: center;
      text-align: center;
    }
-   .flip-card-front .card-title {
-     font-weight: 700;
-     font-size: 16px;
-     color: #1a1a1a;
-     margin: 0 0 0.75rem;
-   }
    </style>
+
+   <script>
+   function flipCard(card) {
+     const allCards = document.querySelectorAll('.flip-card');
+     allCards.forEach(function(c) {
+       if (c !== card) {
+         c.classList.remove('flipped');
+       }
+     });
+     card.classList.toggle('flipped');
+   }
+   </script>
 
 .. raw:: html
 
    <div class="flip-grid">
 
-     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+     <div class="flip-card" onclick="flipCard(this)">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Analysis outputs</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-body">Analysis summaries, reports, or interpretation write-ups that demonstrate analytical reasoning and conclusions drawn from data.</p>
+           <p class="card-body">Analysis summaries, reports, or interpretation
+           write-ups that demonstrate analytical reasoning and conclusions drawn
+           from data.</p>
          </div>
        </div>
      </div>
 
-     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+     <div class="flip-card" onclick="flipCard(this)">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Code and workflows</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-body">Workflow scripts, code snippets, or links to repositories demonstrating pipeline development, software engineering, or automation work.</p>
+           <p class="card-body">Workflow scripts, code snippets, or links to
+           repositories demonstrating pipeline development, software engineering,
+           or automation work.</p>
          </div>
        </div>
      </div>
 
-     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+     <div class="flip-card" onclick="flipCard(this)">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Documentation</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-body">SOPs, protocols, or technical documentation produced as part of routine quality management or service development activities.</p>
+           <p class="card-body">SOPs, protocols, or technical documentation
+           produced as part of routine quality management or service development
+           activities.</p>
          </div>
        </div>
      </div>
 
-     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+     <div class="flip-card" onclick="flipCard(this)">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Presentations and training</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-body">Presentations, posters, or training materials demonstrating communication of bioinformatics concepts to scientific or clinical audiences.</p>
+           <p class="card-body">Presentations, posters, or training materials
+           demonstrating communication of bioinformatics concepts to scientific
+           or clinical audiences.</p>
          </div>
        </div>
      </div>
 
-     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+     <div class="flip-card" onclick="flipCard(this)">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Quality activities</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-body">Audit or validation outputs evidencing engagement with quality management processes and regulatory requirements.</p>
+           <p class="card-body">Audit or validation outputs evidencing engagement
+           with quality management processes and regulatory requirements.</p>
          </div>
        </div>
      </div>
 
-     <div class="flip-card" onclick="this.classList.toggle('flipped')">
+     <div class="flip-card" onclick="flipCard(this)">
        <div class="flip-card-inner">
          <div class="flip-card-front">
            <p class="card-title">Reflective statements</p>
            <p class="flip-hint">click for more detail</p>
          </div>
          <div class="flip-card-back">
-           <p class="card-body">Written reflections describing learning from a project, incident, or development activity, linking experience to specific competencies.</p>
+           <p class="card-body">Written reflections describing learning from a
+           project, incident, or development activity, linking experience to
+           specific competencies.</p>
          </div>
        </div>
      </div>
 
    </div>
-
-------------------------------------------------------------------------
-
-Benefits of the portfolio approach
-------------------------------------
-
-.. grid:: 2
-   :gutter: 3
-
-   .. grid-item-card:: For individual staff
-      :class-card: sd-bg-primary sd-text-white
-
-      Supports structured reflection, clarifies expectations, and helps identify
-      training and development needs as skills grow over time.
-
-   .. grid-item-card:: For the team
-      :class-card: sd-bg-primary sd-text-white
-
-      Provides visibility of skills across the group, highlights strengths and
-      gaps, and supports planning for resilience, succession, and targeted
-      training.

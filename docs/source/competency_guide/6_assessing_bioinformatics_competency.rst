@@ -54,14 +54,20 @@ Recording competency evidence
 ------------------------------
 
 For each competency sub-area, staff record their claimed level and provide evidence
-demonstrating how that level has been achieved. The table below shows the structure
-used to capture this information. Each row corresponds to a competency sub-area;
-staff complete the level, evidence, and description columns before submission for
-review.
+demonstrating how that level has been achieved. An example record is shown below,
+illustrating how evidence is linked to a specific competency level and reviewed by
+a senior team member.
 
-.. list-table::
-   :header-rows: 1
-   
+.. figure:: ../_static/example_competency_evidence.png
+   :align: center
+   :width: 650px
+   :alt: Example competency evidence record for sub-area 7.1 Pipeline Orchestration,
+         showing assessed levels from Beginner to Expert, an evidence statement at
+         Proficient level, and an approver sign-off section.
+
+   Figure 2: Example competency evidence record for sub-area 7.1 Pipeline
+   Orchestration, showing the assessed level, supporting evidence statement,
+   and reviewer sign-off.
 
 ------------------------------------------------------------------------
 

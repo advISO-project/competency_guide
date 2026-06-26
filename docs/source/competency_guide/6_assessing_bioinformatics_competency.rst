@@ -81,6 +81,88 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
 
 .. raw:: html
 
+   <style>
+   .flip-grid {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     gap: 16px;
+     margin: 1.5rem 0;
+   }
+   .flip-card {
+     height: 160px;
+     perspective: 1000px;
+     cursor: pointer;
+   }
+   .flip-card-inner {
+     position: relative;
+     width: 100%;
+     height: 100%;
+     transition: transform 0.5s ease;
+     transform-style: preserve-3d;
+   }
+   .flip-card.flipped .flip-card-inner {
+     transform: rotateY(180deg);
+   }
+   .flip-card-front,
+   .flip-card-back {
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     backface-visibility: hidden;
+     -webkit-backface-visibility: hidden;
+     border-radius: 8px;
+     padding: 1rem 1.25rem;
+     box-sizing: border-box;
+     border: 0.5px solid #D3D1C7;
+   }
+   .flip-card-front {
+     background: #F8F8F6;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+   }
+   .flip-card-back {
+     background: #E6F1FB;
+     border-color: #185FA5;
+     transform: rotateY(180deg);
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+   }
+   .flip-card-front .card-title {
+     font-weight: 600;
+     font-size: 14px;
+     color: #1a1a1a;
+     margin: 0 0 0.5rem;
+   }
+   .flip-card-front .card-body {
+     font-size: 13px;
+     color: #444;
+     line-height: 1.5;
+     margin: 0;
+   }
+   .flip-card-back .card-title {
+     font-weight: 600;
+     font-size: 13px;
+     color: #0C447C;
+     margin: 0 0 0.5rem;
+   }
+   .flip-card-back .card-body {
+     font-size: 13px;
+     color: #0C447C;
+     line-height: 1.5;
+     margin: 0;
+   }
+   .flip-hint {
+     font-size: 11px;
+     color: #888;
+     margin-top: 0.5rem;
+     text-align: right;
+   }
+   </style>
+
+.. raw:: html
+
    <div class="flip-grid">
 
      <div class="flip-card" onclick="this.classList.toggle('flipped')">

@@ -50,10 +50,19 @@ in the staff portfolio and the cycle continues as skills develop.
 
 ------------------------------------------------------------------------
 
+
 Types of evidence
 ------------------
 
-A broad range of evidence types can be used within a portfolio:
+A broad range of evidence types can be used within a portfolio. Evidence should be
+selected because it clearly demonstrates capability at the claimed level — not simply
+because it exists. Each piece of evidence should be accompanied by a short description
+explaining how it relates to the specific competency being assessed.
+
+There is no fixed minimum or maximum number of pieces of evidence per sub-area.
+The aim is to provide material that is relevant and sufficient, not exhaustive.
+Where a single piece of evidence clearly demonstrates a competency, that is enough.
+Where the competency is broad or complex, multiple pieces may be appropriate.
 
 .. grid:: 2
    :gutter: 3

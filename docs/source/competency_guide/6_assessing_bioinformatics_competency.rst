@@ -32,9 +32,21 @@ competencies, and creates a structured record of development over time.
 How the portfolio assessment process works
 -------------------------------------------
 
-.. image:: ../_static/competency_assessment_flowchart.png
-         :align: center
-         :width: 400px
+The flowchart below summarises the assessment cycle. Staff self-assess their current
+level for each competency sub-area, gather supporting evidence, and submit it for
+review by a senior team member. Evidence is assessed against two criteria: whether
+the claimed level is appropriate, and whether the evidence provided is sufficient to
+support it. Where either criterion is not met, feedback is provided and the submission
+is strengthened before resubmission. Once signed off, the competency level is recorded
+in the staff portfolio and the cycle continues as skills develop.
+
+.. figure:: ../_static/competency_assessment_flowchart.png
+   :align: center
+   :width: 500px
+   :alt: Flowchart showing the seven-step portfolio assessment process.
+
+   Figure 1: The portfolio assessment cycle — from self-assessment through
+   evidence gathering and review to ongoing development.
 
 ------------------------------------------------------------------------
 

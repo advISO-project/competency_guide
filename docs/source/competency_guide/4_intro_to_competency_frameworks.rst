@@ -5,16 +5,16 @@ Competency frameworks: an alternative for bioinformatics
 Why competency frameworks suit bioinformatics
 ----------------------------------------------
 
-Competency frameworks offer a structured way to define the skills, knowledge, and behaviours required for effective performance in a role. They are particularly well-suited to bioinformatics, where work is analytical, iterative, and difficult to assess through direct observation of a single standardised procedure. Rather than focusing on visible tasks, competency frameworks capture the broader capabilities that underpin real-world practice — troubleshooting, data interpretation, pipeline development, and analytical reasoning.
+Competency frameworks offer a structured way to define the skills, knowledge, and behaviours required for effective performance in a role. They are particularly well-suited to bioinformatics, where work is analytical, iterative, and difficult to assess through direct observation of a single standardised procedure. Rather than focusing on visible tasks, competency frameworks capture the broader capabilities that underpin real-world practice such as troubleshooting, data interpretation, pipeline development, and analytical reasoning.
 
-A competency framework breaks a role into key areas of practice and describes how individuals progress from beginner to expert. Many frameworks draw on established educational models — such as the **Dreyfus Model of Skill Acquisition** and **Bloom's taxonomy** — to articulate levels of expertise and the cognitive
+A competency framework breaks a role into key areas of practice and describes how individuals progress from beginner to expert. Many frameworks draw on established educational models including the **Dreyfus Model of Skill Acquisition** and **Bloom's taxonomy** to articulate levels of expertise and the cognitive
 complexity of tasks. This allows organisations to express not only what a clinical bioinformatician should be able to do, but how their capability is expected to develop over time.
 
 For bioinformatics teams operating under ISO 15189 or ISO 17025, competency frameworks provide:
 
 - A common structure for describing skills across staff with diverse backgrounds
 - A realistic way to capture competencies that are not directly observable
-- Clear progression pathways for staff development
+- Clear progression pathways for staff development (from beginner to expert)
 - A practical mechanism for demonstrating compliance with accreditation competency requirements
 
 ------------------------------------------------------

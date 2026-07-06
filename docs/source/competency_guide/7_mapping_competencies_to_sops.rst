@@ -51,7 +51,7 @@ providing a clear overview of the skills needed for each procedure:
 
    Troubleshooting in this context does not refer to deviating from an SOP or
    making unauthorised changes to a validated procedure. It refers to the ability
-   to resolve issues within the boundaries of the SOP — recognising unexpected
+   to resolve issues within the boundaries of the SOP e.g. recognising unexpected
    outcomes, identifying likely sources of error, applying permitted diagnostic
    steps, and determining whether escalation is required.
 
@@ -79,7 +79,7 @@ satisfy ISO requirements by demonstrating that:
 - competence is reviewed and maintained over time
 
 The inclusion of partial-competence and troubleshooting levels also supports ISO's
-focus on risk management — ensuring that investigative steps within an SOP are
+focus on risk management by ensuring that investigative steps within an SOP are
 handled safely and appropriately, without unauthorised deviation from validated
 procedures.
 

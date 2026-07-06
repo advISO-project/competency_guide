@@ -58,7 +58,7 @@ make DOP-style assessment unsuitable:
    .. grid-item-card:: Cognitive, diagnostic reasoning
         :class-card: sd-bg-light sd-text-dark
         
-        Debugging software, resolving dependency conflicts, and investigating unexpected results are mental processes — not observable procedural steps.
+        Debugging software, resolving dependency conflicts, and investigating unexpected results are mental processes that are not observable as procedural steps.
 
    .. grid-item-card:: Multiple valid approaches
         :class-card: sd-bg-light sd-text-dark
@@ -68,12 +68,12 @@ make DOP-style assessment unsuitable:
    .. grid-item-card:: Unpredictable failure modes
         :class-card: sd-bg-light sd-text-dark
         
-        Technical issues (version mismatches, file corruption) and biological artefacts (contamination, low-quality data) require adaptive investigation that cannot be scripted in advance.
+        Technical issues (version mismatches, file corruption etc.) and biological artefacts (contamination, low-quality data etc) require adaptive investigation that cannot be scripted in advance.
 
    .. grid-item-card:: Invisible decision-making
         :class-card: sd-bg-light sd-text-dark
 
-        The most consequential decisions occur within code or in the analyst's reasoning process — neither of which is visible to an observer in real time.
+        The most consequential decisions occur within code or in the analyst's reasoning process, neither of which is visible to an observer in real time.
 
 .. warning::
     

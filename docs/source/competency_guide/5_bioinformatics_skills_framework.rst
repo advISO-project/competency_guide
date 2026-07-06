@@ -252,10 +252,10 @@ Competency Area 4: Biological Data management
 
 ------------------------------------------------------------------------------------------------
 
+.. _CompArea5:
+
 Competency Area 5: Domain-specific expertise
 ---------------------------------------------
-
-.. _CompArea5:
 
 *Objective:* Demonstrates domain specific expertise to support activities undertaken in unit and provide informed advice
 

@@ -23,7 +23,7 @@ Other guides in this series
 This guide forms part of the advISO series of practical how-to resources for
 laboratories working toward ISO accreditation:
 
-.. grid:: 3
+.. grid:: 1
    :gutter: 2
 
    .. grid-item-card:: SOP writing

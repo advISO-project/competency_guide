@@ -59,6 +59,37 @@ This structured approach provides a transparent, auditable method for determinin
 whether an individual is competent to undertake a given SOP, based on evidence
 already assessed within the portfolio.
 
+
+
+.. dropdown:: Example SOP-competency mapping table
+
+   **SOP 011: Detection, reporting and basic remediation of hardware faults in the bioinformatics computing cluster**
+
+   This SOP describes the steps required to identify and report hardware faults in the bioinformatics computing cluster, and to perform basic remediation where possible. The following table shows the minimum competency levels required to perform this SOP at different levels of responsibility, from performing monitoring tasks, to carrying out the full SOP under supervision, to performing the SOP independently.
+
+   .. list-table::
+      :header-rows: 1
+      :width: 100
+      :widths: 40 60
+      
+      * - Level
+      - Monitoring only
+      - Full SOP (Supervised)
+      - Full SOP (Independent)
+      * - X.X title
+      - Description of the competency level required to perform monitoring tasks within the SOP
+      - Description of the competency level required to perform the full SOP under supervision
+      - Description of the competency level required to perform the full SOP independently
+      * - X.X title
+      - Description of the competency level required to perform monitoring tasks within the SOP
+      - Description of the competency level required to perform the full SOP under supervision
+      - Description of the competency level required to perform the full SOP independently
+      * - X.X title
+      - Description of the competency level required to perform monitoring tasks within the SOP
+      - Description of the competency level required to perform the full SOP under supervision
+      - Description of the competency level required to perform the full SOP independently
+
+
 ------------------------------------------------------------------------
 
 Alignment with ISO 15189 and ISO 17025
@@ -110,3 +141,5 @@ responsibilities more rapidly than portfolio evidence alone would allow.
 
    For further detail on where DOPs are and are not appropriate in a bioinformatics
    context, see :ref:`where DOPs remain appropriate <dops-appropriate>`.
+
+

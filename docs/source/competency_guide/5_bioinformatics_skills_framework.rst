@@ -6,7 +6,7 @@ This competency framework has been developed to support bioinformatics practice 
 
 The framework is designed to describe responsibilities rather than roles. Bioinformatics teams vary widely in structure, and individuals often contribute across multiple areas depending on service needs, expertise, and organisational context. By focusing on responsibilities, the framework remains applicable to all members of a bioinformatics team, regardless of job title, seniority, or local team configuration.
 
-Although the framework presented here is tailored to pathogen genomics, it has been intentionally designed to be easily adapted to other areas of clinical bioinformatics. By replacing the domain-specific competencies in area 5, the same structure can be applied to fields such as rare-disease genomics, cancer genetics, or other diagnostic and research applications.
+Although the framework presented here is tailored to pathogen genomics, it has been intentionally designed to be easily adapted to other areas of clinical bioinformatics. By replacing the domain-specific competencies in :ref:`Competency Area 5 <CompArea5>`, the same structure can be applied to fields such as rare-disease genomics, cancer genetics, or other diagnostic and research applications.
 
 ------------------------------------------------------------------------------------------------
 
@@ -254,6 +254,8 @@ Competency Area 4: Biological Data management
 
 Competency Area 5: Domain-specific expertise
 ---------------------------------------------
+
+.. _CompArea5:
 
 *Objective:* Demonstrates domain specific expertise to support activities undertaken in unit and provide informed advice
 

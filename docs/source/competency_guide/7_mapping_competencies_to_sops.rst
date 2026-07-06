@@ -13,6 +13,67 @@ translate evidenced skills into task-level competence.
 
 ------------------------------------------------------------------------
 
+Mapping competencies to SOPs
+----------------------------
+
+To achieve this translation, we recommend mapping each SOP to the minimum competency levels required to carry it out safely and effectively. This mapping process ensures that the broad competencies in the framework can be applied directly to operational work. It also encourages senior staff to consider the skills and expertise required when developing new procedures, and can highlight areas where the competency framework may need refinement.
+
+When mapping competencies to SOPs, it is important to consider whether the SOP can be be broken down into different levels of responsibility. Examples may include:
+
+.. grid:: 1
+   :gutter: 3
+
+   .. grid-item-card:: Monitoring-only
+      :class-card: sd-bg-light sd-text-dark
+
+      The individual is able to perform monitoring tasks within the SOP, but does not have the skills or experience to carry out the full procedure.
+
+   .. grid-item-card:: Full SOP under supervision
+      :class-card: sd-bg-light sd-text-dark
+
+      The individual is able to carry out the full SOP, but requires supervision or support from a more experienced colleague.
+
+   .. grid-item-card:: Full SOP independently
+      :class-card: sd-bg-light sd-text-dark
+
+      The individual is able to carry out the full SOP without supervision.
+
+   .. grid-item-card:: Troubleshooting
+      :class-card: sd-bg-light sd-text-dark
+
+      The additional skills required to resolve issues within the boundaries of the SOP, where the procedure anticipates that unexpected issues may occur and requires the bioinformatician to investigate.
+      
+Competency levels can then be mapped to these different levels of responsibility. For examples, an SOP detailing the process for detecting hardware faults within a bioinformatics computing cluster, and performing basic remediation where possible, may require the following mapping:
+
+.. list-table::
+   :header-rows: 1
+   :width: 100
+   :widths: 40 60
+      
+   * - Level
+     - Monitoring only
+     - Full SOP (Supervised)
+     - Full SOP (Independent)
+   * - X.X title
+     - Description of the competency level required to perform monitoring tasks within the SOP
+     - Description of the competency level required to perform the full SOP under supervision
+     - Description of the competency level required to perform the full SOP independently
+   * - X.X title
+     - Description of the competency level required to perform monitoring tasks within the SOP
+     - Description of the competency level required to perform the full SOP under supervision
+     - Description of the competency level required to perform the full SOP independently
+   * - X.X title
+     - Description of the competency level required to perform monitoring tasks within the SOP
+     - Description of the competency level required to perform the full SOP under supervision
+     - Description of the competency level required to perform the full SOP independently
+
+
+
+
+
+
+ may require competencies in system monitoring, troubleshooting, and communication. The mapping process would identify the specific levels of these competencies needed to perform the SOP under supervision or independently.
+
 Linking competencies to practical tasks
 ----------------------------------------
 
@@ -25,27 +86,6 @@ and can highlight areas where the competency framework may need refinement.
 Once competency requirements are mapped to SOPs, they are collated into a matrix
 providing a clear overview of the skills needed for each procedure:
 
-.. grid:: 1
-   :gutter: 3
-
-   .. grid-item-card:: Full completion
-      :class-card: sd-bg-light sd-text-dark
-
-      The minimum competency levels required to carry out an SOP from start to
-      finish independently and safely.
-
-   .. grid-item-card:: Partial completion
-      :class-card: sd-bg-light sd-text-dark
-
-      The competencies that would allow an individual to complete defined stages
-      of a procedure, supporting supervised or collaborative working.
-
-   .. grid-item-card:: Troubleshooting
-      :class-card: sd-bg-light sd-text-dark
-
-      The additional skills required to resolve issues within the boundaries of
-      the SOP, where the procedure anticipates that unexpected results may occur
-      and requires the operator to investigate.
 
 .. note::
 
@@ -58,36 +98,6 @@ providing a clear overview of the skills needed for each procedure:
 This structured approach provides a transparent, auditable method for determining
 whether an individual is competent to undertake a given SOP, based on evidence
 already assessed within the portfolio.
-
-
-
-.. dropdown:: Example SOP-competency mapping table
-
-   **SOP 011: Detection, reporting and basic remediation of hardware faults in the bioinformatics computing cluster**
-
-   This SOP describes the steps required to identify and report hardware faults in the bioinformatics computing cluster, and to perform basic remediation where possible. The following table shows the minimum competency levels required to perform this SOP at different levels of responsibility, from performing monitoring tasks, to carrying out the full SOP under supervision, to performing the SOP independently.
-
-   .. list-table::
-      :header-rows: 1
-      :width: 100
-      :widths: 40 60
-      
-      * - Level
-      - Monitoring only
-      - Full SOP (Supervised)
-      - Full SOP (Independent)
-      * - X.X title
-      - Description of the competency level required to perform monitoring tasks within the SOP
-      - Description of the competency level required to perform the full SOP under supervision
-      - Description of the competency level required to perform the full SOP independently
-      * - X.X title
-      - Description of the competency level required to perform monitoring tasks within the SOP
-      - Description of the competency level required to perform the full SOP under supervision
-      - Description of the competency level required to perform the full SOP independently
-      * - X.X title
-      - Description of the competency level required to perform monitoring tasks within the SOP
-      - Description of the competency level required to perform the full SOP under supervision
-      - Description of the competency level required to perform the full SOP independently
 
 
 ------------------------------------------------------------------------

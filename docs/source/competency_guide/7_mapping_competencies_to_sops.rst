@@ -18,7 +18,9 @@ Mapping competencies to SOPs
 
 To achieve this translation, we recommend mapping each SOP to the minimum competency levels required to carry it out safely and effectively. This mapping process ensures that the broad competencies in the framework can be applied directly to operational work. It also encourages senior staff to consider the skills and expertise required when developing new procedures, and can highlight areas where the competency framework may need refinement.
 
-When mapping competencies to SOPs, it is important to consider whether the SOP can be be broken down into different levels of responsibility. Examples may include:
+When mapping competencies to SOPs, it is important to consider whether the SOP can be be broken down into different levels of responsibility. 
+
+Examples may include:
 
 .. grid:: 1
    :gutter: 3
@@ -48,8 +50,8 @@ Competency levels can then be mapped to these different levels of responsibility
 .. list-table::
    :header-rows: 1
    :width: 100
-   :widths: 40 60
-      
+   :widths: 25 25 25 25
+   
    * - Level
      - Monitoring only
      - Full SOP (Supervised)

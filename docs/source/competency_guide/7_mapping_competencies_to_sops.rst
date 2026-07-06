@@ -50,31 +50,28 @@ Competency levels can then be mapped to these different levels of responsibility
 .. list-table::
    :header-rows: 1
    :width: 100
-   :widths: 25 25 25 25
-   
+   :widths: 10 30 30 30
+
    * - Level
      - Monitoring only
      - Full SOP (Supervised)
      - Full SOP (Independent)
-   * - X.X title
-     - Description of the competency level required to perform monitoring tasks within the SOP
-     - Description of the competency level required to perform the full SOP under supervision
-     - Description of the competency level required to perform the full SOP independently
-   * - X.X title
-     - Description of the competency level required to perform monitoring tasks within the SOP
-     - Description of the competency level required to perform the full SOP under supervision
-     - Description of the competency level required to perform the full SOP independently
+
    * - X.X title
      - Description of the competency level required to perform monitoring tasks within the SOP
      - Description of the competency level required to perform the full SOP under supervision
      - Description of the competency level required to perform the full SOP independently
 
+   * - X.X title
+     - Description of the competency level required to perform monitoring tasks within the SOP
+     - Description of the competency level required to perform the full SOP under supervision
+     - Description of the competency level required to perform the full SOP independently
 
+   * - X.X title
+     - Description of the competency level required to perform monitoring tasks within the SOP
+     - Description of the competency level required to perform the full SOP under supervision
+     - Description of the competency level required to perform the full SOP independently
 
-
-
-
- may require competencies in system monitoring, troubleshooting, and communication. The mapping process would identify the specific levels of these competencies needed to perform the SOP under supervision or independently.
 
 Linking competencies to practical tasks
 ----------------------------------------

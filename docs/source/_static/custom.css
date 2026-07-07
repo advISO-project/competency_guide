@@ -33,3 +33,10 @@
     font-weight: 600;
     display: inline-block;
 }
+
+table.docutils td,
+table.docutils th {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+}

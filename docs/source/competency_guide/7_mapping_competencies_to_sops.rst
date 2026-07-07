@@ -47,37 +47,39 @@ Examples may include:
       
 Competency levels can then be mapped to these different levels of responsibility. For example, an SOP covering system health monitoring and basic remediation, whether for hardware faults within a bioinformatics computing cluster or for pipeline execution failures, may require the following mapping:
 
-.. list-table:: Example competency mapping for a system monitoring SOP
+.. list-table:: Example competency mapping for system health monitoring SOPs
    :header-rows: 1
    :width: 100
-   :widths: 20 16 16 16 16 16
+   :widths: 28 24 24 24
 
-   * - Responsibility
-     - 6.1 Compute allocation
-     - 6.2 Software & environments
-     - 6.4 System monitoring
-     - 7.1 Pipeline orchestration
-     - 7.2 Containers & reproducibility
+   * - Competency Area
+     - Monitoring only
+     - Full SOP (Supervised)
+     - Full SOP (Independent)
 
-   * - Monitoring only
+   * - 6.1 Compute allocation
      - :level-beginner:`Beginner`
-     - :level-beginner:`Beginner`
-     - :level-beginner:`Beginner`
-     - :level-beginner:`Beginner`
-     - :level-beginner:`Beginner`
-
-   * - Full SOP (Supervised)
-     - :level-competent:`Competent`
-     - :level-competent:`Competent`
-     - :level-competent:`Competent`
      - :level-competent:`Competent`
      - :level-competent:`Competent`
 
-   * - Full SOP (Independent)
+   * - 6.2 Software & environments
+     - :level-beginner:`Beginner`
      - :level-competent:`Competent`
      - :level-competent:`Competent`
+
+   * - 6.4 System monitoring
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
+     - :level-competent:`Competent`
+
+   * - 7.1 Pipeline orchestration
+     - :level-beginner:`Beginner`
      - :level-competent:`Competent`
      - :level-proficient:`Proficient`
+
+   * - 7.2 Containers & reproducibility
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
      - :level-competent:`Competent`
 
 

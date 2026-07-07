@@ -4,11 +4,11 @@ Welcome to the advISO Bioinformatics Competency Guide
 
 **Release:** |release|  [|today|]
 
-This guide provides practical guidance on implementing a bioinformatics competency
-framework compatible with the requirements of **ISO 15189** and **ISO 17025**. It
-covers how laboratories can structure, assess, evidence, and maintain competency
-for bioinformatics roles in a way that is reproducible and aligned with clinical
-quality management expectations.
+This guide provides practical guidance on implementing a bioinformatics competency 
+framework compatible with the requirements of `ISO 15189 <https://www.iso.org/standard/76677.html>`_ 
+and `ISO 17025 <https://www.iso.org/standard/66912.html>`_. It covers how laboratories 
+can structure, assess, evidence, and maintain competency for bioinformatics roles in a way 
+that is reproducible and aligned with clinical quality management expectations.
 
 It builds on the competency profile approach presented in our paper *"A framework
 for bioinformatics competency tracking that is compliant with the requirements of

@@ -20,43 +20,163 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 .. dropdown:: Dreyfus Model of Skill Acquisition
 
     The Dreyfus Model of Skill Acquisition describes how individuals progress through stages of learning and skill development, ranging from novice to expert, and provides a framework for understanding how people acquire and refine skills over time. The model emphasises the importance of experience, context, and intuition in developing expertise, and is widely used in education, training, and professional development.
-    
+
     While the original model defined five stages (novice, advanced beginner, competent, proficient, expert), for the purposes of assessing bioinformatics competency we suggest a simplified version of the model, which focuses on four levels:
 
-    +--------------------------------+-------------------------------------------------+
-    | Level                          | Description                                     |
-    +================================+=================================================+
-    | :level-beginner:`Beginner`     | Learners at this level have limited experience  | 
-    |                                | and require guidance and supervision to perform | 
-    |                                | tasks. They are developing foundational         |
-    |                                | knowledge and skills but may struggle with      |
-    |                                | complex or unfamiliar situations.               |
-    +--------------------------------+-------------------------------------------------+
-    | :level-competent:`Competent`   | Individuals at this level have a solid          |
-    |                                | understanding of the domain and can perform     |
-    |                                | tasks with minimal supervision. They are able   |
-    |                                | to apply their knowledge to solve problems and  |
-    |                                | make decisions, but may still require support   |
-    |                                | for more complex or novel situations.           |
-    +--------------------------------+-------------------------------------------------+
-    | :level-proficient:`Proficient` | Individuals at this level have developed a high |
-    |                                | degree of skill and can perform tasks           |
-    |                                | independently. They are able to handle complex  |
-    |                                | and novel situations effectively, drawing on    |
-    |                                | their experience and intuition.                 |
-    +--------------------------------+-------------------------------------------------+
-    | :level-expert:`Expert`         | Experts possess a deep understanding of the     |
-    |                                | domain and can innovate and lead in their       |
-    |                                | field. They are able to guide others, make      |
-    |                                | strategic decisions, and contribute to the      | 
-    |                                | advancement of the discipline.                  |
-    +--------------------------------+-------------------------------------------------+
+    .. raw:: html
+
+       <style>
+       .flip-grid {
+         display: grid;
+         grid-template-columns: 1fr 1fr;
+         gap: 16px;
+         margin: 1.5rem 0;
+       }
+       .flip-card {
+         height: 160px;
+         perspective: 1000px;
+         cursor: pointer;
+       }
+       .flip-card-inner {
+         position: relative;
+         width: 100%;
+         height: 100%;
+         transition: transform 0.5s ease;
+         transform-style: preserve-3d;
+       }
+       .flip-card.flipped .flip-card-inner {
+         transform: rotateY(180deg);
+       }
+       .flip-card-front,
+       .flip-card-back {
+         position: absolute;
+         width: 100%;
+         height: 100%;
+         backface-visibility: hidden;
+         -webkit-backface-visibility: hidden;
+         border-radius: 8px;
+         padding: 1rem 1.25rem;
+         box-sizing: border-box;
+         border: 0.5px solid #D3D1C7;
+       }
+       .flip-card-front {
+         background: #F8F8F6;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         text-align: center;
+       }
+       .flip-card-back {
+         background: #E6F1FB;
+         border-color: #185FA5;
+         transform: rotateY(180deg);
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+       }
+       .flip-card-front .card-title {
+         font-weight: 700;
+         font-size: 16px;
+         color: #1a1a1a;
+         margin: 0 0 0.75rem;
+       }
+       .flip-card-back .card-body {
+         font-size: 13px;
+         color: #0C447C;
+         line-height: 1.5;
+         margin: 0;
+       }
+       .flip-hint {
+         font-size: 11px;
+         color: #888;
+         margin-top: 0.5rem;
+         text-align: center;
+       }
+       </style>
+
+       <script>
+       function flipCard(card) {
+         const allCards = document.querySelectorAll('.flip-card');
+         allCards.forEach(function(c) {
+           if (c !== card) {
+             c.classList.remove('flipped');
+           }
+         });
+         card.classList.toggle('flipped');
+       }
+       </script>
+
+    .. raw:: html
+
+       <div class="flip-grid">
+
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Beginner</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back">
+               <p class="card-body">Learners at this level have limited experience
+               and require guidance and supervision to perform tasks. They are
+               developing foundational knowledge and skills but may struggle with
+               complex or unfamiliar situations.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Competent</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back">
+               <p class="card-body">Individuals at this level have a solid
+               understanding of the domain and can perform tasks with minimal
+               supervision. They are able to apply their knowledge to solve
+               problems and make decisions, but may still require support for
+               more complex or novel situations.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Proficient</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back">
+               <p class="card-body">Individuals at this level have developed a
+               high degree of skill and can perform tasks independently. They are
+               able to handle complex and novel situations effectively, drawing
+               on their experience and intuition.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Expert</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back">
+               <p class="card-body">Experts possess a deep understanding of the
+               domain and can innovate and lead in their field. They are able to
+               guide others, make strategic decisions, and contribute to the
+               advancement of the discipline.</p>
+             </div>
+           </div>
+         </div>
+
+       </div>
 
 .. dropdown:: Bloom's taxonomy
 
     Bloom's taxonomy is a hierarchical framework for categorising educational objectives and learning outcomes. It classifies cognitive skills into six levels, from lower-order thinking skills (remembering, understanding) to higher-order thinking skills (applying, analysing, evaluating, creating). Bloom's taxonomy is widely used in curriculum design, assessment, and instructional planning to promote critical thinking and deeper learning.
-
-
 
 ------------------------------------------------------
 
@@ -68,7 +188,7 @@ approach for bioinformatics:
 
 .. grid:: 1
     :gutter: 3
-    
+
     .. grid-item-card:: Competency framework
         :class-card: sd-bg-light sd-text-dark
         :link: 5_bioinformatics_skills_framework
@@ -87,5 +207,5 @@ approach for bioinformatics:
         :class-card: sd-bg-light sd-text-dark
         :link: 8_training_development
         :link-type: doc
-        
+
         An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.

@@ -22,19 +22,19 @@ Where DOPs remain appropriate
 ------------------------------
 
 DOPs are suitable where a task is procedural, the steps are fixed, and performance
-can be directly observed against a defined standard. Within a bioinformatics context, examples include:
+can be directly observed against a defined standard. Within a bioinformatics context, examples may include:
 
-.. dropdown:: Example 1
+.. dropdown:: Manually queueing a sequencing run for analysis
 
-    Add text
+    While bioinformatics pipelines may automatically queue and process sequencing runs, there will be occasions where a bioinformatician is required to manually queue a run. This is a procedural task with a defined set of steps that can be observed and assessed.
 
-.. dropdown:: Example 2
+.. dropdown:: Manually stopping a pipeline
     
-    Add text
+    There may be occasions where a bioinformatician is required to manually stop a pipeline, for example when a problem with library preparation has been identified. This is a procedural task with a defined set of steps that can be observed and assessed.
 
-.. dropdown:: Example 3
+.. dropdown:: Quality checking a sequencing run
     
-    Add text
+    Quality checking of sequencing runs involves a series of observable steps that can be directly assessed. This is a procedural task with a defined set of steps that can be observed and assessed, particularly as PASS / FAIL criteria are pre-defined and documented.
 
 In these cases, a DOP provides meaningful competency evidence that is proportionate
 to the task and straightforward to document for ISO 15189 and ISO 17025 purposes.

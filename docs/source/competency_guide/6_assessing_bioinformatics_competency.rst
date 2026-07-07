@@ -256,3 +256,10 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
      </div>
 
    </div>
+
+--------------------------------------------------------------------
+
+Ongoing assessment
+------------------
+
+The ISO standards require that competency is periodically reassessed to ensure that staff maintain their capability over time. This is regardless of whether the competency has been assessed through a portfolio or DOP. The reassessment interval should be defined by the laboratory, taking into account the nature of the competency, the frequency of its use, and frequency of changes in the relevant technology or procedures. A typical reassessment interval may be every 1-2 years, but this should be tailored to the specific context and risk profile of the laboratory.

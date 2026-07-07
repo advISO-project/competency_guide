@@ -17,6 +17,14 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 - Clear progression pathways for staff development (from beginner to expert)
 - A practical mechanism for demonstrating compliance with accreditation competency requirements
 
+.. dropdown:: Dreyfus Model of Skill Acquisition
+
+    Add content
+
+.. dropdown:: Bloom's taxonomy
+
+    Add content
+
 ------------------------------------------------------
 
 What this guide introduces

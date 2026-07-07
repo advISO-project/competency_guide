@@ -60,7 +60,6 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          border: 0.5px solid #D3D1C7;
        }
        .flip-card-front {
-         background: #F8F8F6;
          display: flex;
          flex-direction: column;
          justify-content: center;
@@ -68,6 +67,7 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          text-align: center;
        }
        .flip-card-back {
+         background: #F8F8F6;
          transform: rotateY(180deg);
          display: flex;
          flex-direction: column;
@@ -76,48 +76,52 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
        .flip-card-front .card-title {
          font-weight: 700;
          font-size: 16px;
-         color: #1a1a1a;
          margin: 0 0 0.75rem;
        }
        .flip-card-back .card-body {
          font-size: 13px;
+         color: #1a1a1a;
          line-height: 1.5;
          margin: 0;
        }
        .flip-hint {
          font-size: 11px;
-         color: #888;
          margin-top: 0.5rem;
          text-align: center;
+         opacity: 0.75;
        }
 
-       /* Level-specific back panel colours, matching .level-* pill classes */
-       .flip-card-back.back-beginner {
+       /* Level-specific front panel colours, matching .level-* pill classes */
+       .flip-card-front.front-beginner {
          background: #e3f2fd;
          border-color: #0d47a1;
        }
-       .flip-card-back.back-beginner .card-body {
+       .flip-card-front.front-beginner .card-title,
+       .flip-card-front.front-beginner .flip-hint {
          color: #0d47a1;
        }
-       .flip-card-back.back-competent {
+       .flip-card-front.front-competent {
          background: #e8f5e9;
          border-color: #1b5e20;
        }
-       .flip-card-back.back-competent .card-body {
+       .flip-card-front.front-competent .card-title,
+       .flip-card-front.front-competent .flip-hint {
          color: #1b5e20;
        }
-       .flip-card-back.back-proficient {
+       .flip-card-front.front-proficient {
          background: #fff8e1;
          border-color: #e65100;
        }
-       .flip-card-back.back-proficient .card-body {
+       .flip-card-front.front-proficient .card-title,
+       .flip-card-front.front-proficient .flip-hint {
          color: #e65100;
        }
-       .flip-card-back.back-expert {
+       .flip-card-front.front-expert {
          background: #fce4ec;
          border-color: #880e4f;
        }
-       .flip-card-back.back-expert .card-body {
+       .flip-card-front.front-expert .card-title,
+       .flip-card-front.front-expert .flip-hint {
          color: #880e4f;
        }
        </style>
@@ -140,11 +144,11 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
-             <div class="flip-card-front">
+             <div class="flip-card-front front-beginner">
                <p class="card-title">1. Beginner</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back back-beginner">
+             <div class="flip-card-back">
                <p class="card-body">Learners at this level have limited experience
                and require guidance and supervision to perform tasks. They are
                developing foundational knowledge and skills but may struggle with
@@ -155,11 +159,11 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
-             <div class="flip-card-front">
+             <div class="flip-card-front front-competent">
                <p class="card-title">2. Competent</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back back-competent">
+             <div class="flip-card-back">
                <p class="card-body">Individuals at this level have a solid
                understanding of the domain and can perform tasks with minimal
                supervision. They are able to apply their knowledge to solve
@@ -171,11 +175,11 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
-             <div class="flip-card-front">
+             <div class="flip-card-front front-proficient">
                <p class="card-title">3. Proficient</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back back-proficient">
+             <div class="flip-card-back">
                <p class="card-body">Individuals at this level have developed a
                high degree of skill and can perform tasks independently. They are
                able to handle complex and novel situations effectively, drawing
@@ -186,11 +190,11 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
-             <div class="flip-card-front">
+             <div class="flip-card-front front-expert">
                <p class="card-title">4. Expert</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back back-expert">
+             <div class="flip-card-back">
                <p class="card-body">Experts possess a deep understanding of the
                domain and can innovate and lead in their field. They are able to
                guide others, make strategic decisions, and contribute to the

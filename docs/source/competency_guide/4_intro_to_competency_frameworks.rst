@@ -30,6 +30,8 @@ approach for bioinformatics:
     
     .. grid-item-card:: Competency framework
         :class-card: sd-bg-light sd-text-dark
+        :link: 5_bioinformatics_skills_framework
+        :link-type: rst
 
         A structured set of domains and skill levels tailored to bioinformatics, defining what staff at each level should know and be able to do.
 

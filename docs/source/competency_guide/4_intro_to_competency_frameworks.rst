@@ -37,10 +37,14 @@ approach for bioinformatics:
 
     .. grid-item-card:: Assessment framework
         :class-card: sd-bg-light sd-text-dark
+        :link: 6_assessing_bioinformatics_competency
+        :link-type: doc
 
         A description of how staff demonstrate capability, what evidence is required, and how that evidence is reviewed and recorded.
 
     .. grid-item-card:: Training framework
         :class-card: sd-bg-light sd-text-dark
+        :link: 8_training_development
+        :link-type: doc
         
         An outline of how staff can develop the skills required to progress through the competency levels, including suggested learning activities and resources.

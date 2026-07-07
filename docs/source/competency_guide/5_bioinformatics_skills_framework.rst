@@ -2,7 +2,7 @@
 A bioinformatics skills framework for pathogen genomics
 =======================================================
 
-This competency framework has been developed to support bioinformatics practice in pathogen genomics, and is adapted from the framework used by the adVISO project partner Public Health Wales. It provides a structured description of the skills and responsibilities required across the breadth of work undertaken by bioinformaticians working with pathogen-genomics data.
+This competency framework has been developed to support bioinformatics practice in pathogen genomics, and is adapted from the framework used by the adVISO project partner Public Health Wales, which itself was based upon the framwork developed by the `Centers for Disease Control and Prevention (CDC) <https://www.cdc.gov/mmwr/preview/mmwrhtml/su6401a1.htm>`_. It provides a structured description of the skills and responsibilities required across the breadth of work undertaken by bioinformaticians working with pathogen-genomics data.
 
 The framework is designed to describe responsibilities rather than roles. Bioinformatics teams vary widely in structure, and individuals often contribute across multiple areas depending on service needs, expertise, and organisational context. By focusing on responsibilities, the framework remains applicable to all members of a bioinformatics team, regardless of job title, seniority, or local team configuration.
 

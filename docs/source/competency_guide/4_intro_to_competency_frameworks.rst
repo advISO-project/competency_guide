@@ -21,15 +21,36 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
     The Dreyfus Model of Skill Acquisition describes how individuals progress through stages of learning and skill development, ranging from novice to expert, and provides a framework for understanding how people acquire and refine skills over time. The model emphasises the importance of experience, context, and intuition in developing expertise, and is widely used in education, training, and professional development.
     
-    While the original model defined five stages (novice, advanced beginner, competent, proficient, expert), for the purposes of assessing bioinformatics competency we suggest a simplified version of the model, which focuses on four levels: 
-    
-    :level-beginner:`Beginner` - Learners at this level have limited experience and require guidance and supervision to perform tasks. They are developing foundational knowledge and skills but may struggle with complex or unfamiliar situations.
+    While the original model defined five stages (novice, advanced beginner, competent, proficient, expert), for the purposes of assessing bioinformatics competency we suggest a simplified version of the model, which focuses on four levels:
 
-    :level-competent:`Competent` - Individuals at this level have a solid understanding of the domain and can perform tasks with minimal supervision. They are able to apply their knowledge to solve problems and make decisions, but may still require support for more complex or novel situations.
-    
-    :level-proficient:`Proficient` - Individuals at this level have developed a high degree of skill and can perform tasks independently. They are able to handle complex and novel situations effectively, drawing on their experience and intuition.
-
-    :level-expert:`Expert` - Experts possess a deep understanding of the domain and can innovate and lead in their field. They are able to guide others, make strategic decisions, and contribute to the advancement of the discipline.
+    +--------------------------------+-------------------------------------------------+
+    | Level                          | Description                                     |
+    +================================+=================================================+
+    | :level-beginner:`Beginner`     | Learners at this level have limited experience  | 
+    |                                | and require guidance and supervision to perform | 
+    |                                | tasks. They are developing foundational         |
+    |                                | knowledge and skills but may struggle with      |
+    |                                | complex or unfamiliar situations.               |
+    +--------------------------------+-------------------------------------------------+
+    | :level-competent:`Competent`   | Individuals at this level have a solid          |
+    |                                | understanding of the domain and can perform     |
+    |                                | tasks with minimal supervision. They are able   |
+    |                                | to apply their knowledge to solve problems and  |
+    |                                | make decisions, but may still require support   |
+    |                                | for more complex or novel situations.           |
+    +--------------------------------+-------------------------------------------------+
+    | :level-proficient:`Proficient` | Individuals at this level have developed a high |
+    |                                | degree of skill and can perform tasks           |
+    |                                | independently. They are able to handle complex  |
+    |                                | and novel situations effectively, drawing on    |
+    |                                | their experience and intuition.                 |
+    +--------------------------------+-------------------------------------------------+
+    | :level-expert:`Expert`         | Experts possess a deep understanding of the     |
+    |                                | domain and can innovate and lead in their       |
+    |                                | field. They are able to guide others, make      |
+    |                                | strategic decisions, and contribute to the      | 
+    |                                | advancement of the discipline.                  |
+    +--------------------------------+-------------------------------------------------+
 
 .. dropdown:: Bloom's taxonomy
 

@@ -27,7 +27,7 @@ laboratories working toward ISO accreditation:
    :gutter: 2
 
    .. grid-item-card:: SOP writing
-      :class-card: sd-bg-primary sd-text-white
+      :class-card: sd-bg-light sd-text-dark
       :link: https://adviso-sop-guide.readthedocs.io/en/latest/
       :link-type: url
       :text-align: center
@@ -35,7 +35,7 @@ laboratories working toward ISO accreditation:
       A practical guide to writing SOPs for clinical bioinformatics.
 
    .. grid-item-card:: Validating bioinformatics pipelines
-      :class-card: sd-bg-info sd-text-white
+      :class-card: sd-bg-light sd-text-dark
       :link: http://www.example.com
       :link-type: url
       :text-align: center
@@ -43,7 +43,7 @@ laboratories working toward ISO accreditation:
       How to validate bioinformatics pipelines for ISO accreditation.
 
    .. grid-item-card:: Performing bioinformatics audits
-      :class-card: sd-bg-success sd-text-white
+      :class-card: sd-bg-light sd-text-dark
       :link: http://www.example.com
       :link-type: url
       :text-align: center

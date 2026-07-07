@@ -82,34 +82,7 @@ Competency levels can then be mapped to these different levels of responsibility
      - :level-competent:`Competent`
      - :level-competent:`Competent`
 
-
-Linking competencies to practical tasks
-----------------------------------------
-
-Each SOP is mapped to the minimum competency levels required to carry it out safely
-and effectively. This mapping process ensures that the broad competencies in the
-framework can be applied directly to operational work. It also encourages senior
-staff to consider the skills and expertise required when developing new procedures,
-and can highlight areas where the competency framework may need refinement.
-
-Once competency requirements are mapped to SOPs, they are collated into a matrix
-providing a clear overview of the skills needed for each procedure:
-
-
-.. note::
-
-   Troubleshooting in this context does not refer to deviating from an SOP or
-   making unauthorised changes to a validated procedure. It refers to the ability
-   to resolve issues within the boundaries of the SOP e.g. recognising unexpected
-   outcomes, identifying likely sources of error, applying permitted diagnostic
-   steps, and determining whether escalation is required.
-
-This structured approach provides a transparent, auditable method for determining
-whether an individual is competent to undertake a given SOP, based on evidence
-already assessed within the portfolio.
-
-
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 
 Alignment with ISO 15189 and ISO 17025
 ----------------------------------------
@@ -146,7 +119,7 @@ Integrating DOPs for simple or routine tasks
 The competency-mapping approach is less effective for simple, single-step, or
 highly procedural tasks, where direct observation is more appropriate. For these
 tasks, Direct Observations of Practice (DOPs) remain the preferred assessment
-method — particularly for routine bioinformatics tasks performed daily, weekly,
+method, particularly for routine bioinformatics tasks performed daily, weekly,
 or monthly, where competence can be demonstrated quickly through observed
 performance.
 
@@ -160,5 +133,3 @@ responsibilities more rapidly than portfolio evidence alone would allow.
 
    For further detail on where DOPs are and are not appropriate in a bioinformatics
    context, see :ref:`where DOPs remain appropriate <dops-appropriate>`.
-
-

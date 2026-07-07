@@ -18,9 +18,7 @@ Mapping competencies to SOPs
 
 To achieve this translation, we recommend mapping each SOP to the minimum competency levels required to carry it out safely and effectively. This mapping process ensures that the broad competencies in the framework can be applied directly to operational work. It also encourages senior staff to consider the skills and expertise required when developing new procedures, and can highlight areas where the competency framework may need refinement.
 
-When mapping competencies to SOPs, it is important to consider whether the SOP can be be broken down into different levels of responsibility. 
-
-Examples may include:
+When mapping competencies to SOPs, it is important to consider whether the SOP can be be broken down into different levels of responsibility. Examples may include:
 
 .. grid:: 1
    :gutter: 3
@@ -47,7 +45,7 @@ Examples may include:
       
 Competency levels can then be mapped to these different levels of responsibility. For example, an SOP covering system health monitoring and basic remediation, whether for hardware faults within a bioinformatics computing cluster or for pipeline execution failures, may require the following mapping:
 
-.. list-table:: Example competency mapping for system health monitoring SOPs
+.. list-table::
    :header-rows: 1
    :width: 100
    :widths: 28 24 24 24
@@ -87,6 +85,11 @@ Competency levels can then be mapped to these different levels of responsibility
 Alignment with ISO 15189 and ISO 17025
 ----------------------------------------
 
+.. note::
+
+   This approach provides a defensible, auditable method for demonstrating
+   operational competence during ISO assessments and external audits.
+   
 Both ISO 15189 and ISO 17025 require laboratories to demonstrate that personnel
 are competent to perform the activities they are authorised to carry out. These
 standards emphasise documented evidence of education, training, skills, and
@@ -101,15 +104,10 @@ satisfy ISO requirements by demonstrating that:
 - authorisation to perform tasks is based on documented evidence
 - competence is reviewed and maintained over time
 
-The inclusion of partial-competence and troubleshooting levels also supports ISO's
-focus on risk management by ensuring that investigative steps within an SOP are
-handled safely and appropriately, without unauthorised deviation from validated
-procedures.
-
-.. note::
-
-   This approach provides a defensible, auditable method for demonstrating
-   operational competence during ISO assessments and external audits.
+The inclusion of partial-competence (e.g. monitoring, full SOP under supervision) 
+and troubleshooting levels also supports ISO's focus on risk management by ensuring 
+that investigative steps within an SOP are handled safely and appropriately, without 
+unauthorised deviation from validated procedures.
 
 ------------------------------------------------------------------------
 

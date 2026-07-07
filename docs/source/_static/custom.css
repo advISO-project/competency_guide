@@ -1,0 +1,35 @@
+.level-beginner {
+    background-color: #e3f2fd;
+    color: #0d47a1;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.level-competent {
+    background-color: #e8f5e9;
+    color: #1b5e20;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.level-proficient {
+    background-color: #fff8e1;
+    color: #e65100;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.level-expert {
+    background-color: #fce4ec;
+    color: #880e4f;
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    display: inline-block;
+}

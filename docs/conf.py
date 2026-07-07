@@ -36,6 +36,14 @@ rst_epilog = f"""
 .. |version| replace:: {version}
 """
 
+# Custom roles for competency-level coloring 
+rst_prolog = """
+.. role:: level-beginner
+.. role:: level-competent
+.. role:: level-proficient
+.. role:: level-expert
+"""
+
 # Use dynamic date for |today|
 today_fmt = "%Y-%m-%d"
 

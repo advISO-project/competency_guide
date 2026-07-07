@@ -27,13 +27,13 @@ Competency Area 1: Biology and computer science knowledge
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Identifies potential biological problems to be addressed by computer science techniques
-         * - Competent
+         * - :level-competent:`Competent`
            - Determines biological problems to be addressed by computer science techniques
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Evaluates the effectiveness of the selected computer science technique(s) in addressing biological problems
-         * - Expert
+         * - :level-expert:`Expert`
            - Selects biological problems to be addressed by computer science techniques
 
    .. tab:: 1.2 Computer science principles
@@ -45,13 +45,13 @@ Competency Area 1: Biology and computer science knowledge
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Identifies computer science domains to apply to biological problems
-         * - Competent
+         * - :level-competent:`Competent`
            - Applies computer science domains to biological problems
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Evaluates computer science domains to apply to biological problems
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops new understandings of computer science domains to apply to biological problems
 
 .. raw:: html
@@ -78,13 +78,13 @@ Competency Area 2: Statistical methods knowledge
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Prepares data for processing
-         * - Competent
+         * - :level-competent:`Competent`
            - Uses simple statistical analysis to analyse trends and patterns and to draw conclusions related to the biological data
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Compares findings to any related data sets
-         * - Expert
+         * - :level-expert:`Expert`
            - Oversees selection of advanced statistical methods applicable to specific bioinformatics analyses
 
 .. raw:: html
@@ -111,13 +111,13 @@ Competency Area 3: Biological Data Analysis
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Selects which existing tools and algorithms to use for any given analysis
-         * - Competent
+         * - :level-competent:`Competent`
            - Determines options and parameters of tools to meet specified needs of a given data analysis
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Implements new software tools to address unmet needs or improve current processes
-         * - Expert
+         * - :level-expert:`Expert`
            - Creates stand-alone analysis tools/pipelines
    
    .. tab:: 3.2 Interpretation
@@ -129,13 +129,13 @@ Competency Area 3: Biological Data Analysis
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Identifies data pertinent to the analysis problem
-         * - Competent
+         * - :level-competent:`Competent`
            - Formulates results of analyses, including information in the form of graphs, charts, and tables
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Interprets results within the context of the analysis problem
-         * - Expert
+         * - :level-expert:`Expert`
            - Generates hypotheses to predict future implications based on the evaluation of data analyses
 
    .. tab:: 3.3 Visualization
@@ -147,13 +147,13 @@ Competency Area 3: Biological Data Analysis
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Uses data visualization and representation tools to present results of data analyses
-         * - Competent
+         * - :level-competent:`Competent`
            - Selects visualization and representation tools for specified bioinformatics problems
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Evaluates representation and visualization tools for summarizing data analyses
-         * - Expert
+         * - :level-expert:`Expert`
            - Modifies existing visualization and representation tools to provide insight into bioinformatics analyses
 
    .. tab:: 3.4 Communication
@@ -165,13 +165,13 @@ Competency Area 3: Biological Data Analysis
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Discusses bioinformatics with other scientists within their institution
-         * - Competent
+         * - :level-competent:`Competent`
            - Initiates bioinformatics collaborations with colleague
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Facilitates knowledge-sharing with stakeholders
-         * - Expert
+         * - :level-expert:`Expert`
            - Contributes to new findings and meaningful advancements in bioinformatics through the evaluation and sharing of knowledge
 
 .. raw:: html
@@ -199,13 +199,13 @@ Competency Area 4: Biological Data management
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Demonstrates basic knowledge of data structures
-         * - Competent
+         * - :level-competent:`Competent`
            - Applies knowledge of data structures to relevant problems
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Manipulates data structures to address biological problems
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops new data structures
 
    .. tab:: 4.2 Management
@@ -217,13 +217,13 @@ Competency Area 4: Biological Data management
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Describes data management techniques
-         * - Competent
+         * - :level-competent:`Competent`
            - Applies knowledge of data management techniques to relevant problems
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Evaluates data management techniques
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops new data management techniques
 
    .. tab:: 4.3 Storage and retrieval
@@ -235,13 +235,13 @@ Competency Area 4: Biological Data management
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Describes data storage and retrieval techniques
-         * - Competent
+         * - :level-competent:`Competent`
            - Applies knowledge of data storage and retrieval techniques
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Evaluates data storage and retrieval techniques
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops new data storage and retrieval techniques
 
 .. raw:: html
@@ -270,13 +270,13 @@ Competency Area 5: Domain-specific expertise
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Is able to perform basic interpretation of phylogenetic trees 
-         * - Competent
+         * - :level-competent:`Competent`
            - Understands different methods for inferring transmissions (e.g. SNP addressing) and can use this to predict transmission
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Understands confounders (such as recombination) that can affect transmission inference and how this can be mitigated
-         * - Expert
+         * - :level-expert:`Expert`
            - Is able to undertake and develop advanced, model-based approaches to infer transmission events
 
    .. tab:: 5.2 Population genomics
@@ -288,13 +288,13 @@ Competency Area 5: Domain-specific expertise
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Understands the application of basic clustering approaches to subdivide populations 
-         * - Competent
+         * - :level-competent:`Competent`
            - Is able to use clustering approaches to subdivide populations and detect recombination
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Is able to integrate clustering approaches into other analyses to understand the population structure of pathogens
-         * - Expert
+         * - :level-expert:`Expert`
            - Is able to develop new clustering algorithms to subdivide populations
 
    .. tab:: 5.3 Pathogen genomics
@@ -306,13 +306,13 @@ Competency Area 5: Domain-specific expertise
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Is able to perform pairwise comparative genomics investigations 
-         * - Competent
+         * - :level-competent:`Competent`
            - Is able to work with multiple genomes to characterise genomic differences
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Is able to use pathogen genomics to characterise samples with respect to databases of organisms and genes
-         * - Expert
+         * - :level-expert:`Expert`
            - Contributes novel findings about pathogens using genomics. Is able to develop and apply new approaches/ways of analysing pathogen genomic data
 
 .. raw:: html
@@ -339,13 +339,13 @@ Competency Area 6:  System administration
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Describe available computing resources and capacity 
-         * - Competent
+         * - :level-competent:`Competent`
            - Allocates computing resources
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Manages allocation of multiple computing resources
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops new methods for allocation of computing resources
 
    .. tab:: 6.2 Software & environments
@@ -357,13 +357,13 @@ Competency Area 6:  System administration
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Installs software using established procedures
-         * - Competent
+         * - :level-competent:`Competent`
            - Maintains software stacks and manages environments (e.g. conda)
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Optimises environments, resolves dependency issues, and ensures reproducibility
-         * - Expert
+         * - :level-expert:`Expert`
            - Designs organisation-wide environment strategies and standardised software stacks
 
    .. tab:: 6.3 Storage & lifecycle
@@ -375,13 +375,13 @@ Competency Area 6:  System administration
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Describes storage systems and follows data-organisation procedures
-         * - Competent
+         * - :level-competent:`Competent`
            - Manages storage allocation and applies retention policies
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Oversees data lifecycle processes including archival, backup, and retrieval
-         * - Expert
+         * - :level-expert:`Expert`
            - Designs large-scale storage architectures and long-term data-lifecycle strategies
 
    .. tab:: 6.4 System monitoring
@@ -393,13 +393,13 @@ Competency Area 6:  System administration
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Uses basic monitoring tools to observe system status
-         * - Competent
+         * - :level-competent:`Competent`
            - Identifies simple performance issues and reports them appropriately
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Diagnoses and resolves performance issues across compute and storage systems
-         * - Expert
+         * - :level-expert:`Expert`
            - Designs performance-optimised system architectures and monitoring frameworks
 
    .. tab:: 6.5 Security & access
@@ -411,13 +411,13 @@ Competency Area 6:  System administration
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Follows security procedures and uses approved authentication methods
-         * - Competent
+         * - :level-competent:`Competent`
            - Manages user accounts, permissions, and routine access controls
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Implements security controls, audits access, and ensures compliance with policies
-         * - Expert
+         * - :level-expert:`Expert`
            - Designs secure, compliant infrastructure and organisation-wide access-control strategies
 
 .. raw:: html
@@ -444,13 +444,13 @@ Competency Area 7: Workflow engineering and software development
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Runs existing workflows using standard parameters
-         * - Competent
+         * - :level-competent:`Competent`
            - Modifies workflow parameters and resolves routine failures
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Designs and maintains workflows using engines such as Nextflow
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops organisation-wide workflow strategies and optimises distributed execution
 
    .. tab:: 7.2 Containers & reproducibility
@@ -462,13 +462,13 @@ Competency Area 7: Workflow engineering and software development
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Uses existing containers (Docker/Singularity)
-         * - Competent
+         * - :level-competent:`Competent`
            - Builds simple containers for routine analyses
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Designs reproducible containerised environments for pipelines
-         * - Expert
+         * - :level-expert:`Expert`
            - Develops container strategies and maintains internal registries
 
    .. tab:: 7.3 Bioinformatics software
@@ -480,13 +480,13 @@ Competency Area 7: Workflow engineering and software development
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Writes simple scripts following templates
-         * - Competent
+         * - :level-competent:`Competent`
            - Develops small tools and contributes to shared codebases
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Designs robust, maintainable tools and follows best practices (testing, versioning)
-         * - Expert
+         * - :level-expert:`Expert`
            - Leads development of new tools, frameworks, or libraries
 
    .. tab:: 7.4 Version control & collaboration
@@ -498,13 +498,13 @@ Competency Area 7: Workflow engineering and software development
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Uses Git to track changes
-         * - Competent
+         * - :level-competent:`Competent`
            - Works with branches, pull requests, and reviews
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Manages repositories and enforces coding standards
-         * - Expert
+         * - :level-expert:`Expert`
            - Designs development workflows and oversees collaborative engineering practices
 
 .. raw:: html
@@ -531,13 +531,13 @@ Competency Area 8:  Quality Management
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Understand the reason and need for document control processes
-         * - Competent
+         * - :level-competent:`Competent`
            - Can draft and carry out reviews of documentation and provide viable feedback
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Can utilise and navigate controlled documents within the QMS (iPassport) with sufficient skill and knowledge, and can add tasks for users to complete within the QMS
-         * - Expert
+         * - :level-expert:`Expert`
            - Can review, authorise, and publish new documentation within the QMS
 
    .. tab:: 8.2 Validation
@@ -549,13 +549,13 @@ Competency Area 8:  Quality Management
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Understands the purpose of validation and follows established procedures under supervision
-         * - Competent
+         * - :level-competent:`Competent`
            - Performs validation tasks independently, applies protocols correctly, and documents outcomes accurately
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Designs validation plans, evaluates results, and advises on appropriate validation methods
-         * - Expert
+         * - :level-expert:`Expert`
            - Leads validation activities, defines standards and acceptance criteria, and develops organisation-wide validation approaches
 
    .. tab:: 8.3 Auditing
@@ -567,13 +567,13 @@ Competency Area 8:  Quality Management
 
          * - Level
            - Description
-         * - Beginner
+         * - :level-beginner:`Beginner`
            - Understands the purpose of audits and follows established audit procedures under supervision
-         * - Competent
+         * - :level-competent:`Competent`
            - Carries out audit tasks independently, gathers evidence, and documents findings accurately
-         * - Proficient
+         * - :level-proficient:`Proficient`
            - Plans audits, evaluates compliance, identifies non-conformities, and advises on corrective actions
-         * - Expert
+         * - :level-expert:`Expert`
            - Leads audit activities, defines audit strategies, and oversees organisation-wide audit processes
 
 .. raw:: html

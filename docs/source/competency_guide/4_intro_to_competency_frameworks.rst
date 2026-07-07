@@ -23,10 +23,13 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
     
     While the original model defined five stages (novice, advanced beginner, competent, proficient, expert), for the purposes of assessing bioinformatics competency we suggest a simplified version of the model, which focuses on four levels: 
     
-    - :level-beginner:`Beginner`
-    - :level-beginner:`Competent` 
-    - :level-beginner:`Proficient` 
-    - :level-beginner:`Expert`
+    - :level-beginner:`Beginner` 
+
+    - :level-competent:`Competent` 
+    
+    - :level-proficient:`Proficient` 
+    
+    - :level-expert:`Expert`
 
 .. dropdown:: Bloom's taxonomy
 

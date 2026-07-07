@@ -68,8 +68,6 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          text-align: center;
        }
        .flip-card-back {
-         background: #E6F1FB;
-         border-color: #185FA5;
          transform: rotateY(180deg);
          display: flex;
          flex-direction: column;
@@ -83,7 +81,6 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
        }
        .flip-card-back .card-body {
          font-size: 13px;
-         color: #0C447C;
          line-height: 1.5;
          margin: 0;
        }
@@ -92,6 +89,36 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          color: #888;
          margin-top: 0.5rem;
          text-align: center;
+       }
+
+       /* Level-specific back panel colours, matching .level-* pill classes */
+       .flip-card-back.back-beginner {
+         background: #e3f2fd;
+         border-color: #0d47a1;
+       }
+       .flip-card-back.back-beginner .card-body {
+         color: #0d47a1;
+       }
+       .flip-card-back.back-competent {
+         background: #e8f5e9;
+         border-color: #1b5e20;
+       }
+       .flip-card-back.back-competent .card-body {
+         color: #1b5e20;
+       }
+       .flip-card-back.back-proficient {
+         background: #fff8e1;
+         border-color: #e65100;
+       }
+       .flip-card-back.back-proficient .card-body {
+         color: #e65100;
+       }
+       .flip-card-back.back-expert {
+         background: #fce4ec;
+         border-color: #880e4f;
+       }
+       .flip-card-back.back-expert .card-body {
+         color: #880e4f;
        }
        </style>
 
@@ -114,10 +141,10 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
              <div class="flip-card-front">
-               <p class="card-title">Beginner</p>
+               <p class="card-title">1. Beginner</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back">
+             <div class="flip-card-back back-beginner">
                <p class="card-body">Learners at this level have limited experience
                and require guidance and supervision to perform tasks. They are
                developing foundational knowledge and skills but may struggle with
@@ -129,10 +156,10 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
              <div class="flip-card-front">
-               <p class="card-title">Competent</p>
+               <p class="card-title">2. Competent</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back">
+             <div class="flip-card-back back-competent">
                <p class="card-body">Individuals at this level have a solid
                understanding of the domain and can perform tasks with minimal
                supervision. They are able to apply their knowledge to solve
@@ -145,10 +172,10 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
              <div class="flip-card-front">
-               <p class="card-title">Proficient</p>
+               <p class="card-title">3. Proficient</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back">
+             <div class="flip-card-back back-proficient">
                <p class="card-body">Individuals at this level have developed a
                high degree of skill and can perform tasks independently. They are
                able to handle complex and novel situations effectively, drawing
@@ -160,10 +187,10 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
          <div class="flip-card" onclick="flipCard(this)">
            <div class="flip-card-inner">
              <div class="flip-card-front">
-               <p class="card-title">Expert</p>
+               <p class="card-title">4. Expert</p>
                <p class="flip-hint">click for more detail</p>
              </div>
-             <div class="flip-card-back">
+             <div class="flip-card-back back-expert">
                <p class="card-body">Experts possess a deep understanding of the
                domain and can innovate and lead in their field. They are able to
                guide others, make strategic decisions, and contribute to the

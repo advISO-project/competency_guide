@@ -16,10 +16,10 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 - Clear progression pathways for staff development (from beginner to expert)
 - A practical mechanism for demonstrating compliance with accreditation competency requirements
 
+.. _dreyfus-model:
+
 .. dropdown:: Dreyfus Model of Skill Acquisition
 
-    .. _dreyfus-model:
-    
     The Dreyfus Model of Skill Acquisition describes how individuals progress through stages of learning and skill development, ranging from novice to expert, and provides a framework for understanding how people acquire and refine skills over time. The model emphasises the importance of experience, context, and intuition in developing expertise, and is widely used in education, training, and professional development.
 
     While the original model defined five stages (novice, advanced beginner, competent, proficient, expert), for the purposes of assessing bioinformatics competency we suggest a simplified version of the model, which focuses on four levels:
@@ -206,9 +206,9 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
        </div>
 
-.. dropdown:: Bloom's taxonomy
+.. _bloom-taxonomy:
 
-    .. _bloom-taxonomy:
+.. dropdown:: Bloom's taxonomy
 
     Bloom's taxonomy is a hierarchical framework for categorising educational objectives and learning outcomes. It classifies cognitive skills into six levels, from lower-order thinking skills (remembering, understanding) to higher-order thinking skills (applying, analysing, evaluating, creating). Bloom's taxonomy is widely used in curriculum design, assessment, and instructional planning to promote critical thinking and deeper learning.
 

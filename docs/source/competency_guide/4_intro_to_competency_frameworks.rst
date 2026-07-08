@@ -210,11 +210,13 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
 .. dropdown:: Bloom's taxonomy
 
-    Bloom's taxonomy is a hierarchical framework for categorising educational objectives and learning outcomes. It classifies cognitive skills into six levels, from lower-order thinking skills (remembering, understanding) to higher-order thinking skills (applying, analysing, evaluating, creating). Bloom's taxonomy is widely used in curriculum design, assessment, and instructional planning to promote critical thinking and deeper learning.
-
     .. figure:: ../_static/blooms_taxonomy.png
         :align: center
         :width: 650px
+
+    Bloom's taxonomy is a hierarchical framework for categorising educational objectives and learning outcomes. It classifies cognitive skills into six levels, from lower-order thinking skills (remembering, understanding) to higher-order thinking skills (applying, analysing, evaluating, creating). Bloom's taxonomy is widely used in curriculum design, assessment, and instructional planning to promote critical thinking and deeper learning.
+
+    When defining competency levels within our proposed bioinformatics competency framework, we have tried to incorporate Bloom's levels of cognitive complexity into how each competency level is defined. Remember maps to Beginner, reflecting basic recall of facts and concepts. Understand and Apply both map to Competent, reflecting the ability to explain ideas and use information in new situations with minimal supervision. Analyse and Evaluate both map to Proficient, reflecting the ability to draw connections among ideas and justify decisions independently. Create maps to Expert, reflecting the ability to produce new or original work by synthesising knowledge.
 
 ------------------------------------------------------
 

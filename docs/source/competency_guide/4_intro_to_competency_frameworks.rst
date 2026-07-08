@@ -26,166 +26,166 @@ For bioinformatics teams operating under ISO 15189 or ISO 17025, competency fram
 
     .. raw:: html
 
-    <style>
-    .flip-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 16px;
-        margin: 1.5rem 0;
-    }
-    .flip-card {
-        height: 160px;
-        perspective: 1000px;
-        cursor: pointer;
-    }
-    .flip-card-inner {
-        position: relative;
-        width: 100%;
-        height: 100%;
-        transition: transform 0.5s ease;
-        transform-style: preserve-3d;
-    }
-    .flip-card.flipped .flip-card-inner {
-        transform: rotateY(180deg);
-    }
-    .flip-card-front,
-    .flip-card-back {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        backface-visibility: hidden;
-        -webkit-backface-visibility: hidden;
-        border-radius: 8px;
-        padding: 1rem 1.25rem;
-        box-sizing: border-box;
-        border: 0.5px solid #D3D1C7;
-    }
-    .flip-card-front {
-        background: #F8F8F6;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
-    .flip-card-back {
-        transform: rotateY(180deg);
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-    }
-    .flip-card-front .card-title {
-        font-weight: 700;
-        font-size: 16px;
-        color: #1a1a1a;
-        margin: 0 0 0.75rem;
-    }
-    .flip-card-back .card-body {
-        font-size: 13px;
-        color: #FFFFFF;
-        line-height: 1.5;
-        margin: 0;
-    }
-    .flip-hint {
-        font-size: 11px;
-        color: #888;
-        margin-top: 0.5rem;
-        text-align: center;
-    }
+       <style>
+       .flip-grid {
+         display: grid;
+         grid-template-columns: 1fr 1fr;
+         gap: 16px;
+         margin: 1.5rem 0;
+       }
+       .flip-card {
+         height: 160px;
+         perspective: 1000px;
+         cursor: pointer;
+       }
+       .flip-card-inner {
+         position: relative;
+         width: 100%;
+         height: 100%;
+         transition: transform 0.5s ease;
+         transform-style: preserve-3d;
+       }
+       .flip-card.flipped .flip-card-inner {
+         transform: rotateY(180deg);
+       }
+       .flip-card-front,
+       .flip-card-back {
+         position: absolute;
+         width: 100%;
+         height: 100%;
+         backface-visibility: hidden;
+         -webkit-backface-visibility: hidden;
+         border-radius: 8px;
+         padding: 1rem 1.25rem;
+         box-sizing: border-box;
+         border: 0.5px solid #D3D1C7;
+       }
+       .flip-card-front {
+         background: #F8F8F6;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         text-align: center;
+       }
+       .flip-card-back {
+         transform: rotateY(180deg);
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+       }
+       .flip-card-front .card-title {
+         font-weight: 700;
+         font-size: 16px;
+         color: #1a1a1a;
+         margin: 0 0 0.75rem;
+       }
+       .flip-card-back .card-body {
+         font-size: 13px;
+         color: #FFFFFF;
+         line-height: 1.5;
+         margin: 0;
+       }
+       .flip-hint {
+         font-size: 11px;
+         color: #888;
+         margin-top: 0.5rem;
+         text-align: center;
+       }
 
-    /* Level-specific back panel colours, matching Bloom's/competency palette */
-    .flip-card-back.back-beginner {
-        background: #37474F;
-    }
-    .flip-card-back.back-competent {
-        background: #2E7D32;
-    }
-    .flip-card-back.back-proficient {
-        background: #6A3FA0;
-    }
-    .flip-card-back.back-expert {
-        background: #E0398C;
-    }
-    </style>
+       /* Level-specific back panel colours, matching Bloom's/competency palette */
+       .flip-card-back.back-beginner {
+         background: #37474F;
+       }
+       .flip-card-back.back-competent {
+         background: #2E7D32;
+       }
+       .flip-card-back.back-proficient {
+         background: #6A3FA0;
+       }
+       .flip-card-back.back-expert {
+         background: #E0398C;
+       }
+       </style>
 
-    <script>
-    function flipCard(card) {
-        const allCards = document.querySelectorAll('.flip-card');
-        allCards.forEach(function(c) {
-        if (c !== card) {
-            c.classList.remove('flipped');
-        }
-        });
-        card.classList.toggle('flipped');
-    }
-    </script>
+       <script>
+       function flipCard(card) {
+         const allCards = document.querySelectorAll('.flip-card');
+         allCards.forEach(function(c) {
+           if (c !== card) {
+             c.classList.remove('flipped');
+           }
+         });
+         card.classList.toggle('flipped');
+       }
+       </script>
 
     .. raw:: html
 
-    <div class="flip-grid">
+       <div class="flip-grid">
 
-        <div class="flip-card" onclick="flipCard(this)">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-            <p class="card-title">Beginner</p>
-            <p class="flip-hint">click for more detail</p>
-            </div>
-            <div class="flip-card-back back-beginner">
-            <p class="card-body">Learners at this level have limited experience
-            and require guidance and supervision to perform tasks. They are
-            developing foundational knowledge and skills but may struggle with
-            complex or unfamiliar situations.</p>
-            </div>
-        </div>
-        </div>
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Beginner</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back back-beginner">
+               <p class="card-body">Learners at this level have limited experience
+               and require guidance and supervision to perform tasks. They are
+               developing foundational knowledge and skills but may struggle with
+               complex or unfamiliar situations.</p>
+             </div>
+           </div>
+         </div>
 
-        <div class="flip-card" onclick="flipCard(this)">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-            <p class="card-title">Competent</p>
-            <p class="flip-hint">click for more detail</p>
-            </div>
-            <div class="flip-card-back back-competent">
-            <p class="card-body">Individuals at this level have a solid
-            understanding of the domain and can perform tasks with minimal
-            supervision. They are able to apply their knowledge to solve
-            problems and make decisions, but may still require support for
-            more complex or novel situations.</p>
-            </div>
-        </div>
-        </div>
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Competent</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back back-competent">
+               <p class="card-body">Individuals at this level have a solid
+               understanding of the domain and can perform tasks with minimal
+               supervision. They are able to apply their knowledge to solve
+               problems and make decisions, but may still require support for
+               more complex or novel situations.</p>
+             </div>
+           </div>
+         </div>
 
-        <div class="flip-card" onclick="flipCard(this)">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-            <p class="card-title">Proficient</p>
-            <p class="flip-hint">click for more detail</p>
-            </div>
-            <div class="flip-card-back back-proficient">
-            <p class="card-body">Individuals at this level have developed a
-            high degree of skill and can perform tasks independently. They are
-            able to handle complex and novel situations effectively, drawing
-            on their experience and intuition.</p>
-            </div>
-        </div>
-        </div>
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Proficient</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back back-proficient">
+               <p class="card-body">Individuals at this level have developed a
+               high degree of skill and can perform tasks independently. They are
+               able to handle complex and novel situations effectively, drawing
+               on their experience and intuition.</p>
+             </div>
+           </div>
+         </div>
 
-        <div class="flip-card" onclick="flipCard(this)">
-        <div class="flip-card-inner">
-            <div class="flip-card-front">
-            <p class="card-title">Expert</p>
-            <p class="flip-hint">click for more detail</p>
-            </div>
-            <div class="flip-card-back back-expert">
-            <p class="card-body">Experts possess a deep understanding of the
-            domain and can innovate and lead in their field. They are able to
-            guide others, make strategic decisions, and contribute to the
-            advancement of the discipline.</p>
-            </div>
-        </div>
-        </div>
+         <div class="flip-card" onclick="flipCard(this)">
+           <div class="flip-card-inner">
+             <div class="flip-card-front">
+               <p class="card-title">Expert</p>
+               <p class="flip-hint">click for more detail</p>
+             </div>
+             <div class="flip-card-back back-expert">
+               <p class="card-body">Experts possess a deep understanding of the
+               domain and can innovate and lead in their field. They are able to
+               guide others, make strategic decisions, and contribute to the
+               advancement of the discipline.</p>
+             </div>
+           </div>
+         </div>
 
-    </div>
+       </div>
 
 .. _bloom-taxonomy:
 

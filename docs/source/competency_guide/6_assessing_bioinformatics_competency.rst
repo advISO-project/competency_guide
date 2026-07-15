@@ -259,6 +259,20 @@ Where the competency is broad or complex, multiple pieces may be appropriate.
 
 --------------------------------------------------------------------
 
+Assessment records
+------------------
+
+A template for recording competency evidence is provided below.
+
+.. button-link:: ../_static/bioinformatics_competency_assessment_record_v0.1.xlsx
+   :color: primary
+   :expand:
+
+   Download competency assessment template
+
+
+--------------------------------------------------------------------
+
 Ongoing assessment
 ------------------
 

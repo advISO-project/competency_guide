@@ -58,11 +58,9 @@ Assessing competency using portfolios
 A portfolio-based approach is proposed as the primary method for evidencing
 competency, adapted from established practice in programmes such as the NHS
 Scientist Training Programme. Staff self-assess their level, gather
-supporting evidence — analysis outputs, code and workflows, documentation,
-presentations, quality activities, or reflective statements — and submit it
-for review and sign-off by a senior team member. A dedicated template
-supports both individual evidence records and team-wide tracking of
-assessment status, including validity and reassessment timeframes.
+supporting evidence and submit it for review and sign-off by a senior team member. 
+A provide a dedicated template supports both individual evidence records and 
+team-wide tracking of assessment status, including validity and reassessment timeframes.
 
 Mapping competencies to Standard Operating Procedures (SOPs)
 ------------------------------------------------------------------

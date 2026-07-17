@@ -60,7 +60,6 @@ a senior team member.
 
 .. figure:: ../_static/example_competency_evidence.png
    :align: center
-   :width: 400px
    :alt: Example competency evidence record for sub-area 7.1 Pipeline Orchestration,
          showing assessed levels from Beginner to Expert, an evidence statement at
          Proficient level, and an approver sign-off section.

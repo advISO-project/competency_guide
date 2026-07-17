@@ -37,3 +37,38 @@ Competency documents should be treated as living records, updated throughout an 
 
 Tracking skills across the team also provides a foundation for managing training opportunities, prioritising development for specific individuals, and supporting resilience planning. If a particular skills gap is identified across the team, this can be addressed through targeted training or future recruitment. Competency profiles also offer a useful basis for identifying potential mentors and matching mentors with mentees.
 
+
+.. list-table::
+   :header-rows: 1
+   :width: 100
+   :widths: 28 24 24 24
+
+   * - Bioinformatician
+     - 6.1 Compute allocation
+     - 6.2 Software & environments
+     - Full SOP (Independent)
+
+   * - 6.1 Compute allocation
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
+     - :level-competent:`Competent`
+
+   * - 6.2 Software & environments
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
+     - :level-competent:`Competent`
+
+   * - 6.4 System monitoring
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
+     - :level-competent:`Competent`
+
+   * - 7.1 Pipeline orchestration
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
+     - :level-proficient:`Proficient`
+
+   * - 7.2 Containers & reproducibility
+     - :level-beginner:`Beginner`
+     - :level-competent:`Competent`
+     - :level-competent:`Competent`

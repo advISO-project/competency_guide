@@ -536,7 +536,7 @@ Competency Area 8:  Quality Management
          * - :level-competent:`Competent`
            - Can draft and carry out reviews of documentation and provide viable feedback
          * - :level-proficient:`Proficient`
-           - Can utilise and navigate controlled documents within the QMS (iPassport) with sufficient skill and knowledge, and can add tasks for users to complete within the QMS
+           - Can utilise and navigate controlled documents within the QMS with sufficient skill and knowledge, and can add tasks for users to complete within the QMS
          * - :level-expert:`Expert`
            - Can review, authorise, and publish new documentation within the QMS
 

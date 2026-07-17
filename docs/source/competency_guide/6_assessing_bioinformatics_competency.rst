@@ -255,6 +255,12 @@ To support this, we have developed a template that can be used both to
 record individual pieces of evidence and to track assessment status across
 all competency areas.
 
+.. button-link:: ../_static/bioinformatics_competency_assessment_record_v0.1.xlsx
+   :color: primary
+   :expand:
+
+   Download competency assessment template
+
 **Recording individual evidence**
 
 Each competency sub-area has its own evidence record, structured around the
@@ -265,6 +271,7 @@ final level, and signs it off with the date of approval.
 
 .. figure:: ../_static/example_competency_evidence.png
    :align: center
+   :width: 500px
    :alt: Example competency evidence record for sub-area 7.1 Pipeline Orchestration,
          showing assessed levels from Beginner to Expert, an evidence statement at
          Proficient level, and an approver sign-off section.
@@ -283,6 +290,7 @@ within the record, a status warning is generated automatically alongside any com
 
 .. figure:: ../_static/competency_summary_record.png
    :align: center
+   :width: 500px
    :alt: Example competency assessment summary record, listing eight competency
          areas and their sub-areas, each with a colour-coded assessed level and
          date last assessed, alongside validity and warning timeframe settings.
@@ -290,12 +298,6 @@ within the record, a status warning is generated automatically alongside any com
    Figure 3: Example competency assessment summary record, showing assessed
    levels across all competency areas, colour-coded to match the competency
    level scheme, alongside the date each level was last assessed.
-
-.. button-link:: ../_static/bioinformatics_competency_assessment_record_v0.1.xlsx
-   :color: primary
-   :expand:
-
-   Download competency assessment template
 
 --------------------------------------------------------------------
 

@@ -54,11 +54,6 @@ Competency Area 1: Biology and computer science knowledge
          * - :level-expert:`Expert`
            - Develops new understandings of computer science domains to apply to biological problems
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 1 matrix
-   </button>
 
 ------------------------------------------------------------------------------------------------
 
@@ -87,11 +82,6 @@ Competency Area 2: Statistical methods knowledge
          * - :level-expert:`Expert`
            - Oversees selection of advanced statistical methods applicable to specific bioinformatics analyses
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 2 matrix
-   </button>
 
 ------------------------------------------------------------------------------------------------
 
@@ -174,11 +164,6 @@ Competency Area 3: Biological Data Analysis
          * - :level-expert:`Expert`
            - Contributes to new findings and meaningful advancements in bioinformatics through the evaluation and sharing of knowledge
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 3 matrix
-   </button>
 
 ------------------------------------------------------------------------------------------------
 
@@ -244,11 +229,6 @@ Competency Area 4: Biological Data management
          * - :level-expert:`Expert`
            - Develops new data storage and retrieval techniques
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 4 matrix
-   </button>
 
 ------------------------------------------------------------------------------------------------
 
@@ -315,11 +295,6 @@ Competency Area 5: Domain-specific expertise
          * - :level-expert:`Expert`
            - Contributes novel findings about pathogens using genomics. Is able to develop and apply new approaches/ways of analysing pathogen genomic data
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 5 matrix
-   </button>
 
 ------------------------------------------------------------------------------------------------
 
@@ -420,12 +395,6 @@ Competency Area 6:  System administration
          * - :level-expert:`Expert`
            - Designs secure, compliant infrastructure and organisation-wide access-control strategies
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 6 matrix
-   </button>
-
 ------------------------------------------------------------------------------------------------
 
 Competency Area 7: Workflow engineering and software development		
@@ -507,12 +476,6 @@ Competency Area 7: Workflow engineering and software development
          * - :level-expert:`Expert`
            - Designs development workflows and oversees collaborative engineering practices
 
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 7 matrix
-   </button>
-
 ------------------------------------------------------------------------------------------------
 
 Competency Area 8:  Quality Management
@@ -575,11 +538,3 @@ Competency Area 8:  Quality Management
            - Plans audits, evaluates compliance, identifies non-conformities, and advises on corrective actions
          * - :level-expert:`Expert`
            - Leads audit activities, defines audit strategies, and oversees organisation-wide audit processes
-
-.. raw:: html
-
-   <button style="padding:6px 12px; background:#0078d4; color:white; border:none; border-radius:4px; cursor:not-allowed;">
-     Download competency area 8 matrix
-   </button>
-
-|

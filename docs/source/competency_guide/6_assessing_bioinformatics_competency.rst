@@ -60,7 +60,7 @@ a senior team member.
 
 .. figure:: ../_static/example_competency_evidence.png
    :align: center
-   :width: 650px
+   :width: 400px
    :alt: Example competency evidence record for sub-area 7.1 Pipeline Orchestration,
          showing assessed levels from Beginner to Expert, an evidence statement at
          Proficient level, and an approver sign-off section.
@@ -68,6 +68,14 @@ a senior team member.
    Figure 2: Example competency evidence record for sub-area 7.1 Pipeline
    Orchestration, showing the assessed level, supporting evidence statement,
    and reviewer sign-off.
+
+A template for recording competency evidence is provided below:
+
+.. button-link:: ../_static/bioinformatics_competency_assessment_record_v0.1.xlsx
+   :color: primary
+   :expand:
+
+   Download competency assessment template
 
 --------------------------------------------------------------------
 

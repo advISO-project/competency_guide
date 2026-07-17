@@ -78,7 +78,7 @@ authorisation.
 Using the competency framework to support training and development
 -------------------------------------------------------------------------
 
-Competency profiles are not just a record of current skill — they provide a
+Competency profiles are not just a record of current skill, instead they provide a
 basis for identifying development needs, planning training, and
 understanding the overall skill mix and resilience of the team. Core
 activities include tracking available training courses, identifying skills

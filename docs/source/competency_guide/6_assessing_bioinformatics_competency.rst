@@ -255,7 +255,7 @@ To support this, we have developed a template that can be used both to
 record individual pieces of evidence and to track assessment status across
 all competency areas.
 
-.. button-link:: ../_static/bioinformatics_competency_assessment_record_v0.1.xlsx
+.. button-link:: ../../_static/bioinformatics_competency_assessment_record_v0.1.xlsx
    :color: primary
    :expand:
 

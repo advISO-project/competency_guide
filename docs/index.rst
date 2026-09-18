@@ -6,7 +6,7 @@ Welcome to the advISO Bioinformatics Competency Guide
 
 ..  attention::
 
-   This guide is still under development. Please check back for updates, and feel free to provide feedback or suggestions via the `GitHub repository <https://github.com/advISO-project/advISO_validation_guide/issues>`_.
+   This guide is still under development. Please check back for updates, and feel free to provide feedback or suggestions via the `GitHub repository <https://github.com/advISO-project/competency_guide/issues>`_.
 
 This guide provides practical guidance on implementing a bioinformatics competency 
 framework compatible with the requirements of `ISO 15189 <https://www.iso.org/standard/76677.html>`_ 

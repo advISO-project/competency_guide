@@ -48,7 +48,7 @@ laboratories working toward ISO accreditation:
 
    .. grid-item-card:: Performing bioinformatics audits
       :class-card: sd-bg-light sd-text-dark
-      :link: http://www.example.com
+      :link: https://adviso-audit-guide.readthedocs.io/en/latest/
       :link-type: url
       :text-align: center
 

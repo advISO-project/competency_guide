@@ -54,7 +54,9 @@ laboratories working toward ISO accreditation:
       +++
       `Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>`_
 
-.. figure:: ../_static/partner_logos.png
+-------------------------------------
+
+.. figure:: source/_static/partner_logos.png
         :align: center
         :width: 650px
 

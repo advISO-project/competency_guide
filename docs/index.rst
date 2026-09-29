@@ -27,32 +27,32 @@ Other guides in this series
 This guide forms part of the advISO series of practical how-to resources for
 laboratories working toward ISO accreditation:
 
-.. grid:: 1
-   :gutter: 2
+.. grid:: 1 2 3 3
+   :gutter: 3
+   
+   .. grid-item-card:: 📄 SOP Guide
+      :class-card: sd-shadow-sm sd-border-primary
 
-   .. grid-item-card:: SOP writing
-      :class-card: sd-bg-light sd-text-dark
-      :link: https://adviso-sop-guide.readthedocs.io/en/latest/
-      :link-type: url
-      :text-align: center
+      Guidance for writing standard operating procedures (SOPs).
+      
+      +++
+      `Go to SOP Guide <https://adviso-sop-guide.readthedocs.io/en/latest/>`_
 
-      A practical guide to writing SOPs for clinical bioinformatics.
+   .. grid-item-card:: 📋 Validation Guide
+      :class-card: sd-shadow-sm sd-border-primary
 
-   .. grid-item-card:: Validating bioinformatics pipelines
-      :class-card: sd-bg-light sd-text-dark
-      :link: https://adviso-validation-guide.readthedocs.io/en/latest/
-      :link-type: url
-      :text-align: center
+      Guidance for validating bioinformatics pipelines.
+      
+      +++
+      `Go to Validation Guide <https://adviso-validation-guide.readthedocs.io/en/latest/>`_
 
-      How to validate bioinformatics pipelines for ISO accreditation.
-
-   .. grid-item-card:: Performing bioinformatics audits
-      :class-card: sd-bg-light sd-text-dark
-      :link: https://adviso-audit-guide.readthedocs.io/en/latest/
-      :link-type: url
-      :text-align: center
+   .. grid-item-card:: 🔍 Audit Guide
+      :class-card: sd-shadow-sm sd-border-primary
 
       Guidance on planning and conducting bioinformatics audits.
+      
+      +++
+      `Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>`_
 
 .. toctree::
     :hidden:

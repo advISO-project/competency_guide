@@ -27,7 +27,7 @@ Glossary of ISO terms
 As part of this guide, a glossary of ISO terms is provided, offering definitions and bioinformatics-specific translations to facilitate clear communication and shared understanding between wet lab and dry lab teams. It is intended to bridge disciplinary language gaps and promote collaboration across different areas of expertise.
 
 .. image:: _static/glossary_button_competency.png
-   :target: https://adviso-competency-guide.readthedocs.io/en/latest/index.html
+   :target: https://adviso-competency-guide.readthedocs.io/en/latest/source/competency_guide/10_glossary.html
    :alt: advISO Glossary of ISO Terms
    :width: 70%
    :align: center

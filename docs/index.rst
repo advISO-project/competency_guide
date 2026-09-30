@@ -1,5 +1,5 @@
 ===========================================================================
-Welcome to the advISO Bioinformatics Competency Guide
+Welcome to the advISO Competency Guide
 ===========================================================================
 
 **Release:** |release|  [|today|]

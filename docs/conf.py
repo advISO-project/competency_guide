@@ -62,13 +62,6 @@ html_css_files = [
 # Path to the logo
 html_logo = 'source/_static/logo.png'
 
-html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
-    'style_external_links': True,
-    'style_primary_color': '#C0392B',
-}
-
 # -- Options for EPUB output -------------------------------------------------
 
 epub_show_urls = 'footnote'

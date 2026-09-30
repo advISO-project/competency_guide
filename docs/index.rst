@@ -69,3 +69,4 @@ laboratories working toward ISO accreditation:
     source/competency_guide/7_mapping_competencies_to_sops
     source/competency_guide/8_training_development
     source/competency_guide/9_summary
+    source/competency_guide/10_glossary

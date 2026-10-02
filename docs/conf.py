@@ -65,7 +65,8 @@ html_logo = 'source/_static/logo.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
-    'style_external_links': False,
+    'collapse_navigation': False,
+    "navigation_depth": 3,
 }
 
 # -- Options for EPUB output -------------------------------------------------
